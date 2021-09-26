@@ -8,6 +8,9 @@
   <meta name="description" content="NCT playlist" />
   <meta name="author" content="Okdok" />
   <link rel="icon" type="image/png" href="imgs/favicon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
   <script src="https://kit.fontawesome.com/a55bfa0ca6.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="start.css">
   <script src="start.js" defer></script>
@@ -31,7 +34,7 @@
         <i class="far fa-chart-bar"></i>
       </li>
       <li class="navbar__menu__item">
-        일주간
+        일·주간
         <i class="far fa-chart-bar"></i>
       </li>
       <li class="navbar__menu__item">
@@ -52,39 +55,48 @@
       <i class="fas fa-play"></i>
     </div>
     <div class="navTabs__description">
-      엔씨티 노래를<br/>
-      상황별<br/>
-      로 맞춰 듣기
+      <p class="navTabs__description__p">엔씨티 노래를</p>
+      <div class="navTabs__description__box">
+        상황별
+        <i class="fas fa-caret-down"></i>
     </div>
-    <img src="imgs/nct-logo.png" alt="npli phone video" class="navTabs__phoneImg">
+      <p class="navTabs__description__p">로 맞춰 듣기</p>
+    </div>
+    <div class="navTabs__clickImg">
+      <a href="#">
+        <img src="imgs/nct_photo1.jpeg" alt="npli phone video" class="navTabs__clickImg__img">
+      </a>
+    </div>
     <div class="navTabs__click">
       <i class="fas fa-mouse-pointer"></i>
       이미지를 클릭하여 시작하세요
     </div>
     <div class="navTabs__survey">
       <i class="fas fa-poll-h"></i>
-      설문이 종료되었습니다.
+      <p class="navTabs__survey__guide">설문이 종료되었습니다. </p>
     </div>
+    <div class="navTabs__line"></div>
   </section>
 
   <!-- N Search -->
   <section id="nSearch">
-    <div class="nSearch__head">
-      <div class="nSearch__head__title">엔찾기</div>
-      <div class="nSearch__head__I">I</div>
-      <div class="nSearch__head__beta">Beta</div>
-    </div>
-    <div class="nSearch__description">
-      방금 들은 그 엔씨티 노래와<br/>
-      비슷한 곡을 찾아드려요
-    </div>
-    <div class="nSearch__input">
-      <input type="text" class="nSearch__input__searchBar" placeholder="노래 제목을 입력해주세요">
-      <button class="nSearch__input__searchBtn">
-        <i class="fas fa-search"></i>
-      </button>
-    </div>
-    
+    <section class="nSearch__box">
+      <div class="nSearch__head">
+        <p class="nSearch__head__title">엔찾기</p>
+        <i class="fas fa-i-cursor"></i>
+        <p class="nSearch__head__beta">Beta</p>
+      </div>
+      <div class="nSearch__description">
+        방금 들은 그 엔씨티 노래와<br/>
+        비슷한 곡을 찾아드려요
+      </div>
+      <div class="nSearch__input">
+        <input type="text" class="nSearch__input__searchBar" placeholder="노래 제목을 입력해주세요">
+        <button class="nSearch__input__searchBtn">
+          <i class="fas fa-search"></i>
+        </button>
+      </div>
+    </section> 
   </section>
 
   <!-- footer -->
