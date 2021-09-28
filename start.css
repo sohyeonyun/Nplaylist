@@ -4,9 +4,9 @@
   /* Color */
   --color-black: #000000;
   --color-white: #ffffff;
-  --color-light-grey: #cccccc;
-  --color-grey: #adb5bd;
-  --color-dark-grey: #495057;
+  --color-light-gray: #cccccc;
+  --color-gray: #adb5bd;
+  --color-dark-gray: #495057;
   --color-nct-light: #ffffee;
   --color-nct-light-neon: #eff9bb;
   --color-nct-neon: #cced1d;
@@ -69,7 +69,7 @@ button {
   padding: 24px;
   justify-content: space-around;
   font-size: var(--font-regular);
-  color: var(--color-dark-grey);
+  color: var(--color-dark-gray);
   font-weight: var(--weight-medium);
 }
 
@@ -84,7 +84,7 @@ button {
 
 .teamTitle {
   padding-left: 10px;
-  color: var(--color-dark-grey);
+  color: var(--color-dark-gray);
 }
 
 .navbar__menu {
@@ -157,7 +157,7 @@ button {
 }
 
 .fa-caret-down {
-  color: var(--color-grey);
+  color: var(--color-gray);
   font-size: 15px;
   transform: translateX(-10px);
   opacity: 0.5;
@@ -182,7 +182,7 @@ button {
   height: 80px;
   display: flex;
   justify-content: flex-start;
-  border: 1px outset var(--color-grey);
+  border: 1px outset var(--color-gray);
   border-radius: 12px;
   margin-top: 15px;
   padding: 12px;
@@ -206,7 +206,7 @@ button {
 .navTabs__line {
   width: 1000px;
   height: 1px;
-  background-color: var(--color-grey);
+  background-color: var(--color-gray);
   margin: 40px 0 60px 0;
   content: '';
 }
@@ -222,7 +222,7 @@ button {
   width: 560px;
   height: 225px;
   margin: auto;
-  border: 1px outset var(--color-grey);
+  border: 1px outset var(--color-gray);
   border-radius: 12px;
   padding: 30px 35px 15px 35px;
 }
@@ -241,7 +241,7 @@ button {
 
 .fa-i-cursor {
   font-size: 25px;
-  color: var(--color-light-grey);
+  color: var(--color-light-gray);
 }
 
 .nSearch__head__beta {
@@ -295,16 +295,16 @@ input:focus {
 .footer__copyright {
   font-size: 15px;
   font-weight: var(--weight-medium);
-  color: var(--color-grey);
+  color: var(--color-gray);
 }
 
 .footer__description {
   font-size: 13px;
   margin: 3px 0;
-  color: var(--color-grey);
+  color: var(--color-gray);
 }
 
 .footer__madeBy {
   font-size: 10px;
-  color: var(--color-grey);
+  color: var(--color-gray);
 }

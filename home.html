@@ -12,15 +12,18 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
   <script src="https://kit.fontawesome.com/a55bfa0ca6.js" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="start.css">
-  <script src="start.js" defer></script>
+  <link rel="stylesheet" href="home.css">
+  <script src="home.js" defer></script>
 </head>
 <body>
   <!-- navbar -->
   <nav id="navbar">
     <div class="navbar__logo">
       <i class="fas fa-music"></i>
-      <a class="teamTitle" href="#">음원정보팀 52Hz</a>
+      <a class="teamTitle" href="#">
+        <span class="teamTitle__span">음원정보팀 </span>
+        52Hz
+      </a>
     </div>
     <ul class="navbar__menu">
       <li class="navbar__menu__item">홈</li>
@@ -51,7 +54,7 @@
   <!-- categories -->
   <section id="categories">
     <div class="categories__title">
-      <span>My Universe </span>
+      <span>Hot Sauce </span>
       발매, <br/>
       음원정보팀과 함께하세요!
     </div>
@@ -77,29 +80,33 @@
       <i class="fas fa-chevron-right"></i>
     </div>
     <div class="categories__chart">
+
+
       <div class="categories__chartLeft">
-        <div class="categories__chartLeft__sming">
-          My Universe<br/>
+        <div class="categories__chartLeft__box sming">
+          Hot Sauce<br/>
           스밍리스트
         </div>
-        <div class="categories__chartLeft__day">
+        <div class="categories__chartLeft__box day">
           일·주간<br/>
           차트
         </div>
       </div>
+
+
       <div class="categories__chartRight">
         <div class="categories__chartRight__title">
-          <span>My Universe</span>의 현재 실시간 차트 순위
+          <span>Hot Sauce</span>의 현재 실시간 차트 순위
           <a href="#">
             <i class="fas fa-long-arrow-alt-right"></i>
             더보기
           </a>
         </div>
         <div class="categories__chartRight__rank">
-          <div class="chartRight__rank__melon100">
-            <div class="rank__melon100__p">멜론<br/>Top100</div>
-            <div class="rank__melon100__ranking">6</div>
-            <div class="rank__melon100__change">-</div>
+          <div class="chartRight__rank melon100">
+            <div class="rank__p melon100">멜론<br/>Top100</div>
+            <div class="rank__ranking melon100">6</div>
+            <div class="rank__change melon100">-</div>
           </div>
           <div class="chartRight__rank">
             <div class="rank__p">멜론<br/>실시간</div>
@@ -122,10 +129,14 @@
             <div class="rank__change">-</div>
           </div>
         </div>
-        <div class="categories__news">
-          <img src="imgs/nct_photo2.jpeg" alt="NCT news">
-        </div>
       </div>
+    </div>
+  </section>
+  
+  <!-- news -->
+  <section class="categories__news">
+    <div class="categories__news__div">
+      <img src="imgs/nct_photo2.jpeg" alt="NCT news">
     </div>
   </section>
 
