@@ -6,7 +6,8 @@
   --color-white: #ffffff;
   --color-light-gray: #cccccc;
   --color-gray: #adb5bd;
-  --color-dark-gray: #495057;
+  --color-dark-gray: #868e96;
+  --color-dark-gray2: #495057;
   --color-nct-light: #ffffee;
   --color-nct-light-neon: #eff9bb;
   --color-nct-neon: #cced1d;
@@ -64,12 +65,13 @@ button {
 
 /* navbar */
 #navbar {
+  width: 1100px;
+  margin: auto;
   display: flex;
   align-items: center;
-  padding: 24px;
-  justify-content: space-around;
-  font-size: var(--font-regular);
-  color: var(--color-dark-gray);
+  justify-content: space-between;
+  padding: 24px 0 48px 0;
+  color: var(--color-dark-gray2);
   font-weight: var(--weight-medium);
 }
 
@@ -79,20 +81,26 @@ button {
 }
 
 .fa-music {
-  font-size: 40px;
+  font-size: 44px;
 }
 
 .teamTitle {
-  padding-left: 10px;
-  color: var(--color-dark-gray);
+  margin-left: 10px;
+  font-size: 20px;
+  color: var(--color-dark-gray2);
+}
+
+.teamTitle__span {
+  font-size: 18px;
 }
 
 .navbar__menu {
   display: flex;
+  font-size: var(--font-regular);
 }
 
 .navbar__menu__item {
-  padding: 16px;
+  margin: 16px;
   cursor: pointer;
   border-radius: 2px;
 }

@@ -7,6 +7,7 @@
   --color-light-gray: #cccccc;
   --color-gray: #adb5bd;
   --color-dark-gray: #868e96;
+  --color-dark-gray2: #495057;
   --color-nct-light: #ffffee;
   --color-nct-light-neon: #eff9bb;
   --color-nct-neon: #cced1d;
@@ -71,7 +72,7 @@ button {
   align-items: center;
   justify-content: space-between;
   padding: 24px 0 48px 0;
-  color: var(--color-dark-gray);
+  color: var(--color-dark-gray2);
   font-weight: var(--weight-medium);
 }
 
@@ -87,7 +88,7 @@ button {
 .teamTitle {
   margin-left: 10px;
   font-size: 20px;
-  color: var(--color-dark-gray);
+  color: var(--color-dark-gray2);
 }
 
 .teamTitle__span {
@@ -100,7 +101,7 @@ button {
 }
 
 .navbar__menu__item {
-  padding: 16px;
+  margin: 16px;
   cursor: pointer;
   border-radius: 2px;
 }
