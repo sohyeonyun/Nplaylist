@@ -78,9 +78,10 @@ button {
   font-weight: var(--weight-medium);
 }
 
-.navbar__logo {
+.team {
   display: flex;
   align-items: center;
+  color: white;
 }
 
 .fa-music {
@@ -88,24 +89,30 @@ button {
 }
 
 .teamTitle {
-  margin-left: 10px;
-  font-size: 20px;
-  color: white;
+  margin-right: 5px;
+  margin-left: 15px;
+  font-size: 17px;
 }
 
-.teamTitle__span {
-  font-size: 18px;
+.teamName {
+  font-weight: var(--weight-bold);
+  font-size: 20px;
 }
 
 .navbar__menu {
   display: flex;
-  font-size: var(--font-regular);
 }
 
 .navbar__menu__item {
   margin: 16px;
   cursor: pointer;
   border-radius: 2px;
+}
+
+.navbar__menu__item a {
+  color: white;
+  font-size: 20px;
+  margin: 0;
 }
 
 .navbar__menu .fa-play {
@@ -118,7 +125,6 @@ button {
 .navbar__menu .far {
   opacity: 0.5;
 }
-
 
 /* guide */
 #guide {

@@ -18,35 +18,45 @@
 <body>
   <!-- navbar -->
   <nav id="navbar">
-    <div class="navbar__logo">
+    <a class="team" href="#" onclick='location.href="home.html"'>
       <i class="fas fa-music"></i>
-      <a class="teamTitle" href="#">
-        <span class="teamTitle__span">음원정보팀 </span>
-        52Hz
-      </a>
-    </div>
+      <div class="teamTitle">음원정보팀 </div>
+      <div class="teamName">52Hz</div>
+    </a>
     <ul class="navbar__menu">
-      <li class="navbar__menu__item">홈</li>
       <li class="navbar__menu__item">
-        엔플리
+        <a class="teamTitle" href="#" onclick='location.href="home.html"'>홈</a>
+      </li>
+      <li class="navbar__menu__item">
+        <a class="teamTitle" href="#" onclick='location.href="start.html"'>엔플리</a>
         <i class="fas fa-play"></i>
       </li>
-      <li class="navbar__menu__item">준비</li>
       <li class="navbar__menu__item">
-        실시간
-        <i class="far fa-chart-bar"></i>
+        <a class="teamTitle" href="#" onclick='location.href="ready.html"'>준비</a>
       </li>
       <li class="navbar__menu__item">
-        일·주간
-        <i class="far fa-chart-bar"></i>
+        <a class="teamTitle" href="#" onclick='location.href="start.html"'>
+          실시간
+          <i class="far fa-chart-bar"></i>
+        </a>
       </li>
       <li class="navbar__menu__item">
-        멜론
-        <i class="far fa-file-alt"></i>
+        <a class="teamTitle" href="#" onclick='location.href="start.html"'>
+          일·주간
+          <i class="far fa-chart-bar"></i>
+        </a>
       </li>
       <li class="navbar__menu__item">
-        가온
-        <i class="far fa-file-alt"></i>
+        <a class="teamTitle" href="#" onclick='location.href="start.html"'>
+          멜론
+          <i class="far fa-file-alt"></i>
+        </a>
+      </li>
+      <li class="navbar__menu__item">
+        <a class="teamTitle" href="#" onclick='location.href="start.html"'>
+          가온
+          <i class="far fa-file-alt"></i>
+        </a>
       </li>
     </ul>
   </nav>
@@ -90,11 +100,11 @@
 
   <div class="situation">
     <div class="keywords__line1">
-      <i class="fas fa-chevron-circle-up"></i>
-      <!-- <i class="fas fa-chevron-circle-down"></i> -->
+      <!-- <i class="fas fa-chevron-circle-up"></i> -->
+      <i class="fas fa-chevron-circle-down"></i>
       <div class="keywords__name">상황별</div>
     </div>
-    <div class="keywords__line2">
+    <div class="keywords__line2 invisible">
       <div class="keyword">🌸 봄노래</div>
       <div class="keyword">여름노래</div>
       <div class="keyword">가을노래</div>
@@ -118,23 +128,63 @@
 
   <div class="feeling">
     <div class="keywords__line1">
-      <i class="fas fa-chevron-circle-up"></i>
-      <!-- <i class="fas fa-chevron-circle-down"></i> -->
+      <!-- <i class="fas fa-chevron-circle-up"></i> -->
+      <i class="fas fa-chevron-circle-down"></i>
       <div class="keywords__name">기분별</div>
     </div>
-    <div class="keywords__line2">
-      <div class="keyword">감성을 자극하는</div>
+    <div class="keywords__line2 invisible">
+      <div class="keyword">감성자극</div>
+      <div class="keyword">기분전환</div>
+      <div class="keyword">내적댄스</div>
+      <div class="keyword">스트레스 아웃</div>
+      <div class="keyword">자신감 뿜뿜</div>
+      <div class="keyword">위로가 필요할 때</div>
+      <div class="keyword">혼자 있고 싶을 때</div>
+      <div class="keyword">흥이 날 때</div>
+      <div class="keyword">전투력 상승</div>
+      <div class="keyword">누군가 그리울 때</div>
+      <div class="keyword">하루를 되돌아보며</div>
+      <div class="keyword">지친하루</div>
+      <div class="keyword">나만 알기 아까운</div>
     </div>
   </div>
 
   <div class="mood">
     <div class="keywords__line1">
-      <i class="fas fa-chevron-circle-up"></i>
-      <!-- <i class="fas fa-chevron-circle-down"></i> -->
+      <!-- <i class="fas fa-chevron-circle-up"></i> -->
+      <i class="fas fa-chevron-circle-down"></i>
       <div class="keywords__name">곡 분위기별</div>
     </div>
-    <div class="keywords__line2">
+    <div class="keywords__line2 invisible">
       <div class="keyword">청량</div>
+      <div class="keyword">마라</div>
+      <div class="keyword">네오</div>
+      <div class="keyword">섹시</div>
+      <div class="keyword">달달</div>
+      <div class="keyword">힙합</div>
+      <div class="keyword">몽환</div>
+      <div class="keyword">잔잔한</div>
+      <div class="keyword">발라드</div>
+      <div class="keyword">신나는</div>
+      <div class="keyword">댄스곡</div>
+    </div>
+  </div>
+
+  <div class="groups">
+    <div class="keywords__line1">
+      <!-- <i class="fas fa-chevron-circle-up"></i> -->
+      <i class="fas fa-chevron-circle-down"></i>
+      <div class="keywords__name">그룹별</div>
+    </div>
+    <div class="keywords__line2 invisible">
+      <div class="keyword">NCT 127</div>
+      <div class="keyword">NCT DREAM</div>
+      <div class="keyword">WayV</div>
+      <div class="keyword">NCT U</div>
+      <div class="keyword">OST</div>
+      <div class="keyword">SM STATION</div>
+      <div class="keyword">FEATURING</div>
+      <div class="keyword">SPECIAL</div>
     </div>
   </div>
 </section>
