@@ -38,6 +38,8 @@ const goNextBtn = document.querySelector('#goNext');
 let selectedBtnNum = 0;
 keywordLines.forEach( keywordLine => {
   keywordLine.addEventListener('click', (event) => {
+    // console.log(event.target.parentElement.parentNode);
+    // console.log(event.target);
     // 버블링 방지
     if(event.target === event.currentTarget) {
       return;
@@ -88,4 +90,24 @@ selectedLines.forEach(selectedLine => {
       toggleBtn.style.opacity = '1';
     }
   });
+})
+
+
+// 만들어주세요 버튼 클릭 시, 선택한 키워드 localStorage에 저장
+const goNext = document.querySelector('#goNext');
+const keyword = document.querySelectorAll('.keyword');
+goNext.addEventListener('click', (event) => {
+  if(selectedBtnNum == 0) {
+    return;
+  }
+  // 선택된 키워드
+  const selected = document.querySelectorAll('.keyword.selected');
+  // for debug!
+  selected.forEach((item, index) => {
+    console.log(`item${index}: ${item.textContent}`);
+  });
+
+  localStorage.clear();
+  selected.forEach((item, index) => localStorage.setItem(`item${index}`, item.textContent));
+  location.href="results.html";
 })

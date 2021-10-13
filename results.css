@@ -1,0 +1,155 @@
+/* Global */
+
+:root {
+  /* Color */
+  --color-black: #000000;
+  --color-white: #ffffff;
+  --color-light-gray: #cccccc;
+  --color-gray: #adb5bd;
+  --color-dark-gray: #868e96;
+  --color-dark-gray2: #495057;
+  --color-nct-light: #ffffee;
+  --color-nct-light-neon: #eff9bb;
+  --color-nct-neon: #cced1d;
+  --color-nct-dark-green: #6f8111;
+
+  /* Font size */
+  --font-large: 48px;
+  --font-medium: 28px;
+  --font-regular: 20px;
+  --font-small: 16px;
+  --font-micro: 14px;
+
+  /* Font weight */
+  --weight-black: 900;
+  --weight-bold: 700;
+  --weight-medium: 500;
+  --weight-regular: 400;
+  --weight-light: 300;
+
+  /* Size */
+  --size-border-radius: 4px;
+}
+
+/* Universal tags */
+* {
+  box-sizing: border-box;
+  background-color: var(--color-nct-light);
+}
+
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+  margin: 0;
+  cursor: default;
+}
+
+a {
+  text-decoration: none;
+  list-style: none;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  list-style: none;
+}
+
+button {
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+/* navbar */
+#navbar {
+  width: 1100px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 0 48px 0;
+  color: var(--color-dark-gray2);
+  font-weight: var(--weight-medium);
+}
+
+.team {
+  display: flex;
+  align-items: center;
+  color: var(--color-dark-gray2);
+}
+
+.fa-music {
+  font-size: 44px;
+}
+
+.teamTitle {
+  margin-right: 5px;
+  margin-left: 15px;
+  font-size: 17px;
+}
+
+.teamName {
+  font-weight: var(--weight-bold);
+  font-size: 20px;
+}
+
+.navbar__menu {
+  display: flex;
+}
+
+.navbar__menu__item {
+  margin: 16px;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+.navbar__menu__item a {
+  color: var(--color-dark-gray2);
+  font-size: 20px;
+  margin: 0;
+}
+
+.navbar__menu .fa-play {
+  font-size: 14px;
+  position: relative;
+  top: -9px;
+  left: -3px;
+}
+
+.navbar__menu .far {
+  opacity: 0.5;
+}
+
+
+
+
+
+
+
+
+/* footer */
+#footer {
+  text-align: center;
+  margin: 80px 0 50px 0;
+}
+
+.footer__copyright {
+  font-size: 15px;
+  font-weight: var(--weight-medium);
+  color: var(--color-gray);
+}
+
+.footer__description {
+  font-size: 13px;
+  margin: 3px 0;
+  color: var(--color-gray);
+}
+
+.footer__madeBy {
+  font-size: 10px;
+  color: var(--color-gray);
+}

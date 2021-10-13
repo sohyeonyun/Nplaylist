@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>엔플리 | 음원정보팀</title>
+  <meta name="description" content="NCT playlist" />
+  <meta name="author" content="Okdok" />
+  <link rel="icon" type="image/png" href="imgs/favicon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/a55bfa0ca6.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="results.css">
+  <script src="results.js" defer></script>
+</head>
+<body>
+  <!-- navbar -->
+  <nav id="navbar">
+    <a class="team" href="#" onclick='location.href="home.html"'>
+      <i class="fas fa-music"></i>
+      <div class="teamTitle">음원정보팀 </div>
+      <div class="teamName">52Hz</div>
+    </a>
+    <ul class="navbar__menu">
+      <li class="navbar__menu__item">
+        <a class="teamTitle" href="#" onclick='location.href="home.html"'>홈</a>
+      </li>
+      <li class="navbar__menu__item">
+        <a class="teamTitle" href="#" onclick='location.href="start.html"'>엔플리</a>
+        <i class="fas fa-play"></i>
+      </li>
+      <li class="navbar__menu__item">
+        <a class="teamTitle" href="#" onclick='location.href="ready.html"'>준비</a>
+      </li>
+      <li class="navbar__menu__item">
+        <a class="teamTitle" href="#" onclick='location.href="start.html"'>
+          실시간
+          <i class="far fa-chart-bar"></i>
+        </a>
+      </li>
+      <li class="navbar__menu__item">
+        <a class="teamTitle" href="#" onclick='location.href="start.html"'>
+          일·주간
+          <i class="far fa-chart-bar"></i>
+        </a>
+      </li>
+      <li class="navbar__menu__item">
+        <a class="teamTitle" href="#" onclick='location.href="start.html"'>
+          멜론
+          <i class="far fa-file-alt"></i>
+        </a>
+      </li>
+      <li class="navbar__menu__item">
+        <a class="teamTitle" href="#" onclick='location.href="start.html"'>
+          가온
+          <i class="far fa-file-alt"></i>
+        </a>
+      </li>
+    </ul>
+  </nav>
+
+
+  <!-- selected keywords  -->
+  <section id="selected">
+    <div class="selected__container">
+      <div class="selected__title">
+        선택한 키워드
+      </div>
+      <ul class="selected">
+        <li>키1</li>
+        <li>키2</li>
+        <li>키3</li>
+      </ul>
+      <div class="selected__num">
+        바탕으로 총 26곡을 선택해봤어영~
+      </div>
+    </div>
+  </section>
+
+  <!-- music app link -->
+  <section id="musicLink">
+    <div class="musicLink__melon">멜론</div>
+    <div class="musicLink__genie">지니</div>
+    <div class="musicLink__bugs">벅스</div>
+    <div class="musicLink__flo">플로</div>
+    <div class="musicLink__vibe">바이브</div>
+    <div class="musicLink__youtube">유튜브 뮤직</div>
+  </section>
+
+  <!-- music list -->
+  <section id="musicList">
+    <div class="musicInfo">
+      <div class="albumArt"></div>
+      <div class="musicTitle"></div>
+      <div class="artist"></div>
+      <div class="matchNum"></div>
+    </div>
+  </section>
+
+
+  <!-- 데이터 함 보까~ -->
+  <div class="items">
+    
+  </div>
+
+
+
+
+
+
+
+  <!-- footer -->
+  <footer id="footer">
+    <div class="footer__copyright">Copyright © Team 52Hz for NCT</div>
+    <div class="footer__description">
+      2020년 1월 17일 이후 발매된 음원부터 기록하고 있습니다.<br/>
+      이 웹페이지는 PC에 최적화되어 있습니다.
+    </div>
+    <div class="footer__madeBy">
+      This template is made by 
+      <a href="#">Colorlib</a>
+    </div>
+  </footer>
+</body>
+</html>
