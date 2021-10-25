@@ -1,212 +1,223 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>엔플리 | 음원정보팀</title>
-  <meta name="description" content="NCT playlist" />
-  <meta name="author" content="Okdok" />
-  <link rel="icon" type="image/png" href="imgs/favicon.png" />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
-  <script src="https://kit.fontawesome.com/a55bfa0ca6.js" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="keywords.css">
-  <script src="keywords.js" defer></script>
-</head>
-<body>
-  <!-- navbar -->
-  <nav id="navbar">
-    <a class="team" href="#" onclick='location.href="home.html"'>
-      <i class="fas fa-music"></i>
-      <div class="teamTitle">음원정보팀 </div>
-      <div class="teamName">52Hz</div>
-    </a>
-    <ul class="navbar__menu">
-      <li class="navbar__menu__item">
-        <a class="teamTitle" href="#" onclick='location.href="home.html"'>홈</a>
-      </li>
-      <li class="navbar__menu__item">
-        <a class="teamTitle" href="#" onclick='location.href="start.html"'>엔플리</a>
-        <i class="fas fa-play"></i>
-      </li>
-      <li class="navbar__menu__item">
-        <a class="teamTitle" href="#" onclick='location.href="ready.html"'>준비</a>
-      </li>
-      <li class="navbar__menu__item">
-        <a class="teamTitle" href="#" onclick='location.href="start.html"'>
-          실시간
-          <i class="far fa-chart-bar"></i>
-        </a>
-      </li>
-      <li class="navbar__menu__item">
-        <a class="teamTitle" href="#" onclick='location.href="start.html"'>
-          일·주간
-          <i class="far fa-chart-bar"></i>
-        </a>
-      </li>
-      <li class="navbar__menu__item">
-        <a class="teamTitle" href="#" onclick='location.href="start.html"'>
-          멜론
-          <i class="far fa-file-alt"></i>
-        </a>
-      </li>
-      <li class="navbar__menu__item">
-        <a class="teamTitle" href="#" onclick='location.href="start.html"'>
-          가온
-          <i class="far fa-file-alt"></i>
-        </a>
-      </li>
-    </ul>
-  </nav>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>엔플리 | 음원정보팀</title>
+    <meta name="description" content="NCT playlist" />
+    <meta name="author" content="Okdok" />
+    <link rel="icon" type="image/png" href="imgs/favicon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/a55bfa0ca6.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="keywords.css" />
+    <script src="keywords.js" defer></script>
+  </head>
+  <body>
+    <!-- navbar -->
+    <nav id="navbar">
+      <a class="team" href="#" onclick='location.href="home.html"'>
+        <i class="fas fa-music"></i>
+        <div class="teamTitle">음원정보팀</div>
+        <div class="teamName">52Hz</div>
+      </a>
+      <ul class="navbar__menu">
+        <li class="navbar__menu__item">
+          <a class="teamTitle" href="#" onclick='location.href="home.html"'
+            >홈</a
+          >
+        </li>
+        <li class="navbar__menu__item">
+          <a class="teamTitle" href="#" onclick='location.href="start.html"'
+            >엔플리</a
+          >
+          <i class="fas fa-play"></i>
+        </li>
+        <li class="navbar__menu__item">
+          <a class="teamTitle" href="#" onclick='location.href="ready.html"'
+            >준비</a
+          >
+        </li>
+        <li class="navbar__menu__item">
+          <a class="teamTitle" href="#" onclick='location.href="start.html"'>
+            실시간
+            <i class="far fa-chart-bar"></i>
+          </a>
+        </li>
+        <li class="navbar__menu__item">
+          <a class="teamTitle" href="#" onclick='location.href="start.html"'>
+            일·주간
+            <i class="far fa-chart-bar"></i>
+          </a>
+        </li>
+        <li class="navbar__menu__item">
+          <a class="teamTitle" href="#" onclick='location.href="start.html"'>
+            멜론
+            <i class="far fa-file-alt"></i>
+          </a>
+        </li>
+        <li class="navbar__menu__item">
+          <a class="teamTitle" href="#" onclick='location.href="start.html"'>
+            가온
+            <i class="far fa-file-alt"></i>
+          </a>
+        </li>
+      </ul>
+    </nav>
 
-  <!-- select Title -->
-  <section id="selectTitle">
-    <div class="selectTitle__1">키워드를 골라</div>
-    <div class="selectTitle__2">나만의 <span>엔플리</span>를</div>
-    <div class="selectTitle__3">완성하세요</div>
-    <div class="selectTitle__description">
-      *키워드 종류에 관계 없이 최대 3개 선택 가능
-    </div>
-  </section>
+    <!-- select Title -->
+    <section id="selectTitle">
+      <div class="selectTitle__1">키워드를 골라</div>
+      <div class="selectTitle__2">나만의 <span>엔플리</span>를</div>
+      <div class="selectTitle__3">완성하세요</div>
+      <div class="selectTitle__description">
+        *키워드 종류에 관계 없이 최대 3개 선택 가능
+      </div>
+    </section>
 
-  <!-- realtime recomm -->
-  <section id="realtimeRecomm">
-    <div class="realtimeRecomm__left">
-      <div class="realtimeRecomm__left__title">실시간 추천 조합</div>
-      <i class="fab fa-searchengin"></i>
-    </div>
-    <div class="realtimeRecomm__right">
-      <div class="realtimeRecomm__right__1">산책하며, 걸으며</div>
-      <div class="realtimeRecomm__right__plus">+</div>
-      <div class="realtimeRecomm__right__2">힙합</div>
-    </div>
-  </section>
+    <!-- realtime recomm -->
+    <section id="realtimeRecomm">
+      <div class="realtimeRecomm__left">
+        <div class="realtimeRecomm__left__title">실시간 추천 조합</div>
+        <i class="fab fa-searchengin"></i>
+      </div>
+      <div class="realtimeRecomm__right">
+        <div class="realtimeRecomm__right__1">산책하며, 걸으며</div>
+        <div class="realtimeRecomm__right__plus">+</div>
+        <div class="realtimeRecomm__right__2">힙합</div>
+      </div>
+    </section>
 
-  <!-- keywords -->
-  <section id="keywords">
-    <div class="recommKeywords">
-      <div class="keywords__line1">
-        <i class="fas fa-chevron-circle-up"></i>
-        <!-- <i class="fas fa-chevron-circle-down"></i> -->
-        <div class="keywords__name">추천 키워드</div>
-        <div class="keywords__description">*단독 선택만 가능합니다.</div>
+    <!-- keywords -->
+    <section id="keywords">
+      <div class="recommKeywords">
+        <div class="keywords__line1">
+          <i class="fas fa-chevron-circle-up"></i>
+          <!-- <i class="fas fa-chevron-circle-down"></i> -->
+          <div class="keywords__name">추천 키워드</div>
+          <div class="keywords__description">*단독 선택만 가능합니다.</div>
+        </div>
+        <div class="keywords__line2">
+          <div class="keyword">My Universe</div>
+        </div>
       </div>
-      <div class="keywords__line2">
-        <div class="keyword">My Universe</div>
-      </div>
-    </div>
 
-    <div class="situation">
-      <div class="keywords__line1">
-        <!-- <i class="fas fa-chevron-circle-up"></i> -->
-        <i class="fas fa-chevron-circle-down"></i>
-        <div class="keywords__name">상황별</div>
+      <div class="situation">
+        <div class="keywords__line1">
+          <!-- <i class="fas fa-chevron-circle-up"></i> -->
+          <i class="fas fa-chevron-circle-down"></i>
+          <div class="keywords__name">상황별</div>
+        </div>
+        <div class="keywords__line2 invisible">
+          <div class="keyword">봄노래</div>
+          <div class="keyword">여름노래</div>
+          <div class="keyword">가을노래</div>
+          <div class="keyword">겨울노래</div>
+          <div class="keyword">굿모닝</div>
+          <div class="keyword">나른한오후</div>
+          <div class="keyword">자기전</div>
+          <div class="keyword">새벽감성</div>
+          <div class="keyword">햇살가득</div>
+          <div class="keyword">비가주륵</div>
+          <div class="keyword">눈이펑펑</div>
+          <div class="keyword">공부할때</div>
+          <div class="keyword">산책할때</div>
+          <div class="keyword">운동할때</div>
+          <div class="keyword">여행갈때</div>
+          <div class="keyword">출근길에</div>
+          <div class="keyword">드라이브</div>
+          <div class="keyword">집으로가는길</div>
+          <div class="keyword">월요병퇴치</div>
+          <div class="keyword">신나는불금</div>
+          <div class="keyword">밤샘노동요</div>
+          <div class="keyword">방구석콘서트</div>
+          <div class="keyword">설렘가득LOVE</div>
+          <div class="keyword">이별후유증</div>
+          <div class="keyword">행운을부르는</div>
+        </div>
       </div>
-      <div class="keywords__line2 invisible">
-        <div class="keyword">봄노래</div>
-        <div class="keyword">여름노래</div>
-        <div class="keyword">가을노래</div>
-        <div class="keyword">겨울노래</div>
-        <div class="keyword">굿모닝</div>
-        <div class="keyword">나른한오후</div>
-        <div class="keyword">자기전</div>
-        <div class="keyword">새벽감성</div>
-        <div class="keyword">햇살가득</div>
-        <div class="keyword">비가주륵</div>
-        <div class="keyword">눈이펑펑</div>
-        <div class="keyword">공부할때</div>
-        <div class="keyword">산책할때</div>
-        <div class="keyword">운동할때</div>
-        <div class="keyword">여행갈때</div>
-        <div class="keyword">출근길에</div>
-        <div class="keyword">드라이브</div>
-        <div class="keyword">집으로가는길</div>
-        <div class="keyword">월요병퇴치</div>
-        <div class="keyword">신나는불금</div>
-        <div class="keyword">밤샘노동요</div>
-        <div class="keyword">설렘가득LOVE</div>
-        <div class="keyword">이별후유증</div>
-        <div class="keyword">행운을부르는</div>
-      </div>
-    </div>
 
-    <div class="feeling">
-      <div class="keywords__line1">
-        <!-- <i class="fas fa-chevron-circle-up"></i> -->
-        <i class="fas fa-chevron-circle-down"></i>
-        <div class="keywords__name">기분별</div>
+      <div class="feeling">
+        <div class="keywords__line1">
+          <!-- <i class="fas fa-chevron-circle-up"></i> -->
+          <i class="fas fa-chevron-circle-down"></i>
+          <div class="keywords__name">기분별</div>
+        </div>
+        <div class="keywords__line2 invisible">
+          <div class="keyword">기분전환</div>
+          <div class="keyword">나만듣기아까운</div>
+          <div class="keyword">내적댄스</div>
+          <div class="keyword">스트레스아웃</div>
+          <div class="keyword">울고싶은날</div>
+          <div class="keyword">자신감뿜뿜</div>
+          <div class="keyword">전투력상승</div>
+          <div class="keyword">힐링이필요해</div>
+          <div class="keyword">해피바이러스</div>
+        </div>
       </div>
-      <div class="keywords__line2 invisible">
-        <div class="keyword">기분전환</div>
-        <div class="keyword">나만듣기아까운</div>
-        <div class="keyword">내적댄스</div>
-        <div class="keyword">스트레스아웃</div>
-        <div class="keyword">울고싶은날</div>
-        <div class="keyword">자신감뿜뿜</div>
-        <div class="keyword">전투력상승</div>
-        <div class="keyword">힐링이필요해</div>
-        <div class="keyword">해피바이러스</div>
-      </div>
-    </div>
 
-    <div class="mood">
-      <div class="keywords__line1">
-        <!-- <i class="fas fa-chevron-circle-up"></i> -->
-        <i class="fas fa-chevron-circle-down"></i>
-        <div class="keywords__name">곡 분위기별</div>
+      <div class="mood">
+        <div class="keywords__line1">
+          <!-- <i class="fas fa-chevron-circle-up"></i> -->
+          <i class="fas fa-chevron-circle-down"></i>
+          <div class="keywords__name">곡 분위기별</div>
+        </div>
+        <div class="keywords__line2 invisible">
+          <div class="keyword">상큼청량</div>
+          <div class="keyword">마라네오</div>
+          <div class="keyword">치명섹시</div>
+          <div class="keyword">달달설렘</div>
+          <div class="keyword">몽환적인</div>
+          <div class="keyword">비트맛집힙합</div>
+          <div class="keyword">잔잔한/발라드</div>
+          <div class="keyword">이지리스닝</div>
+          <div class="keyword">수능금지곡</div>
+        </div>
       </div>
-      <div class="keywords__line2 invisible">
-        <div class="keyword">상큼청량</div>
-        <div class="keyword">마라네오</div>
-        <div class="keyword">치명섹시</div>
-        <div class="keyword">달달설렘</div>
-        <div class="keyword">몽환적인</div>
-        <div class="keyword">비트맛집힙합</div>
-        <div class="keyword">잔잔한/발라드</div>
-        <div class="keyword">이지리스닝</div>
-        <div class="keyword">수능금지곡</div>
-      </div>
-    </div>
 
-    <div class="groups">
-      <div class="keywords__line1">
-        <!-- <i class="fas fa-chevron-circle-up"></i> -->
-        <i class="fas fa-chevron-circle-down"></i>
-        <div class="keywords__name">그룹별</div>
+      <div class="groups">
+        <div class="keywords__line1">
+          <!-- <i class="fas fa-chevron-circle-up"></i> -->
+          <i class="fas fa-chevron-circle-down"></i>
+          <div class="keywords__name">그룹별</div>
+        </div>
+        <div class="keywords__line2 invisible">
+          <div class="keyword">NCT127</div>
+          <div class="keyword">NCTDREAM</div>
+          <div class="keyword">WayV</div>
+          <div class="keyword">NCTU</div>
+          <div class="keyword">OST</div>
+          <div class="keyword">SMSTATION</div>
+          <div class="keyword">FEATURING</div>
+          <div class="keyword">SPECIAL</div>
+        </div>
       </div>
-      <div class="keywords__line2 invisible">
-        <div class="keyword">NCT127</div>
-        <div class="keyword">NCTDREAM</div>
-        <div class="keyword">WayV</div>
-        <div class="keyword">NCTU</div>
-        <div class="keyword">OST</div>
-        <div class="keyword">SMSTATION</div>
-        <div class="keyword">FEATURING</div>
-        <div class="keyword">SPECIAL</div>
+    </section>
+
+    <!-- go to Next -->
+    <section id="goNext">
+      <btn class="goNext__btn"> 지금 만들어 주세요! </btn>
+    </section>
+
+    <!-- footer -->
+    <footer id="footer">
+      <div class="footer__copyright">Copyright © Team 52Hz for NCT</div>
+      <div class="footer__description">
+        2020년 1월 17일 이후 발매된 음원부터 기록하고 있습니다.<br />
+        이 웹페이지는 PC에 최적화되어 있습니다.
       </div>
-    </div>
-  </section>
-
-  <!-- go to Next -->
-  <section id="goNext">
-    <btn class="goNext__btn">
-      지금 만들어 주세요!
-    </btn>
-  </section>
-
-  <!-- footer -->
-  <footer id="footer">
-    <div class="footer__copyright">Copyright © Team 52Hz for NCT</div>
-    <div class="footer__description">
-      2020년 1월 17일 이후 발매된 음원부터 기록하고 있습니다.<br/>
-      이 웹페이지는 PC에 최적화되어 있습니다.
-    </div>
-    <div class="footer__madeBy">
-      This template is made by 
-      <a href="#">Colorlib</a>
-    </div>
-  </footer>
-</body>
+      <div class="footer__madeBy">
+        This template is made by
+        <a href="#">Colorlib</a>
+      </div>
+    </footer>
+  </body>
 </html>
