@@ -220,20 +220,15 @@ function findTaggedSongs(songs) {
 // json 수정 후 수정 필요
 function createHTMLItem(song, tagCnt) {
   const item = document.createElement('div');
+  const title = song.song ? song.song : song.Song; // 태그 수정 필요
+  const image = song.image ? song.image : song.Image;
+  const artist = song.artist ? song.artist : song.Artist;
+
   item.setAttribute('class', 'musicItem');
-  if (song.song) {
-    item.innerHTML = `
-    <div class="item">
-      <img src="${song.image}" alt="" class="item__thumbnail" />
-      <span class="item__description">${song.song}, ${song.artist}, (${tagCnt}/${tags.length})</span>
-    </div>
-  `;
-    return item;
-  }
   item.innerHTML = `
     <div class="item">
-      <img src="${song.Image}" alt="" class="item__thumbnail" />
-      <span class="item__description">${song.Song}, ${song.Artist}, (${tagCnt}/${tags.length})</span>
+      <img src="${image}" alt="" class="item__thumbnail" />
+      <span class="item__description">${title}, ${artist}, (${tagCnt}/${tags.length})</span>
     </div>
   `;
   return item;
