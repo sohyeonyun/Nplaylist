@@ -10,6 +10,7 @@ Python3 (노래 정보 크롤링용)
 ## 2. 기능 소개
 ### 2.1 NCT playlist
 상황별, 기분별, 곡 분위기별, 그룹별 태그 선택을 통해 원하는 노래 듣기
+<img width="720" alt="LP" src="https://user-images.githubusercontent.com/57862001/140313937-b98a244b-fc33-4735-90e5-43f25f594886.png">
 
 ### 2.2 MBTI별 나랑 맞는 멤버는?
 
