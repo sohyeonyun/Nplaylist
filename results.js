@@ -309,6 +309,15 @@ song6.addEventListener('animationend', () => {
   console.log('animation ended');
 });
 
+song6.addEventListener('animationcancel', () => {
+  let active_in = song6.classList.contains('active_in');
+  let active_out = song6.classList.contains('active_out');
+  active_in && getVisualSongsForIn() && toggleActiveIn();
+  active_out && getVisualSongsForOut() && toggleActiveOut();
+
+  console.log('animation canceled');
+});
+
 function getVisualSongsForIn() {
   centerSongIdx--;
   song0.innerHTML = createHTMLItem(songs[centerSongIdx - 3]);
@@ -362,10 +371,12 @@ function zoom(event) {
       console.log('In');
       centerSongIdx > 3 &&
         !song6.classList.contains('active_in') &&
+        !song6.classList.contains('active_out') &&
         toggleActiveIn();
     } else {
       console.log('Out');
       centerSongIdx < songs.length - 4 &&
+        !song6.classList.contains('active_in') &&
         !song6.classList.contains('active_out') &&
         toggleActiveOut();
     }

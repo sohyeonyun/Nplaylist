@@ -46,7 +46,8 @@
 /* Universal tags */
 * {
   box-sizing: border-box;
-  background-color: var(--color-nct-light);
+  /* background-color: var(--color-nct-light); */
+  background-color: #f6f4f4;
 }
 
 body {
