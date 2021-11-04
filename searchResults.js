@@ -7,11 +7,14 @@ function createHTMLItem(data) {
   const artist = data.artist ? data.artist : data.Artist;
 
   item.innerHTML = `
-        <div class="musicItem">
-          <img src="${image}" alt="" class="item__thumbnail" />
-          <span class="item__description">${title}, ${artist}</span>
+      <div class="musicItem">
+        <img src="${image}" alt="thumbnail" class="item__thumbnail" />
+        <div class="item__right" />
+          <div class="item__right__title">${title}</div>
+          <div class="item__right__artist">${artist}</div>
         </div>
-  `;
+      </div>
+    `;
 }
 
 function loadLocalStorage() {
@@ -20,5 +23,4 @@ function loadLocalStorage() {
   console.log(data);
   createHTMLItem(data);
 }
-
 loadLocalStorage();

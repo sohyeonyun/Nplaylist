@@ -9,8 +9,7 @@ let merged = {};
 let mergeCnt = 0;
 let matchedArray;
 let id;
-
-// matchedArray[id]
+let currentIndex = -1; // 현재 키보드가 가리키고 있는 li 태그의 인덱스
 
 async function fetchNCT127() {
   return fetch('data/nct127.json')
@@ -35,7 +34,7 @@ async function fetchNCTJSON() {
 
 function findMatches(wordToMatch, json) {
   return json.filter(song => {
-    const regex = new RegExp(wordToMatch, 'gi');
+    const regex = new RegExp('^' + wordToMatch, 'gi'); // '^' : 해당 문자로 시작하는 문자열만 탐색 -> 무한적아 같은거 못함
     return (
       (song.Song && song.Song.match(regex)) ||
       (song.song && song.song.match(regex))
@@ -45,51 +44,91 @@ function findMatches(wordToMatch, json) {
 
 function displayInputValue() {
   matchedArray = findMatches(searchInput.value, JSON_NCT);
-  console.log(searchInput.value, matchedArray);
+  currentIndex = -1;
 
   if (searchInput.value === '' || !matchedArray.length) {
+    matchedArray = [];
     relContainer.classList.add('hide');
   } else {
     relContainer.classList.remove('hide');
     fillSearch(matchedArray);
+    console.log(searchInput.value, matchedArray);
   }
 }
 searchInput.addEventListener('input', displayInputValue);
 
-const fillSearch = suggestArr => {
+function createHTMLItem(idx, song, image, artist) {
+  const item = document.createElement('li');
+  item.innerHTML = `
+    <div class="musicItem" data-id="${idx}">
+      <img src="${image}" alt="thumbnail" class="item__thumbnail" />
+      <div class="item__right" />
+        <div class="item__right__title">${song}</div>
+        <div class="item__right__artist">${artist}</div>
+      </div>
+    </div>
+  `;
+  return item;
+}
+
+function fillSearch(suggestArr) {
   ul.innerHTML = '';
   suggestArr.forEach((el, idx) => {
     const song = el.song ? el.song : el.Song; // 태그 수정 필요
     const image = el.image ? el.image : el.Image;
     const artist = el.artist ? el.artist : el.Artist;
-
-    const item = document.createElement('li');
-    item.innerHTML = `
-      <div class="musicItem" data-id="${idx}">
-        <img src="${image}" alt="" class="item__thumbnail" />
-        <span class="item__description">${song}, ${artist}</span>
-      </div>
-    `;
+    const item = createHTMLItem(idx, song, image, artist);
     ul.appendChild(item);
   });
-};
+}
 
-function goNextPage(event) {
-  let text = '';
-  if (event.target.tagName == 'DIV') {
-    text = event.path[0].childNodes[3].innerHTML;
-    id = event.path[0].getAttribute('data-id');
-  } else if (event.target.tagName == 'SPAN' || event.target.tagName == 'IMG') {
-    text = event.path[1].childNodes[3].innerHTML;
-    id = event.path[1].getAttribute('data-id');
-  }
-  console.log(JSON.stringify(matchedArray[id]));
-
+function saveLocalStorage(key, item) {
   localStorage.clear();
-  localStorage.setItem('obj', JSON.stringify(matchedArray[id]));
+  localStorage.setItem(key, item);
+}
+
+function saveAndGoToNext(event) {
+  id =
+    event.path[1].getAttribute('data-id') ||
+    event.path[2].getAttribute('data-id');
+  console.log(id, JSON.stringify(matchedArray[id]));
+
+  saveLocalStorage('obj', JSON.stringify(matchedArray[id]));
   location.href = `searchResults.html`;
 }
-ul.addEventListener('click', goNextPage);
+ul.addEventListener('click', saveAndGoToNext);
+
+function handleKeyDown(e) {
+  if (!ul.childNodes[0]) {
+    // 검색 안했을 경우 종료
+    return;
+  }
+  switch (e.keyCode) {
+    case 38: //up
+      if (currentIndex <= -1) break;
+      ul.childNodes[currentIndex--].classList.remove('pressed');
+      if (currentIndex == -1) return;
+      ul.childNodes[currentIndex].classList.add('pressed');
+      break;
+    case 40: // down
+      if (currentIndex >= matchedArray.length - 1) break;
+      currentIndex++;
+      if (currentIndex > 0)
+        ul.childNodes[currentIndex - 1].classList.remove('pressed');
+      ul.childNodes[currentIndex].classList.add('pressed');
+      break;
+    case 13: // enter
+      if (currentIndex <= -1) break;
+      id = e.path[1].nextSibling.nextElementSibling.children[0]
+        .querySelector('.pressed .musicItem')
+        .getAttribute('data-id');
+      saveLocalStorage('obj', JSON.stringify(matchedArray[id]));
+      location.href = `searchResults.html`;
+    default:
+      return;
+  }
+}
+window.addEventListener('keydown', handleKeyDown);
 
 fetchNCTJSON()
   .then(json => (JSON_NCT = Object.values(json)))

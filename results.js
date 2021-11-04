@@ -14,6 +14,16 @@ let groupTagCnt = 0;
 let concertTagCnt = 0;
 let tags = [];
 let unusedTags = [];
+let songs = [];
+let songsCnt;
+const LP = document.querySelector('.LP__black');
+const song0 = document.querySelector('.song0');
+const song1 = document.querySelector('.song1');
+const song2 = document.querySelector('.song2');
+const song3 = document.querySelector('.song3');
+const song4 = document.querySelector('.song4');
+const song5 = document.querySelector('.song5');
+const song6 = document.querySelector('.song6');
 
 // 1. json 에서 데이터 가져오기
 function fetchNCT127() {
@@ -45,8 +55,10 @@ function loadTags() {
 }
 
 function displayTags() {
-  const container = document.querySelector('.selected');
-  container.innerHTML = tags.map(tag => `<li>${tag}</li>`).join('');
+  // const container = document.querySelector('.selected');
+  // container.innerHTML = tags.map(tag => `<li>${tag}</li>`).join('');
+  const selected__keywords = document.querySelector('.selected__keywords');
+  selected__keywords.innerHTML = tags.map(tag => `#${tag} `).join('') + '에';
 }
 
 loadTags();
@@ -218,32 +230,55 @@ function findTaggedSongs(songs) {
 
 // 5. 찾은 노래들 보여주기
 // json 수정 후 수정 필요
-function createHTMLItem(song, tagCnt) {
-  const item = document.createElement('div');
+function createHTMLItem(song) {
+  if (Object.keys(song).length === 0) {
+    return '';
+  }
   const title = song.song ? song.song : song.Song; // 태그 수정 필요
   const image = song.image ? song.image : song.Image;
   const artist = song.artist ? song.artist : song.Artist;
+  const album = song.album ? song.album : song.Album;
 
-  item.setAttribute('class', 'musicItem');
-  item.innerHTML = `
-    <div class="item">
-      <img src="${image}" alt="" class="item__thumbnail" />
-      <span class="item__description">${title}, ${artist}, (${tagCnt}/${tags.length})</span>
-    </div>
+  const HTMLtext = `
+          <img class="image" src="${image}"></img>
+          <div class="description">
+            <div class="title">${title}</div>
+            <div class="artist">${artist}</div>
+            <div class="album">${album}</div>
+          </div>
   `;
-  return item;
+  //${tagCnt}/${tags.length}
+  return HTMLtext;
 }
 
 function displaySongs(songs) {
   const selected__num = document.querySelector('.selected__num');
-  selected__num.innerText = `바탕으로 총 ${
+  selected__num.innerText = `적합한 ${
     Object.keys(songs).length
-  } 곡 선택했어요.`;
+  }개의 곡을 추천합니다`;
 
-  const container = document.querySelector('.itemContainer');
-  Object.values(songs).forEach(song => {
-    container.appendChild(createHTMLItem(song, song.tagCnt));
-  });
+  // const container = document.querySelector('.itemContainer');
+  // Object.values(songs).forEach(song => {
+  //   container.appendChild(createHTMLItem(song, song.tagCnt));
+  // });
+  return songs;
+}
+
+function allocateSongs(completed_songs) {
+  songs = Object.values(completed_songs);
+  songsCnt = Object.keys(songs).length;
+
+  songs.unshift({}, {}, {});
+  songs.push({}, {}, {});
+  console.log(songsCnt, songs);
+}
+
+function initLP() {
+  // LP판 초기화
+  song3.innerHTML = createHTMLItem(songs[3]);
+  song4.innerHTML = createHTMLItem(songs[4]);
+  song5.innerHTML = createHTMLItem(songs[5]);
+  song6.innerHTML = createHTMLItem(songs[6]);
 }
 
 // 함수 호출
@@ -253,4 +288,87 @@ fetchNCT127()
   .then(songs => findTaggedSongs(songs))
   // .then(songs => console.log(`[Completed Tagging] : ${JSON.stringify(songs)}`))
   .then(songs => displaySongs(songs))
+  .then(songs => allocateSongs(songs))
+  .then(songs => initLP())
   .catch(console.log);
+
+// ---------------------------------------------
+// ---------------------------------------------
+// ---------------------------------------------
+// ---------------------------------------------
+// ---------------------------------------------
+
+let centerSongIdx = 3; // LP판 중앙에 올 노래 인덱스
+
+song6.addEventListener('animationend', () => {
+  let active_in = song6.classList.contains('active_in');
+  let active_out = song6.classList.contains('active_out');
+  active_in && getVisualSongsForIn() && toggleActiveIn();
+  active_out && getVisualSongsForOut() && toggleActiveOut();
+
+  console.log('animation ended');
+});
+
+function getVisualSongsForIn() {
+  centerSongIdx--;
+  song0.innerHTML = createHTMLItem(songs[centerSongIdx - 3]);
+  song1.innerHTML = createHTMLItem(songs[centerSongIdx - 2]);
+  song2.innerHTML = createHTMLItem(songs[centerSongIdx - 1]);
+  song3.innerHTML = createHTMLItem(songs[centerSongIdx]);
+  song4.innerHTML = createHTMLItem(songs[centerSongIdx + 1]);
+  song5.innerHTML = createHTMLItem(songs[centerSongIdx + 2]);
+  song6.innerHTML = createHTMLItem(songs[centerSongIdx + 3]);
+  return true;
+}
+
+function getVisualSongsForOut() {
+  centerSongIdx++;
+  song0.innerHTML = createHTMLItem(songs[centerSongIdx - 3]);
+  song1.innerHTML = createHTMLItem(songs[centerSongIdx - 2]);
+  song2.innerHTML = createHTMLItem(songs[centerSongIdx - 1]);
+  song3.innerHTML = createHTMLItem(songs[centerSongIdx]);
+  song4.innerHTML = createHTMLItem(songs[centerSongIdx + 1]);
+  song5.innerHTML = createHTMLItem(songs[centerSongIdx + 2]);
+  song6.innerHTML = createHTMLItem(songs[centerSongIdx + 3]);
+  return true;
+}
+
+function toggleActiveIn() {
+  song0.classList.toggle('active_in');
+  song1.classList.toggle('active_in');
+  song2.classList.toggle('active_in');
+  song3.classList.toggle('active_in');
+  song4.classList.toggle('active_in');
+  song5.classList.toggle('active_in');
+  song6.classList.toggle('active_in');
+}
+
+function toggleActiveOut() {
+  song0.classList.toggle('active_out');
+  song1.classList.toggle('active_out');
+  song2.classList.toggle('active_out');
+  song3.classList.toggle('active_out');
+  song4.classList.toggle('active_out');
+  song5.classList.toggle('active_out');
+  song6.classList.toggle('active_out');
+}
+
+let cnt = 0;
+function zoom(event) {
+  cnt++;
+  if (cnt % 20 == 0) {
+    console.log(cnt, event.deltaY);
+    if (event.deltaY < 0) {
+      console.log('In');
+      centerSongIdx > 3 &&
+        !song6.classList.contains('active_in') &&
+        toggleActiveIn();
+    } else {
+      console.log('Out');
+      centerSongIdx < songs.length - 4 &&
+        !song6.classList.contains('active_out') &&
+        toggleActiveOut();
+    }
+  }
+}
+document.onwheel = zoom;

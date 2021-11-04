@@ -230,6 +230,30 @@ button {
   color: blueviolet;
 }
 
+.musicItem {
+  background-color: tomato;
+  display: flex;
+  width: 350px;
+}
+
+.item__right {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.item__right__title {
+  margin-left: 3%;
+  line-height: 50px;
+  font-size: 18px;
+}
+
+.item__right__artist {
+  margin-right: 2%;
+  line-height: 50px;
+  font-size: 14px;
+}
+
 /* footer */
 #footer {
   text-align: center;
