@@ -4,6 +4,7 @@
 
 ## 1. 사용 기술
 HTML, CSS, Vanilla JS
+
 Python3 (노래 정보 크롤링용)
 
 
