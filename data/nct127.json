@@ -1,31 +1,19 @@
 {
   "nct127": [
     {
-      "Song": "Lemonade",
-      "Image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20210918005239.0",
-      "Artist": "NCT 127",
-      "Album": "Sticker - The 3rd Album",
-      "tags": [
-        "나른한오후",
-        "운동할때",
-        "출근길에",
-        "월요병퇴치",
-        "신나는불금",
-        "밤샘노동요",
-        "내적댄스",
-        "스트레스아웃",
-        "자신감뿜뿜",
-        "전투력상승",
-        "마라네오",
-        "치명섹시",
-        "비트맛집힙합"
-      ]
+      "title": "Favorite (Vampire)",
+      "artist": "NCT 127",
+      "album": "Favorite - The 3rd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/204282/20428261.jpg?version=20211027010045.0",
+      "uid": { "bugs": "32364650", "genie": "94722890", "melon": "34153240" },
+      "tags": ["NO_SONG"]
     },
     {
-      "Song": "Sticker",
-      "Image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20210918005239.0",
-      "Artist": "NCT 127",
-      "Album": "Sticker - The 3rd Album",
+      "title": "Sticker",
+      "artist": "NCT 127",
+      "album": "Sticker - The 3rd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20211020003801.0",
+      "uid": { "bugs": "6128868", "genie": "94226747", "melon": "33901877" },
       "tags": [
         "운동할때",
         "월요병퇴치",
@@ -37,10 +25,11 @@
       ]
     },
     {
-      "Song": "영웅 (英雄; Kick It)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone – The 2nd Album",
+      "title": "영웅 (英雄; Kick It)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
+      "uid": { "bugs": "5869599", "genie": "89884884", "melon": "32393669" },
       "tags": [
         "운동할때",
         "출근길에",
@@ -58,10 +47,33 @@
       ]
     },
     {
-      "Song": "TOUCH",
-      "Image": "https://image.bugsm.co.kr/album/images/50/7138/713872.jpg?version=20190515013237.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 2018 EMPATHY",
+      "title": "Lemonade",
+      "artist": "NCT 127",
+      "album": "Sticker - The 3rd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20211020003801.0",
+      "uid": { "bugs": "6128255", "genie": "94226748", "melon": "33901878" },
+      "tags": [
+        "나른한오후",
+        "운동할때",
+        "출근길에",
+        "월요병퇴치",
+        "신나는불금",
+        "밤샘노동요",
+        "내적댄스",
+        "스트레스아웃",
+        "자신감뿜뿜",
+        "전투력상승",
+        "마라네오",
+        "치명섹시",
+        "비트맛집힙합"
+      ]
+    },
+    {
+      "title": "TOUCH",
+      "artist": "NCT 127",
+      "album": "NCT 2018 EMPATHY",
+      "image": "https://image.bugsm.co.kr/album/images/50/7138/713872.jpg?version=20190515013237.0",
+      "uid": { "bugs": "5150575", "genie": "87830004", "melon": "30950540" },
       "tags": [
         "봄노래",
         "여름노래",
@@ -81,10 +93,11 @@
       ]
     },
     {
-      "Song": "Cherry Bomb",
-      "Image": "https://image.bugsm.co.kr/album/images/50/201028/20102826.jpg?version=20190515004237.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 CHERRY BOMB - The 3rd Mini Album",
+      "title": "Cherry Bomb",
+      "artist": "NCT 127",
+      "album": "NCT #127 CHERRY BOMB - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/201028/20102826.jpg?version=20190515004237.0",
+      "uid": { "bugs": "30686363", "genie": "87212728", "melon": "30470845" },
       "tags": [
         "운동할때",
         "출근길에",
@@ -103,31 +116,67 @@
       ]
     },
     {
-      "Song": "Punch",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage",
+      "title": "Road Trip",
+      "artist": "NCT 127",
+      "album": "Sticker - The 3rd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20211020003801.0",
+      "uid": { "bugs": "6128034", "genie": "94226755", "melon": "33901885" },
       "tags": [
-        "운동할때",
-        "출근길에",
-        "월요병퇴치",
-        "신나는불금",
-        "밤샘노동요",
-        "스트레스아웃",
-        "자신감뿜뿜",
-        "전투력상승",
-        "마라네오",
-        "비트맛집힙합",
-        "ONLYTITLE"
+        "여름노래",
+        "나른한오후",
+        "잠들기전",
+        "햇살가득",
+        "비가주룩",
+        "공부할때",
+        "산책할때",
+        "드라이브",
+        "집으로가는길",
+        "설렘가득LOVE",
+        "행운을부르는",
+        "기분전환",
+        "나만알기아까운",
+        "힐링이필요해",
+        "해피바이러스",
+        "상큼청량",
+        "달달설렘",
+        "잔잔한/발라드",
+        "이지리스닝"
       ]
     },
     {
-      "Song": "無限的我 (무한적아;Limitless)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/6117/611771.jpg?version=20190402041124.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 LIMITLESS - The 2nd Mini Album",
+      "title": "Dreamer",
+      "artist": "NCT 127",
+      "album": "Sticker - The 3rd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20211020003801.0",
+      "uid": { "bugs": "6127788", "genie": "94226756", "melon": "33901886" },
       "tags": [
-        "",
+        "여름노래",
+        "굿모닝",
+        "나른한오후",
+        "햇살가득",
+        "공부할때",
+        "산책할때",
+        "드라이브",
+        "집으로가는길",
+        "행운을부르는",
+        "기분전환",
+        "나만알기아까운",
+        "스트레스아웃",
+        "울고싶은날",
+        "힐링이필요해",
+        "해피바이러스",
+        "상큼청량",
+        "잔잔한/발라드",
+        "이지리스닝"
+      ]
+    },
+    {
+      "title": "無限的我 (무한적아;Limitless)",
+      "artist": "NCT 127",
+      "album": "NCT #127 LIMITLESS - The 2nd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/6117/611771.jpg?version=20190402041124.0",
+      "uid": { "bugs": "4840271", "genie": "86856619", "melon": "30187087" },
+      "tags": [
         "잠들기전",
         "새벽감성",
         "신나는불금",
@@ -138,206 +187,11 @@
       ]
     },
     {
-      "Song": "우산 (Love Song)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone – The 2nd Album",
-      "tags": [
-        "봄노래",
-        "나른한오후",
-        "비가주룩",
-        "공부할때",
-        "산책할때",
-        "집으로가는길",
-        "설렘가득LOVE",
-        "기분전환",
-        "나만알기아까운",
-        "울고싶은날",
-        "힐링이필요해",
-        "상큼청량",
-        "달달설렘",
-        "잔잔한/발라드",
-        "이지리스닝"
-      ]
-    },
-    {
-      "Song": "Regular (Korean Ver.)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402042557.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regular-Irregular - The 1st Album",
-      "tags": [
-        "운동할때",
-        "신나는불금",
-        "밤샘노동요",
-        "행운을부르는",
-        "내적댄스",
-        "스트레스아웃",
-        "자신감뿜뿜",
-        "마라네오",
-        "치명섹시",
-        "ONLYTITLE"
-      ]
-    },
-    {
-      "Song": "Save",
-      "Image": "https://image.bugsm.co.kr/album/images/50/204004/20400421.jpg?version=20210625004559.0",
-      "Artist": "NCT 127",
-      "Album": "Save",
-      "tags": [
-        "운동할때",
-        "신나는불금",
-        "밤샘노동요",
-        "내적댄스",
-        "스트레스아웃",
-        "마라네오",
-        "비트맛집힙합"
-      ],
-      "그룹별": "SPECIAL"
-    },
-    {
-      "Song": "소방차 (Fire Truck)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/5749/574911.jpg?version=20190402042304.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 - The 1st Mini Album",
-      "tags": [
-        "운동할때",
-        "출근길에",
-        "월요병퇴치",
-        "신나는불금",
-        "밤샘노동요",
-        "내적댄스",
-        "스트레스아웃",
-        "자신감뿜뿜",
-        "전투력상승",
-        "마라네오",
-        "비트맛집힙합",
-        "수능금지곡",
-        "ONLYTITLE"
-      ]
-    },
-    {
-      "Song": "Road Trip",
-      "Image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20210918005239.0",
-      "Artist": "NCT 127",
-      "Album": "Sticker - The 3rd Album",
-      "tags": [
-        "여름노래",
-        "나른한오후",
-        "잠들기전",
-        "햇살가득",
-        "비가주룩",
-        "공부할때",
-        "산책할때",
-        "드라이브",
-        "집으로가는길",
-        "설렘가득LOVE",
-        "행운을부르는",
-        "기분전환",
-        "나만알기아까운",
-        "힐링이필요해",
-        "해피바이러스",
-        "상큼청량",
-        "달달설렘",
-        "잔잔한/발라드",
-        "이지리스닝"
-      ]
-    },
-    {
-      "Song": "Simon Says",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402041854.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regulate - The 1st Album Repackage",
-      "tags": [
-        "운동할때",
-        "출근길에",
-        "월요병퇴치",
-        "신나는불금",
-        "밤샘노동요",
-        "내적댄스",
-        "스트레스아웃",
-        "자신감뿜뿜",
-        "전투력상승",
-        "마라네오",
-        "비트맛집힙합",
-        "수능금지곡",
-        "ONLYTITLE"
-      ]
-    },
-    {
-      "Song": "Dreamer",
-      "Image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20210918005239.0",
-      "Artist": "NCT 127",
-      "Album": "Sticker - The 3rd Album",
-      "tags": [
-        "여름노래",
-        "굿모닝",
-        "나른한오후",
-        "햇살가득",
-        "공부할때",
-        "산책할때",
-        "드라이브",
-        "집으로가는길",
-        "행운을부르는",
-        "기분전환",
-        "나만알기아까운",
-        "스트레스아웃",
-        "울고싶은날",
-        "힐링이필요해",
-        "해피바이러스",
-        "상큼청량",
-        "잔잔한/발라드",
-        "이지리스닝"
-      ]
-    },
-    {
-      "Song": "Superhuman",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202531/20253147.jpg?version=20190726003541.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 WE ARE SUPERHUMAN - The 4th Mini Album",
-      "tags": [
-        "운동할때",
-        "출근길에",
-        "월요병퇴치",
-        "신나는불금",
-        "밤샘노동요",
-        "행운을부르는",
-        "내적댄스",
-        "스트레스아웃",
-        "자신감뿜뿜",
-        "힐링이필요해",
-        "마라네오",
-        "ONLYTITLE"
-      ]
-    },
-    {
-      "Song": "Elevator (127F)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201105002502.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone – The 2nd Album",
-      "tags": [
-        "가을노래",
-        "겨울노래",
-        "나른한오후",
-        "잠들기전",
-        "공부할때",
-        "산책할때",
-        "드라이브",
-        "집으로가는길",
-        "기분전환",
-        "나만알기아까운",
-        "내적댄스",
-        "힐링이필요해",
-        "해피바이러스",
-        "상큼청량",
-        "달달설렘",
-        "이지리스닝"
-      ]
-    },
-    {
-      "Song": "내일의 나에게 (The Rainy Night)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20210918005239.0",
-      "Artist": "NCT 127",
-      "Album": "Sticker - The 3rd Album",
+      "title": "내일의 나에게 (The Rainy Night)",
+      "artist": "NCT 127",
+      "album": "Sticker - The 3rd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20211020003801.0",
+      "uid": { "bugs": "6129002", "genie": "94226751", "melon": "33901881" },
       "tags": [
         "겨울노래",
         "잠들기전",
@@ -353,23 +207,43 @@
       ]
     },
     {
-      "Song": "Welcome To My Playground",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402041558.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regulate - The 1st Album Repackage",
+      "title": "Punch",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone The Final Round - The 2nd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
+      "uid": { "bugs": "5906551", "genie": "90198911", "melon": "32588768" },
+      "tags": [
+        "운동할때",
+        "출근길에",
+        "월요병퇴치",
+        "신나는불금",
+        "밤샘노동요",
+        "스트레스아웃",
+        "자신감뿜뿜",
+        "전투력상승",
+        "마라네오",
+        "비트맛집힙합",
+        "ONLYTITLE"
+      ]
+    },
+    {
+      "title": "우산 (Love Song)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
+      "uid": { "bugs": "5863161", "genie": "89884892", "melon": "32393677" },
       "tags": [
         "봄노래",
-        "여름노래",
-        "굿모닝",
-        "햇살가득",
+        "나른한오후",
+        "비가주룩",
         "공부할때",
         "산책할때",
-        "드라이브",
         "집으로가는길",
+        "설렘가득LOVE",
         "기분전환",
         "나만알기아까운",
+        "울고싶은날",
         "힐링이필요해",
-        "해피바이러스",
         "상큼청량",
         "달달설렘",
         "잔잔한/발라드",
@@ -377,31 +251,54 @@
       ]
     },
     {
-      "Song": "Baby Don't Like It (나쁜 짓)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/6117/611771.jpg?version=20190402041124.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 LIMITLESS - The 2nd Mini Album",
+      "title": "Regular (Korean Ver.)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regular-Irregular - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402042557.0",
+      "uid": { "bugs": "5447542", "genie": "88291260", "melon": "31345637" },
       "tags": [
-        "새벽감성",
-        "비가주룩",
-        "이별후유증",
-        "나만알기아까운",
+        "운동할때",
+        "신나는불금",
+        "밤샘노동요",
+        "행운을부르는",
+        "내적댄스",
+        "스트레스아웃",
+        "자신감뿜뿜",
+        "마라네오",
         "치명섹시",
-        "잔잔한/발라드"
+        "ONLYTITLE"
       ]
     },
     {
-      "Song": "Breakfast",
-      "Image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20210918005239.0",
-      "Artist": "NCT 127",
-      "Album": "Sticker - The 3rd Album",
+      "title": "Breakfast",
+      "artist": "NCT 127",
+      "album": "Sticker - The 3rd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20211020003801.0",
+      "uid": { "bugs": "6129000", "genie": "94226749", "melon": "33901879" },
       "tags": ["잠들기전", "새벽감성", "치명섹시", "몽환적인"]
     },
     {
-      "Song": "Magic Carpet Ride",
-      "Image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20210918005239.0",
-      "Artist": "NCT 127",
-      "Album": "Sticker - The 3rd Album",
+      "title": "Save",
+      "artist": "NCT 127",
+      "album": "Save",
+      "image": "https://image.bugsm.co.kr/album/images/50/204004/20400421.jpg?version=20210625004559.0",
+      "uid": { "bugs": "32248928", "genie": "93436137", "melon": "33541917" },
+      "tags": [
+        "운동할때",
+        "신나는불금",
+        "밤샘노동요",
+        "내적댄스",
+        "스트레스아웃",
+        "마라네오",
+        "비트맛집힙합"
+      ]
+    },
+    {
+      "title": "Magic Carpet Ride",
+      "artist": "NCT 127",
+      "album": "Sticker - The 3rd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20211020003801.0",
+      "uid": { "bugs": "6127792", "genie": "94226754", "melon": "33901884" },
       "tags": [
         "겨울노래",
         "잠들기전",
@@ -416,10 +313,11 @@
       ]
     },
     {
-      "Song": "다시 만나는 날 (Promise You)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20210918005239.0",
-      "Artist": "NCT 127",
-      "Album": "Sticker - The 3rd Album",
+      "title": "다시 만나는 날 (Promise You)",
+      "artist": "NCT 127",
+      "album": "Sticker - The 3rd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20211020003801.0",
+      "uid": { "bugs": "6129005", "genie": "94226757", "melon": "33901887" },
       "tags": [
         "나른한오후",
         "잠들기전",
@@ -434,10 +332,33 @@
       ]
     },
     {
-      "Song": "같은 시선 (Focus)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20210918005239.0",
-      "Artist": "NCT 127",
-      "Album": "Sticker - The 3rd Album",
+      "title": "소방차 (Fire Truck)",
+      "artist": "NCT 127",
+      "album": "NCT #127 - The 1st Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/5749/574911.jpg?version=20190402042304.0",
+      "uid": { "bugs": "4757643", "genie": "86422768", "melon": "8258953" },
+      "tags": [
+        "운동할때",
+        "출근길에",
+        "월요병퇴치",
+        "신나는불금",
+        "밤샘노동요",
+        "내적댄스",
+        "스트레스아웃",
+        "자신감뿜뿜",
+        "전투력상승",
+        "마라네오",
+        "비트맛집힙합",
+        "수능금지곡",
+        "ONLYTITLE"
+      ]
+    },
+    {
+      "title": "같은 시선 (Focus)",
+      "artist": "NCT 127",
+      "album": "Sticker - The 3rd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20211020003801.0",
+      "uid": { "bugs": "6129001", "genie": "94226750", "melon": "33901880" },
       "tags": [
         "가을노래",
         "겨울노래",
@@ -450,75 +371,41 @@
       ]
     },
     {
-      "Song": "Highway to Heaven",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202531/20253147.jpg?version=20190525012620.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 WE ARE SUPERHUMAN - The 4th Mini Album",
+      "title": "Simon Says",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regulate - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402041854.0",
+      "uid": { "bugs": "5506542", "genie": "88402400", "melon": "31444531" },
       "tags": [
-        "여름노래",
-        "나른한오후",
-        "산책할때",
-        "여행갈때",
-        "드라이브",
+        "운동할때",
+        "출근길에",
         "월요병퇴치",
-        "기분전환",
-        "나만알기아까운",
-        "힐링이필요해",
-        "해피바이러스",
-        "상큼청량",
-        "달달설렘",
-        "이지리스닝"
+        "신나는불금",
+        "밤샘노동요",
+        "내적댄스",
+        "스트레스아웃",
+        "자신감뿜뿜",
+        "전투력상승",
+        "마라네오",
+        "비트맛집힙합",
+        "수능금지곡",
+        "ONLYTITLE"
       ]
     },
     {
-      "Song": "Far",
-      "Image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20210918005239.0",
-      "Artist": "NCT 127",
-      "Album": "Sticker - The 3rd Album",
+      "title": "Far",
+      "artist": "NCT 127",
+      "album": "Sticker - The 3rd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20211020003801.0",
+      "uid": { "bugs": "6129003", "genie": "94226752", "melon": "33901882" },
       "tags": ["나른한오후", "전투력상승", "마라네오", "비트맛집힙합"]
     },
     {
-      "Song": "Back 2 U (AM 01:27)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/6117/611771.jpg?version=20190402041935.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 LIMITLESS - The 2nd Mini Album",
-      "tags": [
-        "겨울노래",
-        "잠들기전",
-        "새벽감성",
-        "비가주룩",
-        "이별후유증",
-        "울고싶은날",
-        "치명섹시",
-        "잔잔한/발라드"
-      ]
-    },
-    {
-      "Song": "꿈 (Boom)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone – The 2nd Album",
-      "tags": [
-        "봄노래",
-        "가을노래",
-        "공부할때",
-        "산책할때",
-        "설렘가득LOVE",
-        "기분전환",
-        "나만알기아까운",
-        "힐링이필요해",
-        "해피바이러스",
-        "달달설렘",
-        "몽환적인",
-        "잔잔한/발라드",
-        "이지리스닝"
-      ]
-    },
-    {
-      "Song": "Bring The Noize",
-      "Image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20210918005239.0",
-      "Artist": "NCT 127",
-      "Album": "Sticker - The 3rd Album",
+      "title": "Bring The Noize",
+      "artist": "NCT 127",
+      "album": "Sticker - The 3rd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40646/4064626.jpg?version=20211020003801.0",
+      "uid": { "bugs": "6129004", "genie": "94226753", "melon": "33901883" },
       "tags": [
         "운동할때",
         "월요병퇴치",
@@ -533,10 +420,174 @@
       ]
     },
     {
-      "Song": "메아리 (Love Me Now)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone – The 2nd Album",
+      "title": "Superhuman",
+      "artist": "NCT 127",
+      "album": "NCT #127 WE ARE SUPERHUMAN - The 4th Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202531/20253147.jpg?version=20190726003541.0",
+      "uid": { "bugs": "31584561", "genie": "88928982", "melon": "31794955" },
+      "tags": [
+        "운동할때",
+        "출근길에",
+        "월요병퇴치",
+        "신나는불금",
+        "밤샘노동요",
+        "행운을부르는",
+        "내적댄스",
+        "스트레스아웃",
+        "자신감뿜뿜",
+        "힐링이필요해",
+        "마라네오",
+        "ONLYTITLE"
+      ]
+    },
+    {
+      "title": "Elevator (127F)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201105002502.0",
+      "uid": { "bugs": "5863169", "genie": "89884883", "melon": "32393668" },
+      "tags": [
+        "가을노래",
+        "겨울노래",
+        "나른한오후",
+        "잠들기전",
+        "공부할때",
+        "산책할때",
+        "드라이브",
+        "집으로가는길",
+        "기분전환",
+        "나만알기아까운",
+        "내적댄스",
+        "힐링이필요해",
+        "해피바이러스",
+        "상큼청량",
+        "달달설렘",
+        "이지리스닝"
+      ]
+    },
+    {
+      "title": "Baby Don't Like It (나쁜 짓)",
+      "artist": "NCT 127",
+      "album": "NCT #127 LIMITLESS - The 2nd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/6117/611771.jpg?version=20190402041124.0",
+      "uid": { "bugs": "4840740", "genie": "86856623", "melon": "30189027" },
+      "tags": [
+        "새벽감성",
+        "비가주룩",
+        "이별후유증",
+        "나만알기아까운",
+        "치명섹시",
+        "잔잔한/발라드"
+      ]
+    },
+    {
+      "title": "Welcome To My Playground",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regulate - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402041558.0",
+      "uid": { "bugs": "5506846", "genie": "88402395", "melon": "31444526" },
+      "tags": [
+        "봄노래",
+        "여름노래",
+        "굿모닝",
+        "햇살가득",
+        "공부할때",
+        "산책할때",
+        "드라이브",
+        "집으로가는길",
+        "기분전환",
+        "나만알기아까운",
+        "힐링이필요해",
+        "해피바이러스",
+        "상큼청량",
+        "달달설렘",
+        "잔잔한/발라드",
+        "이지리스닝"
+      ]
+    },
+    {
+      "title": "Love On The Floor",
+      "artist": "NCT 127",
+      "album": "Favorite - The 3rd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/204282/20428261.jpg?version=20211027010045.0",
+      "uid": { "bugs": "32364652", "genie": "94722892", "melon": "34153242" },
+      "tags": ["NO_SONG"]
+    },
+    {
+      "title": "Pilot",
+      "artist": "NCT 127",
+      "album": "Favorite - The 3rd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/204282/20428261.jpg?version=20211027010045.0",
+      "uid": { "bugs": "32364655", "genie": "94722895", "melon": "34153245" },
+      "tags": ["NO_SONG"]
+    },
+    {
+      "title": "Back 2 U (AM 01:27)",
+      "artist": "NCT 127",
+      "album": "NCT #127 LIMITLESS - The 2nd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/6117/611771.jpg?version=20190402041935.0",
+      "uid": { "bugs": "4840738", "genie": "86856621", "melon": "30189025" },
+      "tags": [
+        "겨울노래",
+        "잠들기전",
+        "새벽감성",
+        "비가주룩",
+        "이별후유증",
+        "울고싶은날",
+        "치명섹시",
+        "잔잔한/발라드"
+      ]
+    },
+    {
+      "title": "Highway to Heaven",
+      "artist": "NCT 127",
+      "album": "NCT #127 WE ARE SUPERHUMAN - The 4th Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202531/20253147.jpg?version=20190525012620.0",
+      "uid": { "bugs": "31584560", "genie": "88928981", "melon": "31794954" },
+      "tags": [
+        "여름노래",
+        "나른한오후",
+        "산책할때",
+        "여행갈때",
+        "드라이브",
+        "월요병퇴치",
+        "기분전환",
+        "나만알기아까운",
+        "힐링이필요해",
+        "해피바이러스",
+        "상큼청량",
+        "달달설렘",
+        "이지리스닝"
+      ]
+    },
+    {
+      "title": "꿈 (Boom)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
+      "uid": { "bugs": "5862119", "genie": "89884885", "melon": "32393670" },
+      "tags": [
+        "봄노래",
+        "가을노래",
+        "공부할때",
+        "산책할때",
+        "설렘가득LOVE",
+        "기분전환",
+        "나만알기아까운",
+        "힐링이필요해",
+        "해피바이러스",
+        "달달설렘",
+        "몽환적인",
+        "잔잔한/발라드",
+        "이지리스닝"
+      ]
+    },
+    {
+      "title": "메아리 (Love Me Now)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
+      "uid": { "bugs": "5862128", "genie": "89884891", "melon": "32393676" },
       "tags": [
         "봄노래",
         "나른한오후",
@@ -551,10 +602,11 @@
       ]
     },
     {
-      "Song": "백야 (White Night)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone – The 2nd Album",
+      "title": "백야 (White Night)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
+      "uid": { "bugs": "5862124", "genie": "89884893", "melon": "32393678" },
       "tags": [
         "겨울노래",
         "새벽감성",
@@ -565,10 +617,11 @@
       ]
     },
     {
-      "Song": "낮잠 (Pandora's Box)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone – The 2nd Album",
+      "title": "낮잠 (Pandora's Box)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
+      "uid": { "bugs": "5863166", "genie": "89884886", "melon": "32393671" },
       "tags": [
         "봄노래",
         "나른한오후",
@@ -583,10 +636,11 @@
       ]
     },
     {
-      "Song": "Once Again (여름 방학)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/5749/574911.jpg?version=20190402041124.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 - The 1st Mini Album",
+      "title": "Once Again (여름 방학)",
+      "artist": "NCT 127",
+      "album": "NCT #127 - The 1st Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/5749/574911.jpg?version=20190402041124.0",
+      "uid": { "bugs": "4758565", "genie": "86422769", "melon": "8262115" },
       "tags": [
         "여름노래",
         "굿모닝",
@@ -606,26 +660,11 @@
       ]
     },
     {
-      "Song": "Day Dream (白日夢)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone – The 2nd Album",
-      "tags": [
-        "겨울노래",
-        "잠들기전",
-        "새벽감성",
-        "비가주룩",
-        "이별후유증",
-        "울고싶은날",
-        "몽환적인",
-        "잔잔한/발라드"
-      ]
-    },
-    {
-      "Song": "Summer 127",
-      "Image": "https://image.bugsm.co.kr/album/images/50/201028/20102826.jpg?version=20190514134656.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 CHERRY BOMB - The 3rd Mini Album",
+      "title": "Summer 127",
+      "artist": "NCT 127",
+      "album": "NCT #127 CHERRY BOMB - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/201028/20102826.jpg?version=20190514134656.0",
+      "uid": { "bugs": "30686368", "genie": "87212733", "melon": "30470850" },
       "tags": [
         "여름노래",
         "굿모닝",
@@ -643,10 +682,44 @@
       ]
     },
     {
-      "Song": "Dreams Come True",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone – The 2nd Album",
+      "title": "Day Dream (白日夢)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
+      "uid": { "bugs": "5862127", "genie": "89884887", "melon": "32393672" },
+      "tags": [
+        "겨울노래",
+        "잠들기전",
+        "새벽감성",
+        "비가주룩",
+        "이별후유증",
+        "울고싶은날",
+        "몽환적인",
+        "잔잔한/발라드"
+      ]
+    },
+    {
+      "title": "나의 모든 순간 (No Longer)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regular-Irregular - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402040641.0",
+      "uid": { "bugs": "5448107", "genie": "88292335", "melon": "31345640" },
+      "tags": [
+        "겨울노래",
+        "새벽감성",
+        "비가주룩",
+        "이별후유증",
+        "나만알기아까운",
+        "울고싶은날",
+        "잔잔한/발라드"
+      ]
+    },
+    {
+      "title": "Dreams Come True",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
+      "uid": { "bugs": "5863168", "genie": "89884895", "melon": "32393680" },
       "tags": [
         "겨울노래",
         "잠들기전",
@@ -665,56 +738,27 @@
       ]
     },
     {
-      "Song": "나의 모든 순간 (No Longer)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402040641.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regular-Irregular - The 1st Album",
-      "tags": [
-        "겨울노래",
-        "새벽감성",
-        "비가주룩",
-        "이별후유증",
-        "나만알기아까운",
-        "울고싶은날",
-        "잔잔한/발라드"
-      ]
-    },
-    {
-      "Song": "Music, Dance",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9975/997576.jpg?version=20201019181153.0",
-      "Artist": "NCT 127",
-      "Album": "NCT RESONANCE Pt. 1 - The 2nd Album",
-      "tags": [
-        "운동할때",
-        "집으로가는길",
-        "신나는불금",
-        "밤샘노동요",
-        "기분전환",
-        "내적댄스",
-        "스트레스아웃",
-        "마라네오",
-        "비트맛집힙합"
-      ]
-    },
-    {
-      "Song": "First Love",
-      "Image": "https://image.bugsm.co.kr/album/images/50/203752/20375254.jpg?version=20210217002509.0",
-      "Artist": "NCT 127",
-      "Album": "LOVEHOLIC",
+      "title": "First Love",
+      "artist": "NCT 127",
+      "album": "LOVEHOLIC",
+      "image": "https://image.bugsm.co.kr/album/images/50/203752/20375254.jpg?version=20210217002509.0",
+      "uid": { "bugs": "32134935", "genie": "92115806", "melon": "33235493" },
       "tags": ["나른한오후", "잠들기전", "설렘가득LOVE", "내적댄스", "달달설렘"]
     },
     {
-      "Song": "Highway to Heaven (English Ver.)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202666/20266673.jpg?version=20190723165328.0",
-      "Artist": "NCT 127",
-      "Album": "Highway to Heaven",
+      "title": "Highway to Heaven (English Ver.)",
+      "artist": "NCT 127",
+      "album": "Highway to Heaven",
+      "image": "https://image.bugsm.co.kr/album/images/50/202666/20266673.jpg?version=20190723165328.0",
+      "uid": { "bugs": "31655495", "genie": "89237415", "melon": "31936261" },
       "tags": ["중복"]
     },
     {
-      "Song": "0 Mile",
-      "Image": "https://image.bugsm.co.kr/album/images/50/201028/20102826.jpg?version=20190514134656.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 CHERRY BOMB - The 3rd Mini Album",
+      "title": "0 Mile",
+      "artist": "NCT 127",
+      "album": "NCT #127 CHERRY BOMB - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/201028/20102826.jpg?version=20190514134656.0",
+      "uid": { "bugs": "30686365", "genie": "87212730", "melon": "30470847" },
       "tags": [
         "나른한오후",
         "공부할때",
@@ -726,25 +770,29 @@
       ]
     },
     {
-      "Song": "gimme gimme",
-      "Image": "https://image.bugsm.co.kr/album/images/50/203752/20375254.jpg?version=20210217002509.0",
-      "Artist": "NCT 127",
-      "Album": "LOVEHOLIC",
+      "title": "Music, Dance",
+      "artist": "NCT 127",
+      "album": "NCT RESONANCE Pt. 1 - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9975/997576.jpg?version=20201019181153.0",
+      "uid": { "bugs": "5996476", "genie": "90997779", "melon": "32979574" },
       "tags": [
         "운동할때",
+        "집으로가는길",
+        "신나는불금",
         "밤샘노동요",
-        "자신감뿜뿜",
-        "전투력상승",
+        "기분전환",
+        "내적댄스",
+        "스트레스아웃",
         "마라네오",
-        "비트맛집힙합",
-        "ONLYTITLE"
+        "비트맛집힙합"
       ]
     },
     {
-      "Song": "NonStop",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage",
+      "title": "NonStop",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone The Final Round - The 2nd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
+      "uid": { "bugs": "5905460", "genie": "90198912", "melon": "32588769" },
       "tags": [
         "새벽감성",
         "비가주룩",
@@ -755,10 +803,27 @@
       ]
     },
     {
-      "Song": "Not Alone",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone – The 2nd Album",
+      "title": "gimme gimme",
+      "artist": "NCT 127",
+      "album": "LOVEHOLIC",
+      "image": "https://image.bugsm.co.kr/album/images/50/203752/20375254.jpg?version=20210217002509.0",
+      "uid": { "bugs": "32134933", "genie": "92115804", "melon": "33235491" },
+      "tags": [
+        "운동할때",
+        "밤샘노동요",
+        "자신감뿜뿜",
+        "전투력상승",
+        "마라네오",
+        "비트맛집힙합",
+        "ONLYTITLE"
+      ]
+    },
+    {
+      "title": "Not Alone",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
+      "uid": { "bugs": "5863167", "genie": "89884894", "melon": "32393679" },
       "tags": [
         "겨울노래",
         "잠들기전",
@@ -774,10 +839,11 @@
       ]
     },
     {
-      "Song": "Paradise",
-      "Image": "https://image.bugsm.co.kr/album/images/50/5749/574911.jpg?version=20190402041124.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 - The 1st Mini Album",
+      "title": "Paradise",
+      "artist": "NCT 127",
+      "album": "NCT #127 - The 1st Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/5749/574911.jpg?version=20190402041124.0",
+      "uid": { "bugs": "4758568", "genie": "86427563", "melon": "8262118" },
       "tags": [
         "여름노래",
         "나른한오후",
@@ -793,10 +859,11 @@
       ]
     },
     {
-      "Song": "너의 하루 (Make Your Day)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage",
+      "title": "너의 하루 (Make Your Day)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone The Final Round - The 2nd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
+      "uid": { "bugs": "5901273", "genie": "90198918", "melon": "32588775" },
       "tags": [
         "가을노래",
         "겨울노래",
@@ -811,10 +878,11 @@
       ]
     },
     {
-      "Song": "시차 (Jet Lag)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202531/20253147.jpg?version=20190525010949.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 WE ARE SUPERHUMAN - The 4th Mini Album",
+      "title": "시차 (Jet Lag)",
+      "artist": "NCT 127",
+      "album": "NCT #127 WE ARE SUPERHUMAN - The 4th Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202531/20253147.jpg?version=20190525010949.0",
+      "uid": { "bugs": "31584563", "genie": "88928984", "melon": "31794957" },
       "tags": [
         "겨울노래",
         "굿모닝",
@@ -828,10 +896,11 @@
       ]
     },
     {
-      "Song": "Sit Down!",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone – The 2nd Album",
+      "title": "Sit Down!",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
+      "uid": { "bugs": "5862126", "genie": "89884890", "melon": "32393675" },
       "tags": [
         "나른한오후",
         "밤샘노동요",
@@ -841,10 +910,27 @@
       ]
     },
     {
-      "Song": "종이비행기 (Paper Plane)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202531/20253147.jpg?version=20190525015738.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 WE ARE SUPERHUMAN - The 4th Mini Album",
+      "title": "Mad City",
+      "artist": "NCT 127",
+      "album": "NCT #127 - The 1st Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/5749/574911.jpg?version=20190402042516.0",
+      "uid": { "bugs": "4758569", "genie": "86427560", "melon": "8262119" },
+      "tags": [
+        "출근길에",
+        "월요병퇴치",
+        "밤샘노동요",
+        "스트레스아웃",
+        "전투력상승",
+        "마라네오",
+        "비트맛집힙합"
+      ]
+    },
+    {
+      "title": "종이비행기 (Paper Plane)",
+      "artist": "NCT 127",
+      "album": "NCT #127 WE ARE SUPERHUMAN - The 4th Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202531/20253147.jpg?version=20190525015738.0",
+      "uid": { "bugs": "31584564", "genie": "88928985", "melon": "31794958" },
       "tags": [
         "봄노래",
         "가을노래",
@@ -861,25 +947,11 @@
       ]
     },
     {
-      "Song": "Mad City",
-      "Image": "https://image.bugsm.co.kr/album/images/50/5749/574911.jpg?version=20190402042516.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 - The 1st Mini Album",
-      "tags": [
-        "출근길에",
-        "월요병퇴치",
-        "밤샘노동요",
-        "스트레스아웃",
-        "전투력상승",
-        "마라네오",
-        "비트맛집힙합"
-      ]
-    },
-    {
-      "Song": "롤러코스터 (Heartbreaker)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/6117/611771.jpg?version=20190402040951.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 LIMITLESS - The 2nd Mini Album",
+      "title": "롤러코스터 (Heartbreaker)",
+      "artist": "NCT 127",
+      "album": "NCT #127 LIMITLESS - The 2nd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/6117/611771.jpg?version=20190402040951.0",
+      "uid": { "bugs": "4840739", "genie": "86856622", "melon": "30189026" },
       "tags": [
         "봄노래",
         "여름노래",
@@ -895,10 +967,11 @@
       ]
     },
     {
-      "Song": "지금 우리 (City 127)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402042349.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regular-Irregular - The 1st Album",
+      "title": "지금 우리 (City 127)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regular-Irregular - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402042349.0",
+      "uid": { "bugs": "5448104", "genie": "88292332", "melon": "31345636" },
       "tags": [
         "겨울노래",
         "잠들기전",
@@ -912,17 +985,19 @@
       ]
     },
     {
-      "Song": "Good Thing",
-      "Image": "https://image.bugsm.co.kr/album/images/50/6117/611771.jpg?version=20190402041853.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 LIMITLESS - The 2nd Mini Album",
+      "title": "Good Thing",
+      "artist": "NCT 127",
+      "album": "NCT #127 LIMITLESS - The 2nd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/6117/611771.jpg?version=20190402041853.0",
+      "uid": { "bugs": "4840737", "genie": "86856620", "melon": "30189024" },
       "tags": ["나른한오후", "공부할때", "내적댄스"]
     },
     {
-      "Song": "뿔 (MAD DOG)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone – The 2nd Album",
+      "title": "뿔 (MAD DOG)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
+      "uid": { "bugs": "5863163", "genie": "89884889", "melon": "32393674" },
       "tags": [
         "운동할때",
         "출근길에",
@@ -938,10 +1013,11 @@
       ]
     },
     {
-      "Song": "악몽 (Come Back)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402041430.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regular-Irregular - The 1st Album",
+      "title": "악몽 (Come Back)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regular-Irregular - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402041430.0",
+      "uid": { "bugs": "5448110", "genie": "88292338", "melon": "31345643" },
       "tags": [
         "새벽감성",
         "비가주룩",
@@ -952,10 +1028,19 @@
       ]
     },
     {
-      "Song": "Angel",
-      "Image": "https://image.bugsm.co.kr/album/images/50/6117/611771.jpg?version=20190402040317.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 LIMITLESS - The 2nd Mini Album",
+      "title": "Interlude: Neo Zone",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
+      "uid": { "bugs": "5869600", "genie": "89884888", "melon": "32393673" },
+      "tags": ["몽환적인"]
+    },
+    {
+      "title": "Angel",
+      "artist": "NCT 127",
+      "album": "NCT #127 LIMITLESS - The 2nd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/6117/611771.jpg?version=20190402040317.0",
+      "uid": { "bugs": "4840741", "genie": "86866401", "melon": "30189028" },
       "tags": [
         "봄노래",
         "가을노래",
@@ -967,17 +1052,11 @@
       ]
     },
     {
-      "Song": "Interlude: Neo Zone",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone – The 2nd Album",
-      "tags": ["몽환적인"]
-    },
-    {
-      "Song": "신기루 (Fly Away With Me)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402040902.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regular-Irregular - The 1st Album",
+      "title": "신기루 (Fly Away With Me)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regular-Irregular - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402040902.0",
+      "uid": { "bugs": "5448119", "genie": "88292339", "melon": "31345644" },
       "tags": [
         "겨울노래",
         "잠들기전",
@@ -990,10 +1069,11 @@
       ]
     },
     {
-      "Song": "Replay (PM 01:27)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402040409.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regular-Irregular - The 1st Album",
+      "title": "Replay (PM 01:27)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regular-Irregular - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402040409.0",
+      "uid": { "bugs": "5448105", "genie": "88292333", "melon": "31345638" },
       "tags": [
         "나른한오후",
         "공부할때",
@@ -1004,10 +1084,11 @@
       ]
     },
     {
-      "Song": "Switch (Feat. SR15B)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/5749/574911.jpg?version=20190402041513.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 - The 1st Mini Album",
+      "title": "Switch (Feat. SR15B)",
+      "artist": "NCT 127",
+      "album": "NCT #127 - The 1st Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/5749/574911.jpg?version=20190402041513.0",
+      "uid": { "bugs": "4758570", "genie": "86427561", "melon": "8262120" },
       "tags": [
         "여름노래",
         "햇살가득",
@@ -1020,17 +1101,35 @@
       ]
     },
     {
-      "Song": "Whiplash",
-      "Image": "https://image.bugsm.co.kr/album/images/50/201028/20102826.jpg?version=20190514134656.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 CHERRY BOMB - The 3rd Mini Album",
+      "title": "Whiplash",
+      "artist": "NCT 127",
+      "album": "NCT #127 CHERRY BOMB - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/201028/20102826.jpg?version=20190514134656.0",
+      "uid": { "bugs": "30686367", "genie": "87212732", "melon": "30470849" },
       "tags": ["겨울노래", "나른한오후", "새벽감성", "마라네오", "치명섹시"]
     },
     {
-      "Song": "아 깜짝이야 (FOOL)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202531/20253147.jpg?version=20190525015738.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 WE ARE SUPERHUMAN - The 4th Mini Album",
+      "title": "Taste The Feeling",
+      "artist": "NCT 127",
+      "album": "Taste The Feeling - SM STATION",
+      "image": "https://image.bugsm.co.kr/album/images/50/200478/20047807.jpg?version=20180419003735.0",
+      "uid": { "bugs": "30337091", "genie": "86472395", "melon": "8289638" },
+      "tags": [
+        "햇살가득",
+        "산책할때",
+        "드라이브",
+        "신나는불금",
+        "기분전환",
+        "상큼청량",
+        "이지리스닝"
+      ]
+    },
+    {
+      "title": "아 깜짝이야 (FOOL)",
+      "artist": "NCT 127",
+      "album": "NCT #127 WE ARE SUPERHUMAN - The 4th Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202531/20253147.jpg?version=20190525015738.0",
+      "uid": { "bugs": "31584562", "genie": "88928983", "melon": "31794956" },
       "tags": [
         "나른한오후",
         "공부할때",
@@ -1041,10 +1140,58 @@
       ]
     },
     {
-      "Song": "Chica Bom Bom",
-      "Image": "https://image.bugsm.co.kr/album/images/50/203752/20375254.jpg?version=20210217002509.0",
-      "Artist": "NCT 127",
-      "Album": "LOVEHOLIC",
+      "title": "Sun & Moon",
+      "artist": "NCT 127",
+      "album": "NCT #127 CHERRY BOMB - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/201028/20102826.jpg?version=20190514134656.0",
+      "uid": { "bugs": "30686366", "genie": "87212731", "melon": "30470848" },
+      "tags": [
+        "겨울노래",
+        "잠들기전",
+        "새벽감성",
+        "비가주룩",
+        "이별후유증",
+        "울고싶은날",
+        "몽환적인",
+        "잔잔한/발라드"
+      ]
+    },
+    {
+      "title": "Chain",
+      "artist": "NCT 127",
+      "album": "Chain",
+      "image": "https://image.bugsm.co.kr/album/images/50/201670/20167060.jpg?version=20190402041455.0",
+      "uid": { "bugs": "31072483", "genie": "87983938", "melon": "31077015" },
+      "tags": [
+        "신나는불금",
+        "밤샘노동요",
+        "내적댄스",
+        "전투력상승",
+        "마라네오",
+        "비트맛집힙합"
+      ]
+    },
+    {
+      "title": "Chain (Korean Ver.)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regulate - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402040317.0",
+      "uid": { "bugs": "5506854", "genie": "88402403", "melon": "31444534" },
+      "tags": [
+        "신나는불금",
+        "밤샘노동요",
+        "내적댄스",
+        "전투력상승",
+        "마라네오",
+        "비트맛집힙합"
+      ]
+    },
+    {
+      "title": "Chica Bom Bom",
+      "artist": "NCT 127",
+      "album": "LOVEHOLIC",
+      "image": "https://image.bugsm.co.kr/album/images/50/203752/20375254.jpg?version=20210217002509.0",
+      "uid": { "bugs": "32134936", "genie": "92115807", "melon": "33235494" },
       "tags": [
         "운동할때",
         "출근길에",
@@ -1060,70 +1207,11 @@
       ]
     },
     {
-      "Song": "Taste The Feeling",
-      "Image": "https://image.bugsm.co.kr/album/images/50/200478/20047807.jpg?version=20180419003735.0",
-      "Artist": "NCT 127",
-      "Album": "Taste The Feeling - SM STATION",
-      "tags": [
-        "햇살가득",
-        "산책할때",
-        "드라이브",
-        "신나는불금",
-        "기분전환",
-        "상큼청량",
-        "이지리스닝"
-      ],
-      "그룹별": "SM STATION"
-    },
-    {
-      "Song": "Chain",
-      "Image": "https://image.bugsm.co.kr/album/images/50/201670/20167060.jpg?version=20190402041455.0",
-      "Artist": "NCT 127",
-      "Album": "Chain",
-      "tags": [
-        "신나는불금",
-        "밤샘노동요",
-        "내적댄스",
-        "전투력상승",
-        "마라네오",
-        "비트맛집힙합"
-      ]
-    },
-    {
-      "Song": "Chain (Korean Ver.)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402040317.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regulate - The 1st Album Repackage",
-      "tags": [
-        "신나는불금",
-        "밤샘노동요",
-        "내적댄스",
-        "전투력상승",
-        "마라네오",
-        "비트맛집힙합"
-      ]
-    },
-    {
-      "Song": "Sun & Moon",
-      "Image": "https://image.bugsm.co.kr/album/images/50/201028/20102826.jpg?version=20190514134656.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 CHERRY BOMB - The 3rd Mini Album",
-      "tags": [
-        "겨울노래",
-        "잠들기전",
-        "새벽감성",
-        "비가주룩",
-        "이별후유증",
-        "울고싶은날",
-        "몽환적인",
-        "잔잔한/발라드"
-      ]
-    },
-    {
-      "Song": "Regular (English Ver.)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190510020634.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regular-Irregular - The 1st Album",
+      "title": "Regular (English Ver.)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regular-Irregular - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190510020634.0",
+      "uid": { "bugs": "5443442", "genie": "88284061", "melon": "31345645" },
       "tags": [
         "운동할때",
         "신나는불금",
@@ -1138,10 +1226,28 @@
       ]
     },
     {
-      "Song": "Knock On",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402042430.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regular-Irregular - The 1st Album",
+      "title": "Running 2 U",
+      "artist": "NCT 127",
+      "album": "NCT #127 CHERRY BOMB - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/201028/20102826.jpg?version=20190514134656.0",
+      "uid": { "bugs": "30686364", "genie": "87212729", "melon": "30470846" },
+      "tags": [
+        "신나는불금",
+        "밤샘노동요",
+        "내적댄스",
+        "스트레스아웃",
+        "전투력상승",
+        "마라네오",
+        "치명섹시",
+        "비트맛집힙합"
+      ]
+    },
+    {
+      "title": "Knock On",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regular-Irregular - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402042430.0",
+      "uid": { "bugs": "5448106", "genie": "88292334", "melon": "31345639" },
       "tags": [
         "가을노래",
         "겨울노래",
@@ -1154,10 +1260,11 @@
       ]
     },
     {
-      "Song": "Wakey-Wakey",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143623.0",
-      "Artist": "NCT 127",
-      "Album": "Awaken",
+      "title": "Wakey-Wakey",
+      "artist": "NCT 127",
+      "album": "Awaken",
+      "image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143623.0",
+      "uid": { "bugs": "31553447", "genie": "88808179", "melon": "31745382" },
       "tags": [
         "운동할때",
         "월요병퇴치",
@@ -1171,54 +1278,53 @@
       ]
     },
     {
-      "Song": "Running 2 U",
-      "Image": "https://image.bugsm.co.kr/album/images/50/201028/20102826.jpg?version=20190514134656.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 CHERRY BOMB - The 3rd Mini Album",
+      "title": "서곡 (序曲; Prelude)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone The Final Round - The 2nd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
+      "uid": { "bugs": "5906786", "genie": "90198913", "melon": "32588770" },
+      "tags": ["전투력상승", "몽환적인"]
+    },
+    {
+      "title": "Let's SHUT UP & DANCE",
+      "artist": "레이(LAY)",
+      "album": "First single from the EP THE GREATEST DANCER",
+      "image": "https://image.bugsm.co.kr/album/images/50/202320/20232047.jpg?version=20210421045140.0",
+      "uid": { "bugs": "31472140", "genie": "88641213", "melon": "31628077" },
       "tags": [
+        "굿모닝",
+        "운동할때",
+        "드라이브",
         "신나는불금",
         "밤샘노동요",
         "내적댄스",
         "스트레스아웃",
         "전투력상승",
-        "마라네오",
-        "치명섹시",
         "비트맛집힙합"
       ]
     },
     {
-      "Song": "서곡 (序曲; Prelude)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage",
-      "tags": ["전투력상승", "몽환적인"]
-    },
-    {
-      "Song": "(Bonus Track) Run Back 2 U",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402042516.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regular-Irregular - The 1st Album",
+      "title": "(Bonus Track) Run Back 2 U",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regular-Irregular - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402042516.0",
+      "uid": { "bugs": "5448120", "genie": "88292340", "melon": "31345646" },
       "tags": ["새벽감성", "비가주룩", "이별후유증", "울고싶은날", "마라네오"]
     },
     {
-      "Song": "Right Now",
-      "Image": "https://image.bugsm.co.kr/album/images/50/203752/20375254.jpg?version=20210217002509.0",
-      "Artist": "NCT 127",
-      "Album": "LOVEHOLIC",
-      "tags": ["나른한오후", "마라네오"]
-    },
-    {
-      "Song": "Another World",
-      "Image": "https://image.bugsm.co.kr/album/images/50/5749/574911.jpg?version=20190402041935.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 - The 1st Mini Album",
+      "title": "Another World",
+      "artist": "NCT 127",
+      "album": "NCT #127 - The 1st Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/5749/574911.jpg?version=20190402041935.0",
+      "uid": { "bugs": "4758567", "genie": "86427562", "melon": "8262117" },
       "tags": ["나른한오후", "새벽감성", "마라네오", "치명섹시"]
     },
     {
-      "Song": "나의 모든 순간 (No Longer)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402040817.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regulate - The 1st Album Repackage",
+      "title": "나의 모든 순간 (No Longer)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regulate - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402040817.0",
+      "uid": { "bugs": "5506849", "genie": "88402397", "melon": "31444528" },
       "tags": [
         "겨울노래",
         "잠들기전",
@@ -1232,16 +1338,42 @@
       ]
     },
     {
-      "Song": "Cherry Bomb (Performance Ver.)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/201028/20102826.jpg?version=20201110135103.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 CHERRY BOMB - The 3rd Mini Album"
+      "title": "Right Now",
+      "artist": "NCT 127",
+      "album": "LOVEHOLIC",
+      "image": "https://image.bugsm.co.kr/album/images/50/203752/20375254.jpg?version=20210217002509.0",
+      "uid": { "bugs": "32134938", "genie": "92115809", "melon": "33235496" },
+      "tags": ["나른한오후", "마라네오"]
     },
     {
-      "Song": "Lipstick",
-      "Image": "https://image.bugsm.co.kr/album/images/50/203752/20375254.jpg?version=20210217002509.0",
-      "Artist": "NCT 127",
-      "Album": "LOVEHOLIC",
+      "title": "Cherry Bomb (Performance Ver.)",
+      "artist": "NCT 127",
+      "album": "NCT #127 CHERRY BOMB - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/201028/20102826.jpg?version=20201110135103.0",
+      "uid": { "bugs": "30686369", "genie": "87212734", "melon": "30470851" },
+      "tags": ["NO_TAG"]
+    },
+    {
+      "title": "Wake Up",
+      "artist": "NCT 127",
+      "album": "NCT #127 - The 1st Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/5749/574911.jpg?version=20190402041853.0",
+      "uid": { "bugs": "4758566", "genie": "86427559", "melon": "8262116" },
+      "tags": [
+        "잠들기전",
+        "새벽감성",
+        "비가주룩",
+        "이별후유증",
+        "울고싶은날",
+        "힐링이필요해"
+      ]
+    },
+    {
+      "title": "Lipstick",
+      "artist": "NCT 127",
+      "album": "LOVEHOLIC",
+      "image": "https://image.bugsm.co.kr/album/images/50/203752/20375254.jpg?version=20210217002509.0",
+      "uid": { "bugs": "32134934", "genie": "92115805", "melon": "33235492" },
       "tags": [
         "운동할때",
         "출근길에",
@@ -1255,31 +1387,19 @@
       ]
     },
     {
-      "Song": "Wake Up",
-      "Image": "https://image.bugsm.co.kr/album/images/50/5749/574911.jpg?version=20190402041853.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 - The 1st Mini Album",
-      "tags": [
-        "잠들기전",
-        "새벽감성",
-        "비가주룩",
-        "이별후유증",
-        "울고싶은날",
-        "힐링이필요해"
-      ]
-    },
-    {
-      "Song": "내 Van (My Van)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402040221.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regular-Irregular - The 1st Album",
+      "title": "내 Van (My Van)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regular-Irregular - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402040221.0",
+      "uid": { "bugs": "5448109", "genie": "88292337", "melon": "31345642" },
       "tags": ["나른한오후", "마라네오", "몽환적인", "비트맛집힙합"]
     },
     {
-      "Song": "Long Slow Distance",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143438.0",
-      "Artist": "NCT 127",
-      "Album": "Awaken",
+      "title": "Long Slow Distance",
+      "artist": "NCT 127",
+      "album": "Awaken",
+      "image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143438.0",
+      "uid": { "bugs": "31553453", "genie": "88808185", "melon": "31745388" },
       "tags": [
         "겨울노래",
         "잠들기전",
@@ -1294,135 +1414,235 @@
       ]
     },
     {
-      "Song": "Let’s SHUT UP & DANCE",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202320/20232047.jpg?version=20210421045140.0",
-      "Artist": "레이(LAY)",
-      "Album": "First single from the EP THE GREATEST DANCER",
-      "tags": [
-        "굿모닝",
-        "운동할때",
-        "드라이브",
-        "신나는불금",
-        "밤샘노동요",
-        "내적댄스",
-        "스트레스아웃",
-        "전투력상승",
-        "비트맛집힙합"
-      ],
-      "그룹별": "SPECIAL"
+      "title": "Regular (Korean Ver.)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regulate - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402040951.0",
+      "uid": { "bugs": "5506844", "genie": "88402393", "melon": "31444524" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Regular (Korean Ver.)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402040951.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regulate - The 1st Album Repackage"
+      "title": "Sticker",
+      "artist": "NCT 127",
+      "album": "Favorite - The 3rd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/204282/20428261.jpg?version=20211027010045.0",
+      "uid": { "bugs": "32364651", "genie": "94722891", "melon": "34153241" },
+      "tags": ["NO_SONG"]
     },
     {
-      "Song": "영웅 (英雄; Kick It) (Valentino Khan Remix)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/203232/20323247.jpg?version=20200509002332.0",
-      "Artist": "NCT 127",
-      "Album": "iScreaM Vol.1 : 영웅 (英雄; Kick It) Remixes",
+      "title": "영웅 (英雄; Kick It) (Valentino Khan Remix)",
+      "artist": "NCT 127",
+      "album": "iScreaM Vol.1 : 영웅 (英雄; Kick It) Remixes",
+      "image": "https://image.bugsm.co.kr/album/images/50/203232/20323247.jpg?version=20211102004410.0",
+      "uid": { "bugs": "31906237", "genie": "90187409", "melon": "32583155" },
       "tags": ["REMIX"]
     },
     {
-      "Song": "Music, Dance",
-      "Image": "https://image.bugsm.co.kr/album/images/50/203624/20362488.jpg?version=20201208002529.0",
-      "Artist": "NCT 127",
-      "Album": "NCT RESONANCE Pt. 2 - The 2nd Album"
+      "title": "Lemonade",
+      "artist": "NCT 127",
+      "album": "Favorite - The 3rd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/204282/20428261.jpg?version=20211027010045.0",
+      "uid": { "bugs": "32364653", "genie": "94722893", "melon": "34153243" },
+      "tags": ["NO_SONG"]
     },
     {
-      "Song": "지금 우리 (City 127)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402041430.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regulate - The 1st Album Repackage"
+      "title": "지금 우리 (City 127)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regulate - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402041430.0",
+      "uid": { "bugs": "5506843", "genie": "88402392", "melon": "31444523" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "신기루 (Fly Away With Me)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402040730.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regulate - The 1st Album Repackage"
+      "title": "Music, Dance",
+      "artist": "NCT 127",
+      "album": "NCT RESONANCE Pt. 2 - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203624/20362488.jpg?version=20201208002529.0",
+      "uid": { "bugs": "32077563", "genie": "91458632", "melon": "33082156" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Replay (PM 01:27)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402042305.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regulate - The 1st Album Repackage"
+      "title": "신기루 (Fly Away With Me)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regulate - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402040730.0",
+      "uid": { "bugs": "5506853", "genie": "88402402", "melon": "31444533" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "악몽 (Come Back)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402042431.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regulate - The 1st Album Repackage"
+      "title": "Breakfast",
+      "artist": "NCT 127",
+      "album": "Favorite - The 3rd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/204282/20428261.jpg?version=20211027010045.0",
+      "uid": { "bugs": "32364654", "genie": "94722894", "melon": "34153244" },
+      "tags": ["NO_SONG"]
     },
     {
-      "Song": "우산 (Love Song)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage"
+      "title": "Replay (PM 01:27)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regulate - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402042305.0",
+      "uid": { "bugs": "5506845", "genie": "88402394", "melon": "31444525" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Interlude: Regular to Irregular",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402040459.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regular-Irregular - The 1st Album",
+      "title": "Interlude: Regular to Irregular",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regular-Irregular - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/8027/802752.jpg?version=20190402040459.0",
+      "uid": { "bugs": "5448108", "genie": "88292336", "melon": "31345641" },
       "tags": ["잠들기전", "새벽감성", "몽환적인"]
     },
     {
-      "Song": "OUTRO : WE ARE 127",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202531/20253147.jpg?version=20190525003742.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 WE ARE SUPERHUMAN - The 4th Mini Album",
+      "title": "악몽 (Come Back)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regulate - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402042431.0",
+      "uid": { "bugs": "5506852", "genie": "88402401", "melon": "31444532" },
+      "tags": ["NO_TAG"]
+    },
+    {
+      "title": "같은 시선 (Focus)",
+      "artist": "NCT 127",
+      "album": "Favorite - The 3rd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/204282/20428261.jpg?version=20211027010045.0",
+      "uid": { "bugs": "32364656", "genie": "94722896", "melon": "34153246" },
+      "tags": ["NO_SONG"]
+    },
+    {
+      "title": "내일의 나에게 (The Rainy Night)",
+      "artist": "NCT 127",
+      "album": "Favorite - The 3rd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/204282/20428261.jpg?version=20211027010045.0",
+      "uid": { "bugs": "32364657", "genie": "94722897", "melon": "34153247" },
+      "tags": ["NO_SONG"]
+    },
+    {
+      "title": "우산 (Love Song)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone The Final Round - The 2nd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
+      "uid": { "bugs": "5906795", "genie": "90198923", "melon": "32588780" },
+      "tags": ["NO_TAG"]
+    },
+    {
+      "title": "OUTRO : WE ARE 127",
+      "artist": "NCT 127",
+      "album": "NCT #127 WE ARE SUPERHUMAN - The 4th Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202531/20253147.jpg?version=20190525003742.0",
+      "uid": { "bugs": "31584565", "genie": "88928986", "melon": "31794959" },
       "tags": ["OUTRO"]
     },
     {
-      "Song": "End to Start",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143754.0",
-      "Artist": "NCT 127",
-      "Album": "Awaken",
+      "title": "End to Start",
+      "artist": "NCT 127",
+      "album": "Awaken",
+      "image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143754.0",
+      "uid": { "bugs": "31553457", "genie": "88808189", "melon": "31745392" },
       "tags": ["몽환적인"]
     },
     {
-      "Song": "영웅 (英雄; Kick It)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage"
+      "title": "Far",
+      "artist": "NCT 127",
+      "album": "Favorite - The 3rd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/204282/20428261.jpg?version=20211027010045.0",
+      "uid": { "bugs": "32364658", "genie": "94722898", "melon": "34153248" },
+      "tags": ["NO_SONG"]
     },
     {
-      "Song": "Knock On",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402042056.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regulate - The 1st Album Repackage"
+      "title": "Road Trip",
+      "artist": "NCT 127",
+      "album": "Favorite - The 3rd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/204282/20428261.jpg?version=20211027010045.0",
+      "uid": { "bugs": "32364661", "genie": "94722901", "melon": "34153251" },
+      "tags": ["NO_SONG"]
     },
     {
-      "Song": "Lips",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143543.0",
-      "Artist": "NCT 127",
-      "Album": "Awaken",
+      "title": "영웅 (英雄; Kick It)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone The Final Round - The 2nd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
+      "uid": { "bugs": "5906787", "genie": "90198914", "melon": "32588771" },
+      "tags": ["NO_TAG"]
+    },
+    {
+      "title": "Magic Carpet Ride",
+      "artist": "NCT 127",
+      "album": "Favorite - The 3rd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/204282/20428261.jpg?version=20211027010045.0",
+      "uid": { "bugs": "32364660", "genie": "94722900", "melon": "34153250" },
+      "tags": ["NO_SONG"]
+    },
+    {
+      "title": "Knock On",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regulate - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402042056.0",
+      "uid": { "bugs": "5506848", "genie": "88402396", "melon": "31444527" },
+      "tags": ["NO_TAG"]
+    },
+    {
+      "title": "Dreamer",
+      "artist": "NCT 127",
+      "album": "Favorite - The 3rd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/204282/20428261.jpg?version=20211027010045.0",
+      "uid": { "bugs": "32364662", "genie": "94722902", "melon": "34153252" },
+      "tags": ["NO_SONG"]
+    },
+    {
+      "title": "Bring The Noize",
+      "artist": "NCT 127",
+      "album": "Favorite - The 3rd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/204282/20428261.jpg?version=20211027010045.0",
+      "uid": { "bugs": "32364659", "genie": "94722899", "melon": "34153249" },
+      "tags": ["NO_SONG"]
+    },
+    {
+      "title": "Lips",
+      "artist": "NCT 127",
+      "album": "Awaken",
+      "image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143543.0",
+      "uid": { "bugs": "31553446", "genie": "88808178", "melon": "31745381" },
       "tags": ["새벽감성", "마라네오", "치명섹시"]
     },
     {
-      "Song": "Elevator (127F)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201105002502.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage"
+      "title": "Elevator (127F)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone The Final Round - The 2nd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201105002502.0",
+      "uid": { "bugs": "5906799", "genie": "90198927", "melon": "32588784" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "꿈 (Boom)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage"
+      "title": "꿈 (Boom)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone The Final Round - The 2nd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
+      "uid": { "bugs": "5906788", "genie": "90198915", "melon": "32588772" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "영웅 (英雄; Kick It)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/203752/20375254.jpg?version=20210217002509.0",
-      "Artist": "NCT 127",
-      "Album": "LOVEHOLIC"
+      "title": "다시 만나는 날 (Promise You)",
+      "artist": "NCT 127",
+      "album": "Favorite - The 3rd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/204282/20428261.jpg?version=20211027010045.0",
+      "uid": { "bugs": "32364663", "genie": "94722903", "melon": "34153253" },
+      "tags": ["NO_SONG"]
     },
     {
-      "Song": "Kitchen Beat",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143936.0",
-      "Artist": "NCT 127",
-      "Album": "Awaken",
+      "title": "Dreaming",
+      "artist": "NCT 127",
+      "album": "Chain",
+      "image": "https://image.bugsm.co.kr/album/images/50/201670/20167060.jpg?version=20190402040845.0",
+      "uid": { "bugs": "31072482", "genie": "87983937", "melon": "31077014" },
+      "tags": ["새벽감성", "내적댄스", "마라네오"]
+    },
+    {
+      "title": "Kitchen Beat",
+      "artist": "NCT 127",
+      "album": "Awaken",
+      "image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143936.0",
+      "uid": { "bugs": "31553454", "genie": "88808186", "melon": "31745389" },
       "tags": [
         "신나는불금",
         "밤샘노동요",
@@ -1432,362 +1652,460 @@
       ]
     },
     {
-      "Song": "낮잠 (Pandora's Box)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage"
+      "title": "영웅 (英雄; Kick It)",
+      "artist": "NCT 127",
+      "album": "LOVEHOLIC",
+      "image": "https://image.bugsm.co.kr/album/images/50/203752/20375254.jpg?version=20210217002509.0",
+      "uid": { "bugs": "32134937", "genie": "92115808", "melon": "33235495" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Dreaming",
-      "Image": "https://image.bugsm.co.kr/album/images/50/201670/20167060.jpg?version=20190402040845.0",
-      "Artist": "NCT 127",
-      "Album": "Chain",
-      "tags": ["새벽감성", "내적댄스", "마라네오"]
+      "title": "낮잠 (Pandora's Box)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone The Final Round - The 2nd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
+      "uid": { "bugs": "5906789", "genie": "90198916", "melon": "32588773" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Day Dream (白日夢)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage"
-    },
-    {
-      "Song": "메아리 (Love Me Now)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage"
-    },
-    {
-      "Song": "100",
-      "Image": "https://image.bugsm.co.kr/album/images/50/201670/20167060.jpg?version=20190402040845.0",
-      "Artist": "NCT 127",
-      "Album": "Chain",
+      "title": "100",
+      "artist": "NCT 127",
+      "album": "Chain",
+      "image": "https://image.bugsm.co.kr/album/images/50/201670/20167060.jpg?version=20190402040845.0",
+      "uid": { "bugs": "31072486", "genie": "87983941", "melon": "31077018" },
       "tags": ["잠들기전", "새벽감성", "치명섹시"]
     },
     {
-      "Song": "(Bonus Track) Run Back 2 U",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402041513.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regulate - The 1st Album Repackage"
+      "title": "Day Dream (白日夢)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone The Final Round - The 2nd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
+      "uid": { "bugs": "5906790", "genie": "90198917", "melon": "32588774" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Dreams Come True",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage"
+      "title": "메아리 (Love Me Now)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone The Final Round - The 2nd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
+      "uid": { "bugs": "5906794", "genie": "90198922", "melon": "32588779" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "백야 (White Night)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage"
+      "title": "(Bonus Track) Run Back 2 U",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regulate - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402041513.0",
+      "uid": { "bugs": "5506856", "genie": "88402405", "melon": "31444536" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Blow My Mind",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143717.0",
-      "Artist": "NCT 127",
-      "Album": "Awaken",
+      "title": "Dreams Come True",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone The Final Round - The 2nd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
+      "uid": { "bugs": "5906798", "genie": "90198926", "melon": "32588783" },
+      "tags": ["NO_TAG"]
+    },
+    {
+      "title": "백야 (White Night)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone The Final Round - The 2nd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
+      "uid": { "bugs": "5906796", "genie": "90198924", "melon": "32588781" },
+      "tags": ["NO_TAG"]
+    },
+    {
+      "title": "Blow My Mind",
+      "artist": "NCT 127",
+      "album": "Awaken",
+      "image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143717.0",
+      "uid": { "bugs": "31553451", "genie": "88808183", "melon": "31745386" },
       "tags": ["나른한오후", "새벽감성", "치명섹시"]
     },
     {
-      "Song": "Not Alone",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage"
+      "title": "Regular (English Ver.)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regulate - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402040951.0",
+      "uid": { "bugs": "5506855", "genie": "88402404", "melon": "31444535" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Regular (English Ver.)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402040951.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regulate - The 1st Album Repackage"
+      "title": "Not Alone",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone The Final Round - The 2nd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
+      "uid": { "bugs": "5906797", "genie": "90198925", "melon": "32588782" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Touch (Japanese Ver.)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/201977/20197745.jpg?version=20190402040845.0",
-      "Artist": "NCT 127",
-      "Album": "Touch"
+      "title": "Touch (Japanese Ver.)",
+      "artist": "NCT 127",
+      "album": "Touch",
+      "image": "https://image.bugsm.co.kr/album/images/50/201977/20197745.jpg?version=20190402040845.0",
+      "uid": { "bugs": "31255688", "genie": "88272503", "melon": "31334267" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Sit Down!",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage"
+      "title": "영웅 (英雄; Kick It) (MINIMONSTER Remix)",
+      "artist": "NCT 127",
+      "album": "iScreaM Vol.1 : 영웅 (英雄; Kick It) Remixes",
+      "image": "https://image.bugsm.co.kr/album/images/50/203232/20323247.jpg?version=20211102004410.0",
+      "uid": { "bugs": "31906238", "genie": "90187410", "melon": "32583156" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "영웅 (英雄; Kick It) (MINIMONSTER Remix)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/203232/20323247.jpg?version=20200509002332.0",
-      "Artist": "NCT 127",
-      "Album": "iScreaM Vol.1 : 영웅 (英雄; Kick It) Remixes"
+      "title": "Sit Down!",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone The Final Round - The 2nd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
+      "uid": { "bugs": "5906793", "genie": "90198921", "melon": "32588778" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Come Back",
-      "Image": "https://image.bugsm.co.kr/album/images/50/201670/20167060.jpg?version=20190402040153.0",
-      "Artist": "NCT 127",
-      "Album": "Chain"
+      "title": "Come Back",
+      "artist": "NCT 127",
+      "album": "Chain",
+      "image": "https://image.bugsm.co.kr/album/images/50/201670/20167060.jpg?version=20190402040153.0",
+      "uid": { "bugs": "31072485", "genie": "87983940", "melon": "31077017" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "뿔 (MAD DOG)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage"
+      "title": "뿔 (MAD DOG)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone The Final Round - The 2nd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
+      "uid": { "bugs": "5906792", "genie": "90198920", "melon": "32588777" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "내 Van (My Van)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402040459.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regulate - The 1st Album Repackage"
+      "title": "내 Van (My Van)",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regulate - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402040459.0",
+      "uid": { "bugs": "5506850", "genie": "88402398", "melon": "31444529" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "영웅 (英雄; Kick It) (Hitchhiker Remix)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/203232/20323247.jpg?version=20200509002332.0",
-      "Artist": "NCT 127",
-      "Album": "iScreaM Vol.1 : 영웅 (英雄; Kick It) Remixes"
+      "title": "Freeze",
+      "artist": "NCT 127",
+      "album": "KARTRIDER X LINE FRIENDS OST Part 1. ‘Freeze’",
+      "image": "https://image.bugsm.co.kr/album/images/50/204284/20428430.jpg?version=20211104011433.0",
+      "uid": { "bugs": "32365302", "genie": "94728414", "melon": "34196597" },
+      "tags": ["NO_SONG"]
     },
     {
-      "Song": "Chain",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143643.0",
-      "Artist": "NCT 127",
-      "Album": "Awaken"
+      "title": "영웅 (英雄; Kick It) (Hitchhiker Remix)",
+      "artist": "NCT 127",
+      "album": "iScreaM Vol.1 : 영웅 (英雄; Kick It) Remixes",
+      "image": "https://image.bugsm.co.kr/album/images/50/203232/20323247.jpg?version=20211102004410.0",
+      "uid": { "bugs": "31906239", "genie": "90187411", "melon": "32583157" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Limitless",
-      "Image": "https://image.bugsm.co.kr/album/images/50/201670/20167060.jpg?version=20190402040526.0",
-      "Artist": "NCT 127",
-      "Album": "Chain"
+      "title": "Chain",
+      "artist": "NCT 127",
+      "album": "Awaken",
+      "image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143643.0",
+      "uid": { "bugs": "31553448", "genie": "88808180", "melon": "31745383" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Interlude: Neo Zone",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage"
+      "title": "Limitless",
+      "artist": "NCT 127",
+      "album": "Chain",
+      "image": "https://image.bugsm.co.kr/album/images/50/201670/20167060.jpg?version=20190402040526.0",
+      "uid": { "bugs": "31072484", "genie": "87983939", "melon": "31077016" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "소방차 (Fire Truck)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143806.0",
-      "Artist": "NCT 127",
-      "Album": "Awaken"
+      "title": "Interlude: Neo Zone",
+      "artist": "NCT 127",
+      "album": "NCT #127 Neo Zone The Final Round - The 2nd Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
+      "uid": { "bugs": "5906791", "genie": "90198919", "melon": "32588776" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Cherry Bomb",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143911.0",
-      "Artist": "NCT 127",
-      "Album": "Awaken"
+      "title": "소방차 (Fire Truck)",
+      "artist": "NCT 127",
+      "album": "Awaken",
+      "image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143806.0",
+      "uid": { "bugs": "31553456", "genie": "88808188", "melon": "31745391" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Interlude: Regular to Irregular",
-      "Image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402040317.0",
-      "Artist": "NCT 127",
-      "Album": "NCT 127 Regulate - The 1st Album Repackage"
+      "title": "Cherry Bomb",
+      "artist": "NCT 127",
+      "album": "Awaken",
+      "image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422143911.0",
+      "uid": { "bugs": "31553455", "genie": "88808187", "melon": "31745390" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Touch (Japanese Ver.)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422144220.0",
-      "Artist": "NCT 127",
-      "Album": "Awaken"
+      "title": "Interlude: Regular to Irregular",
+      "artist": "NCT 127",
+      "album": "NCT #127 Regulate - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/8226/822692.jpg?version=20190402040317.0",
+      "uid": { "bugs": "5506851", "genie": "88402399", "melon": "31444530" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Regular (English Ver.)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422144315.0",
-      "Artist": "NCT 127",
-      "Album": "Awaken"
+      "title": "Touch (Japanese Ver.)",
+      "artist": "NCT 127",
+      "album": "Awaken",
+      "image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422144220.0",
+      "uid": { "bugs": "31553450", "genie": "88808182", "melon": "31745385" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Limitless (Japanese Ver.)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20200424103801.0",
-      "Artist": "NCT 127",
-      "Album": "Awaken"
+      "title": "Regular (English Ver.)",
+      "artist": "NCT 127",
+      "album": "Awaken",
+      "image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20190422144315.0",
+      "uid": { "bugs": "31553449", "genie": "88808181", "melon": "31745384" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Black on Black",
-      "Image": "https://image.bugsm.co.kr/album/images/50/7138/713872.jpg?version=20190515005018.0",
-      "Artist": "NCT 2018",
-      "Album": "NCT 2018 EMPATHY"
+      "title": "Limitless (Japanese Ver.)",
+      "artist": "NCT 127",
+      "album": "Awaken",
+      "image": "https://image.bugsm.co.kr/album/images/50/202469/20246990.jpg?version=20200424103801.0",
+      "uid": { "bugs": "31553452", "genie": "88808184", "melon": "31745387" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Best Day Ever (Sung By 해찬, 천러, 지성)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202155/20215595.jpg?version=20190402041130.0",
-      "Artist": "NCT",
-      "Album": "드림웍스 트롤 X SM STATION"
+      "title": "Black on Black",
+      "artist": "NCT 2018",
+      "album": "NCT 2018 EMPATHY",
+      "image": "https://image.bugsm.co.kr/album/images/50/7138/713872.jpg?version=20190515005018.0",
+      "uid": { "bugs": "5150649" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "So Am I (feat. NCT 127)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/9015/901544.jpg?version=20200109002331.0",
-      "Artist": "Ava Max",
-      "Album": "So Am I (feat. NCT 127)"
+      "title": "Best Day Ever (Sung By 해찬, 천러, 지성)",
+      "artist": "NCT",
+      "album": "드림웍스 트롤 X SM STATION",
+      "image": "https://image.bugsm.co.kr/album/images/50/202155/20215595.jpg?version=20190402041130.0",
+      "uid": { "bugs": "31369192" },
+      "tags": ["NO_TAG"]
     },
     {
-      "Song": "Regular (Korean Ver.)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "So Am I (feat. NCT 127)",
+      "artist": "Ava Max",
+      "album": "So Am I (feat. NCT 127)",
+      "image": "https://image.bugsm.co.kr/album/images/50/9015/901544.jpg?version=20200109002331.0",
+      "uid": { "bugs": "5680595" },
+      "tags": ["NO_TAG"]
+    },
+    {
+      "title": "Regular (Korean Ver.)",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730922", "genie": "89481504", "melon": "32119797" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "Welcome To My Playground",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20200423182722.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "신기루 (Fly Away With Me)",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730914", "genie": "89481496", "melon": "32119803" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "Back 2 U (AM 01:27)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "Welcome To My Playground",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20200423182722.0",
+      "uid": { "bugs": "31730932", "genie": "89481514", "melon": "32119816" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "신기루 (Fly Away With Me)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "Back 2 U (AM 01:27)",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730915", "genie": "89481497", "melon": "32119805" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "Angel",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "Angel",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730917", "genie": "89481499", "melon": "32119808" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "나의 모든 순간 (No Longer)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20200625234501.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "나의 모든 순간 (No Longer)",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20200625234501.0",
+      "uid": { "bugs": "31730920", "genie": "89481502", "melon": "32119815" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "악몽 (Come Back)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "악몽 (Come Back)",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730911", "genie": "89481537", "melon": "32119796" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "Baby Don’t Like It (나쁜 짓)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "Baby Don’t Like It (나쁜 짓)",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730924", "genie": "89481506", "melon": "32119800" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "TOUCH",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "TOUCH",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730927", "genie": "89481509", "melon": "32119807" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "Summer 127",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20200424102857.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "Summer 127",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20200424102857.0",
+      "uid": { "bugs": "31730933", "genie": "89481515", "melon": "32119817" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "텐데… (Timeless)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20200630223248.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "텐데… (Timeless)",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20200630223248.0",
+      "uid": { "bugs": "31730919", "genie": "89481501", "melon": "32119812" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "無限的我 (무한적아;Limitless)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20200423181434.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "無限的我 (무한적아;Limitless)",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20200423181434.0",
+      "uid": { "bugs": "31730912", "genie": "89481538", "melon": "32119798" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "롤러코스터 (Heartbreaker)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "소방차 (Fire Truck)",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730930", "genie": "89481512", "melon": "32119813" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "소방차 (Fire Truck)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "롤러코스터 (Heartbreaker)",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730928", "genie": "89481510", "melon": "32119809" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "Simon Says",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20200424102055.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "Simon Says",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20200424102055.0",
+      "uid": { "bugs": "31730931", "genie": "89481513", "melon": "32119814" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "Replay (PM 01:27)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "Replay (PM 01:27)",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730929", "genie": "89481511", "melon": "32119811" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "지금 우리 (City 127)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20200424101352.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "지금 우리 (City 127)",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20200424101352.0",
+      "uid": { "bugs": "31730916", "genie": "89481498", "melon": "32119806" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "Cherry Bomb",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "Cherry Bomb",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730910", "genie": "89481536", "melon": "32119794" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "0 Mile",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "Sun & Moon",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730918", "genie": "89481500", "melon": "32119810" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "Sun & Moon",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "0 Mile",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730934", "genie": "89481516", "melon": "32119818" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "Chain (Korean Ver.)",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "Chain (Korean Ver.)",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730913", "genie": "89481539", "melon": "32119801" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "Mad City",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "Mad City",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730925", "genie": "89481507", "melon": "32119802" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "Good Thing",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "Good Thing",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730926", "genie": "89481508", "melon": "32119804" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "Wake Up",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "Wake Up",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730923", "genie": "89481505", "melon": "32119799" },
       "tags": ["방구석콘서트"]
     },
     {
-      "Song": "Interlude: Regular to Irregular",
-      "Image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
-      "Artist": "NCT 127",
-      "Album": "NEO CITY : SEOUL – The Origin – The 1st Live Album",
+      "title": "Interlude: Regular to Irregular",
+      "artist": "NCT 127",
+      "album": "NEO CITY : SEOUL - The Origin - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202841/20284180.jpg?version=20191025002406.0",
+      "uid": { "bugs": "31730921", "genie": "89481503", "melon": "32119795" },
       "tags": ["방구석콘서트"]
+    },
+    {
+      "title": "Let's SHUT UP & DANCE (Inst.)",
+      "artist": "레이(LAY)",
+      "album": "First single from the EP THE GREATEST DANCER",
+      "image": "https://image.bugsm.co.kr/album/images/50/202320/20232047.jpg?version=20210421045140.0",
+      "uid": { "bugs": "31472141", "genie": "88641214", "melon": "31628078" },
+      "tags": ["NO_SONG"]
     }
   ]
 }

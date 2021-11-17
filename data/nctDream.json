@@ -1,10 +1,11 @@
 {
   "nctDream": [
     {
-      "song": "맛 (Hot Sauce)",
-      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20210824005418.0",
+      "title": "맛 (Hot Sauce)",
       "artist": "NCT DREAM",
       "album": "맛 (Hot Sauce) - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20211020005603.0",
+      "uid": { "bugs": "6109164", "melon": "33456218", "genie": "93227614" },
       "tags": [
         "햇살가득",
         "운동할때",
@@ -22,10 +23,11 @@
       ]
     },
     {
-      "song": "고래 (Dive Into You)",
-      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20210824005418.0",
+      "title": "고래 (Dive Into You)",
       "artist": "NCT DREAM",
       "album": "맛 (Hot Sauce) - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20211020005603.0",
+      "uid": { "bugs": "6108591", "melon": "33456220", "genie": "93227616" },
       "tags": [
         "여름노래",
         "산책할때",
@@ -39,10 +41,11 @@
       ]
     },
     {
-      "song": "Hello Future",
-      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20210824003802.0",
+      "title": "Hello Future",
       "artist": "NCT DREAM",
       "album": "Hello Future - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20211020003932.0",
+      "uid": { "bugs": "6116738", "melon": "33628125", "genie": "93633150" },
       "tags": [
         "굿모닝",
         "나른한오후",
@@ -56,10 +59,11 @@
       ]
     },
     {
-      "song": "주인공 (Irreplaceable)",
-      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20210824005418.0",
+      "title": "주인공 (Irreplaceable)",
       "artist": "NCT DREAM",
       "album": "맛 (Hot Sauce) - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20211020005603.0",
+      "uid": { "bugs": "6109181", "melon": "33456226", "genie": "93227621" },
       "tags": [
         "나른한오후",
         "공부할때",
@@ -70,10 +74,11 @@
       ]
     },
     {
-      "song": "우리의 계절 (My Youth)",
-      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20210824005418.0",
+      "title": "우리의 계절 (My Youth)",
       "artist": "NCT DREAM",
       "album": "맛 (Hot Sauce) - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20211020005603.0",
+      "uid": { "bugs": "6109165", "melon": "33456222", "genie": "93227617" },
       "tags": [
         "여름노래",
         "햇살가득",
@@ -84,10 +89,11 @@
       ]
     },
     {
-      "song": "Diggity",
-      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20210824005418.0",
+      "title": "Diggity",
       "artist": "NCT DREAM",
       "album": "맛 (Hot Sauce) - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20211020005603.0",
+      "uid": { "bugs": "6108830", "melon": "33456219", "genie": "93227615" },
       "tags": [
         "운동할때",
         "출근길에",
@@ -102,46 +108,11 @@
       ]
     },
     {
-      "song": "Rainbow (책갈피)",
-      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20210824005418.0",
-      "artist": "NCT DREAM",
-      "album": "맛 (Hot Sauce) - The 1st Album",
-      "tags": [
-        "겨울노래",
-        "잠들기전",
-        "새벽감성",
-        "공부할때",
-        "산책할때",
-        "행운을부르는",
-        "나만알기아까운",
-        "울고싶은날",
-        "힐링이필요해",
-        "잔잔한/발라드"
-      ]
-    },
-    {
-      "song": "ANL",
-      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20210824005418.0",
-      "artist": "NCT DREAM",
-      "album": "맛 (Hot Sauce) - The 1st Album",
-      "tags": [
-        "굿모닝",
-        "햇살가득",
-        "공부할때",
-        "산책할때",
-        "드라이브",
-        "나만알기아까운",
-        "힐링이필요해",
-        "상큼청량",
-        "잔잔한/발라드",
-        "이지리스닝"
-      ]
-    },
-    {
-      "song": "오르골 (Life Is Still Going On)",
-      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20210824003802.0",
+      "title": "오르골 (Life Is Still Going On)",
       "artist": "NCT DREAM",
       "album": "Hello Future - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20211020003932.0",
+      "uid": { "bugs": "6116610", "melon": "33628129", "genie": "93633154" },
       "tags": [
         "나른한오후",
         "공부할때",
@@ -158,10 +129,49 @@
       ]
     },
     {
-      "song": "Rocket",
-      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20210824005418.0",
+      "title": "Rainbow (책갈피)",
       "artist": "NCT DREAM",
       "album": "맛 (Hot Sauce) - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20211020005603.0",
+      "uid": { "bugs": "6108593", "melon": "33456228", "genie": "93227623" },
+      "tags": [
+        "겨울노래",
+        "잠들기전",
+        "새벽감성",
+        "공부할때",
+        "산책할때",
+        "행운을부르는",
+        "나만알기아까운",
+        "울고싶은날",
+        "힐링이필요해",
+        "잔잔한/발라드"
+      ]
+    },
+    {
+      "title": "ANL",
+      "artist": "NCT DREAM",
+      "album": "맛 (Hot Sauce) - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20211020005603.0",
+      "uid": { "bugs": "6109169", "melon": "33456225", "genie": "93227620" },
+      "tags": [
+        "굿모닝",
+        "햇살가득",
+        "공부할때",
+        "산책할때",
+        "드라이브",
+        "나만알기아까운",
+        "힐링이필요해",
+        "상큼청량",
+        "잔잔한/발라드",
+        "이지리스닝"
+      ]
+    },
+    {
+      "title": "Rocket",
+      "artist": "NCT DREAM",
+      "album": "맛 (Hot Sauce) - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20211020005603.0",
+      "uid": { "bugs": "6109166", "melon": "33456223", "genie": "93227618" },
       "tags": [
         "나른한오후",
         "운동할때",
@@ -172,10 +182,11 @@
       ]
     },
     {
-      "song": "지금처럼만 (Be There For You)",
-      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20210824005418.0",
+      "title": "지금처럼만 (Be There For You)",
       "artist": "NCT DREAM",
       "album": "맛 (Hot Sauce) - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20211020005603.0",
+      "uid": { "bugs": "6109182", "melon": "33456227", "genie": "93227622" },
       "tags": [
         "잠들기전",
         "새벽감성",
@@ -189,10 +200,11 @@
       ]
     },
     {
-      "song": "Countdown (3, 2, 1)",
-      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20210824005418.0",
+      "title": "Countdown (3, 2, 1)",
       "artist": "NCT DREAM",
       "album": "맛 (Hot Sauce) - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/40438/4043860.jpg?version=20211020005603.0",
+      "uid": { "bugs": "6109167", "melon": "33456224", "genie": "93227619" },
       "tags": [
         "운동할때",
         "밤샘노동요",
@@ -203,10 +215,11 @@
       ]
     },
     {
-      "song": "BOOM",
-      "image": "https://image.bugsm.co.kr/album/images/50/9115/911532.jpg?version=20190727003416.0",
+      "title": "BOOM",
       "artist": "NCT DREAM",
       "album": "We Boom - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9115/911532.jpg?version=20190727003416.0",
+      "uid": { "bugs": "5702932", "melon": "31951249", "genie": "89255342" },
       "tags": [
         "운동할때",
         "출근길에",
@@ -225,10 +238,11 @@
       ]
     },
     {
-      "song": "마지막 첫사랑 (My First and Last)",
-      "image": "https://image.bugsm.co.kr/album/images/50/200811/20081190.jpg?version=20190402041515.0",
+      "title": "마지막 첫사랑 (My First and Last)",
       "artist": "NCT DREAM",
       "album": "The First - The 1st Single Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/200811/20081190.jpg?version=20190402041515.0",
+      "uid": { "bugs": "30544574", "melon": "30239394", "genie": "86937290" },
       "tags": [
         "출근길에",
         "설렘가득LOVE",
@@ -240,10 +254,11 @@
       ]
     },
     {
-      "song": "Ridin'",
-      "image": "https://image.bugsm.co.kr/album/images/50/9780/978035.jpg?version=20200504164028.0",
+      "title": "Ridin'",
       "artist": "NCT DREAM",
       "album": "Reload",
+      "image": "https://image.bugsm.co.kr/album/images/50/9780/978035.jpg?version=20200504164028.0",
+      "uid": { "bugs": "5895733", "melon": "32550660", "genie": "90139703" },
       "tags": [
         "나른한오후",
         "공부할때",
@@ -257,10 +272,32 @@
       ]
     },
     {
-      "song": "We Go Up",
-      "image": "https://image.bugsm.co.kr/album/images/50/7859/785905.jpg?version=20190402041348.0",
+      "title": "Don't Need Your Love",
+      "artist": "NCT DREAM",
+      "album": "Don't Need Your Love - SM STATION",
+      "image": "https://image.bugsm.co.kr/album/images/50/202586/20258620.jpg?version=20190607112500.0",
+      "uid": { "bugs": "31614974", "melon": "31851107", "genie": "89045684" },
+      "tags": [
+        "가을노래",
+        "겨울노래",
+        "나른한오후",
+        "잠들기전",
+        "새벽감성",
+        "비가주룩",
+        "공부할때",
+        "산책할때",
+        "이별후유증",
+        "나만알기아까운",
+        "울고싶은날",
+        "이지리스닝"
+      ]
+    },
+    {
+      "title": "We Go Up",
       "artist": "NCT DREAM",
       "album": "We Go Up - The 2nd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/7859/785905.jpg?version=20190402041348.0",
+      "uid": { "bugs": "5367643", "melon": "31279316", "genie": "88209841" },
       "tags": [
         "여름노래",
         "굿모닝",
@@ -281,10 +318,11 @@
       ]
     },
     {
-      "song": "Bungee",
-      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20210824003802.0",
+      "title": "Bungee",
       "artist": "NCT DREAM",
       "album": "Hello Future - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20211020003932.0",
+      "uid": { "bugs": "6116739", "melon": "33628126", "genie": "93633151" },
       "tags": [
         "여름노래",
         "나른한오후",
@@ -299,25 +337,11 @@
       ]
     },
     {
-      "song": "무대로 (Déjà Vu; 舞代路)",
-      "image": "https://image.bugsm.co.kr/album/images/50/9975/997576.jpg?version=20201019181153.0",
-      "artist": "NCT DREAM",
-      "album": "NCT RESONANCE Pt. 1 - The 2nd Album",
-      "tags": [
-        "월요병퇴치",
-        "신나는불금",
-        "밤샘노동요",
-        "기분전환",
-        "내적댄스",
-        "자신감뿜뿜",
-        "마라네오"
-      ]
-    },
-    {
-      "song": "사랑은 또다시 (Love Again)",
-      "image": "https://image.bugsm.co.kr/album/images/50/9780/978035.jpg?version=20200504164028.0",
+      "title": "사랑은 또다시 (Love Again)",
       "artist": "NCT DREAM",
       "album": "Reload",
+      "image": "https://image.bugsm.co.kr/album/images/50/9780/978035.jpg?version=20200504164028.0",
+      "uid": { "bugs": "5895392", "melon": "32550663", "genie": "90139706" },
       "tags": [
         "가을노래",
         "잠들기전",
@@ -332,10 +356,11 @@
       ]
     },
     {
-      "song": "Chewing Gum",
-      "image": "https://image.bugsm.co.kr/album/images/50/5853/585311.jpg?version=20190402042138.0",
+      "title": "Chewing Gum",
       "artist": "NCT DREAM",
       "album": "Chewing Gum",
+      "image": "https://image.bugsm.co.kr/album/images/50/5853/585311.jpg?version=20190402042138.0",
+      "uid": { "bugs": "4778966", "melon": "9618701", "genie": "86547492" },
       "tags": [
         "봄노래",
         "여름노래",
@@ -352,10 +377,11 @@
       ]
     },
     {
-      "song": "We Young",
-      "image": "https://image.bugsm.co.kr/album/images/50/201139/20113902.jpg?version=20190402041814.0",
+      "title": "We Young",
       "artist": "NCT DREAM",
       "album": "We Young - The 1st Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/201139/20113902.jpg?version=20190402041814.0",
+      "uid": { "bugs": "30753026", "melon": "30584541", "genie": "87380348" },
       "tags": [
         "여름노래",
         "햇살가득",
@@ -373,10 +399,11 @@
       ]
     },
     {
-      "song": "내게 말해줘 (7 Days)",
-      "image": "https://image.bugsm.co.kr/album/images/50/9780/978035.jpg?version=20200505002347.0",
+      "title": "내게 말해줘 (7 Days)",
       "artist": "NCT DREAM",
       "album": "Reload",
+      "image": "https://image.bugsm.co.kr/album/images/50/9780/978035.jpg?version=20200505002347.0",
+      "uid": { "bugs": "5894808", "melon": "32550662", "genie": "90139705" },
       "tags": [
         "봄노래",
         "나른한오후",
@@ -391,10 +418,11 @@
       ]
     },
     {
-      "song": "같은 시간 같은 자리 (Walk you home)",
-      "image": "https://image.bugsm.co.kr/album/images/50/201139/20113902.jpg?version=20190402040954.0",
+      "title": "같은 시간 같은 자리 (Walk you home)",
       "artist": "NCT DREAM",
       "album": "We Young - The 1st Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/201139/20113902.jpg?version=20190402040954.0",
+      "uid": { "bugs": "30753028", "melon": "30584543", "genie": "87380350" },
       "tags": [
         "봄노래",
         "여름노래",
@@ -416,10 +444,27 @@
       ]
     },
     {
-      "song": "너의 자리 (Puzzle Piece)",
-      "image": "https://image.bugsm.co.kr/album/images/50/9780/978035.jpg?version=20200504164028.0",
+      "title": "무대로 (Déjà Vu; 舞代路)",
+      "artist": "NCT DREAM",
+      "album": "NCT RESONANCE Pt. 1 - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9975/997576.jpg?version=20201019181153.0",
+      "uid": { "bugs": "5996379", "melon": "32979572", "genie": "90997777" },
+      "tags": [
+        "월요병퇴치",
+        "신나는불금",
+        "밤샘노동요",
+        "기분전환",
+        "내적댄스",
+        "자신감뿜뿜",
+        "마라네오"
+      ]
+    },
+    {
+      "title": "너의 자리 (Puzzle Piece)",
       "artist": "NCT DREAM",
       "album": "Reload",
+      "image": "https://image.bugsm.co.kr/album/images/50/9780/978035.jpg?version=20200504164028.0",
+      "uid": { "bugs": "5893757", "melon": "32550664", "genie": "90139707" },
       "tags": [
         "봄노래",
         "굿모닝",
@@ -440,10 +485,11 @@
       ]
     },
     {
-      "song": "사랑한단 뜻이야 (Candle Light)",
-      "image": "https://image.bugsm.co.kr/album/images/50/202191/20219142.jpg?version=20190402041353.0",
+      "title": "사랑한단 뜻이야 (Candle Light)",
       "artist": "NCT DREAM",
       "album": "사랑한단 뜻이야 (Candle Light) - SM STATION",
+      "image": "https://image.bugsm.co.kr/album/images/50/202191/20219142.jpg?version=20190402041353.0",
+      "uid": { "bugs": "31392353", "melon": "31523572", "genie": "88504776" },
       "tags": [
         "겨울노래",
         "나른한오후",
@@ -461,10 +507,11 @@
       ]
     },
     {
-      "song": "사랑이 좀 어려워 (Bye My First…)",
-      "image": "https://image.bugsm.co.kr/album/images/50/9115/911532.jpg?version=20190727003902.0",
+      "title": "사랑이 좀 어려워 (Bye My First…)",
       "artist": "NCT DREAM",
       "album": "We Boom - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9115/911532.jpg?version=20190727003902.0",
+      "uid": { "bugs": "5703086", "melon": "31951252", "genie": "89255345" },
       "tags": [
         "나른한오후",
         "공부할때",
@@ -477,17 +524,19 @@
       ]
     },
     {
-      "song": "Quiet Down",
-      "image": "https://image.bugsm.co.kr/album/images/50/9780/978035.jpg?version=20200504164028.0",
+      "title": "Quiet Down",
       "artist": "NCT DREAM",
       "album": "Reload",
+      "image": "https://image.bugsm.co.kr/album/images/50/9780/978035.jpg?version=20200504164028.0",
+      "uid": { "bugs": "5895470", "melon": "32550661", "genie": "90139704" },
       "tags": ["밤샘노동요", "전투력상승", "치명섹시", "비트맛집힙합"]
     },
     {
-      "song": "GO",
-      "image": "https://image.bugsm.co.kr/album/images/50/7138/713872.jpg?version=20190515012419.0",
+      "title": "GO",
       "artist": "NCT DREAM",
       "album": "NCT 2018 EMPATHY",
+      "image": "https://image.bugsm.co.kr/album/images/50/7138/713872.jpg?version=20190515012419.0",
+      "uid": { "bugs": "5143482", "melon": "30929064", "genie": "87800224" },
       "tags": [
         "운동할때",
         "월요병퇴치",
@@ -504,31 +553,11 @@
       ]
     },
     {
-      "song": "Don’t Need Your Love",
-      "image": "https://image.bugsm.co.kr/album/images/50/202586/20258620.jpg?version=20190607112500.0",
-      "artist": "NCT DREAM",
-      "album": "Don’t Need Your Love - SM STATION",
-      "tags": [
-        "가을노래",
-        "겨울노래",
-        "나른한오후",
-        "잠들기전",
-        "새벽감성",
-        "비가주룩",
-        "공부할때",
-        "산책할때",
-        "이별후유증",
-        "나만알기아까운",
-        "울고싶은날",
-        "이지리스닝"
-      ],
-      "그룹별": "SPECIAL"
-    },
-    {
-      "song": "My Page",
-      "image": "https://image.bugsm.co.kr/album/images/50/201139/20113902.jpg?version=20190402041856.0",
+      "title": "My Page",
       "artist": "NCT DREAM",
       "album": "We Young - The 1st Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/201139/20113902.jpg?version=20190402041856.0",
+      "uid": { "bugs": "30753029", "melon": "30584544", "genie": "87380351" },
       "tags": [
         "여름노래",
         "굿모닝",
@@ -547,10 +576,11 @@
       ]
     },
     {
-      "song": "덩크슛 (Dunk Shot)",
-      "image": "https://image.bugsm.co.kr/album/images/50/200811/20081190.jpg?version=20190402040412.0",
+      "title": "덩크슛 (Dunk Shot)",
       "artist": "NCT DREAM",
-      "album": "The First - The 1st Single Album",
+      "album": "The First - The 1st Single Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/200811/20081190.jpg?version=20190402040412.0",
+      "uid": { "bugs": "30544576", "melon": "30239396", "genie": "86937292" },
       "tags": [
         "나른한오후",
         "햇살가득",
@@ -566,10 +596,11 @@
       ]
     },
     {
-      "song": "1, 2, 3",
-      "image": "https://image.bugsm.co.kr/album/images/50/7859/785905.jpg?version=20190402040548.0",
+      "title": "1, 2, 3",
       "artist": "NCT DREAM",
       "album": "We Go Up - The 2nd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/7859/785905.jpg?version=20190402040548.0",
+      "uid": { "bugs": "5371062", "melon": "31283800", "genie": "88222287" },
       "tags": [
         "나른한오후",
         "잠들기전",
@@ -583,10 +614,11 @@
       ]
     },
     {
-      "song": "Dear DREAM",
-      "image": "https://image.bugsm.co.kr/album/images/50/7859/785905.jpg?version=20190402040409.0",
+      "title": "Dear DREAM",
       "artist": "NCT DREAM",
       "album": "We Go Up - The 2nd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/7859/785905.jpg?version=20190402040409.0",
+      "uid": { "bugs": "5371065", "melon": "31283803", "genie": "88222285" },
       "tags": [
         "겨울노래",
         "잠들기전",
@@ -598,10 +630,11 @@
       ]
     },
     {
-      "song": "119",
-      "image": "https://image.bugsm.co.kr/album/images/50/9115/911532.jpg?version=20190727003825.0",
+      "title": "119",
       "artist": "NCT DREAM",
       "album": "We Boom - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9115/911532.jpg?version=20190727003825.0",
+      "uid": { "bugs": "5703085", "melon": "31951251", "genie": "89255344" },
       "tags": [
         "운동할때",
         "월요병퇴치",
@@ -615,10 +648,11 @@
       ]
     },
     {
-      "song": "너와 나 (Beautiful Time)",
-      "image": "https://image.bugsm.co.kr/album/images/50/7859/785905.jpg?version=20190402041124.0",
+      "title": "너와 나 (Beautiful Time)",
       "artist": "NCT DREAM",
       "album": "We Go Up - The 2nd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/7859/785905.jpg?version=20190402041124.0",
+      "uid": { "bugs": "5371063", "melon": "31283801", "genie": "88222288" },
       "tags": [
         "봄노래",
         "가을노래",
@@ -633,10 +667,11 @@
       ]
     },
     {
-      "song": "Best Friend",
-      "image": "https://image.bugsm.co.kr/album/images/50/9115/911532.jpg?version=20190727003259.0",
+      "title": "Best Friend",
       "artist": "NCT DREAM",
       "album": "We Boom - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9115/911532.jpg?version=20190727003259.0",
+      "uid": { "bugs": "5703087", "melon": "31951253", "genie": "89255346" },
       "tags": [
         "나른한오후",
         "공부할때",
@@ -650,10 +685,11 @@
       ]
     },
     {
-      "song": "STRONGER",
-      "image": "https://image.bugsm.co.kr/album/images/50/9115/911532.jpg?version=20190727003027.0",
+      "title": "STRONGER",
       "artist": "NCT DREAM",
       "album": "We Boom - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9115/911532.jpg?version=20190727003027.0",
+      "uid": { "bugs": "5703084", "melon": "31951250", "genie": "89255343" },
       "tags": [
         "운동할때",
         "월요병퇴치",
@@ -668,10 +704,11 @@
       ]
     },
     {
-      "song": "Drippin’",
-      "image": "https://image.bugsm.co.kr/album/images/50/7859/785905.jpg?version=20190402042516.0",
+      "title": "Drippin'",
       "artist": "NCT DREAM",
       "album": "We Go Up - The 2nd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/7859/785905.jpg?version=20190402042516.0",
+      "uid": { "bugs": "5371064", "melon": "31283802", "genie": "88222284" },
       "tags": [
         "운동할때",
         "월요병퇴치",
@@ -686,10 +723,11 @@
       ]
     },
     {
-      "song": "Trigger the fever",
-      "image": "https://image.bugsm.co.kr/album/images/50/200871/20087123.jpg?version=20190402042559.0",
+      "title": "Trigger the fever",
       "artist": "NCT DREAM",
       "album": "Trigger the fever - The Official Song of the FIFA U-20 World Cup Korea Republic 2017",
+      "image": "https://image.bugsm.co.kr/album/images/50/200871/20087123.jpg?version=20190402042559.0",
+      "uid": { "bugs": "30585945", "melon": "30305542", "genie": "87017102" },
       "tags": [
         "여름노래",
         "굿모닝",
@@ -709,14 +747,14 @@
         "해피바이러스",
         "상큼청량",
         "이지리스닝"
-      ],
-      "그룹별": "SPECIAL"
+      ]
     },
     {
-      "song": "Dream Run",
-      "image": "https://image.bugsm.co.kr/album/images/50/9115/911532.jpg?version=20190727003649.0",
+      "title": "Dream Run",
       "artist": "NCT DREAM",
       "album": "We Boom - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9115/911532.jpg?version=20190727003649.0",
+      "uid": { "bugs": "5703088", "melon": "31951254", "genie": "89255347" },
       "tags": [
         "여름노래",
         "가을노래",
@@ -733,10 +771,11 @@
       ]
     },
     {
-      "song": "La La Love",
-      "image": "https://image.bugsm.co.kr/album/images/50/201139/20113902.jpg?version=20190402040821.0",
+      "title": "La La Love",
       "artist": "NCT DREAM",
       "album": "We Young - The 1st Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/201139/20113902.jpg?version=20190402040821.0",
+      "uid": { "bugs": "30753027", "melon": "30584542", "genie": "87380349" },
       "tags": [
         "봄노래",
         "여름노래",
@@ -757,10 +796,11 @@
       ]
     },
     {
-      "song": "Fireflies",
-      "image": "https://image.bugsm.co.kr/album/images/50/202655/20265583.jpg?version=20190716003912.0",
+      "title": "Fireflies",
       "artist": "NCT DREAM",
       "album": "Fireflies - THE OFFICIAL SONG OF THE WORLD SCOUT FOUNDATION",
+      "image": "https://image.bugsm.co.kr/album/images/50/202655/20265583.jpg?version=20190716003912.0",
+      "uid": { "bugs": "31650108", "melon": "31925238", "genie": "89215874" },
       "tags": [
         "가을노래",
         "나른한오후",
@@ -776,10 +816,11 @@
       ]
     },
     {
-      "song": "JOY",
-      "image": "https://image.bugsm.co.kr/album/images/50/201362/20136241.jpg?version=20190402042308.0",
+      "title": "JOY",
       "artist": "NCT DREAM",
       "album": "JOY - SM STATION",
+      "image": "https://image.bugsm.co.kr/album/images/50/201362/20136241.jpg?version=20190402042308.0",
+      "uid": { "bugs": "30883702", "melon": "30791821", "genie": "87609534" },
       "tags": [
         "겨울노래",
         "눈이펑펑",
@@ -794,199 +835,214 @@
         "달달설렘",
         "잔잔한/발라드",
         "이지리스닝"
-      ],
-      "그룹별": "SM STATION"
+      ]
     },
     {
-      "song": "(Bonus Track) Trigger the fever",
+      "title": "고래 (Dive Into You)",
+      "artist": "NCT DREAM",
+      "album": "Hello Future - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20211020003932.0",
+      "uid": { "bugs": "6116742", "melon": "33628130", "genie": "93633155" },
+      "tags": ["NO_TAG"]
+    },
+    {
+      "title": "(Bonus Track) Trigger the fever",
+      "artist": "NCT DREAM",
+      "album": "We Young - The 1st Mini Album",
       "image": "https://image.bugsm.co.kr/album/images/50/201139/20113902.jpg?version=20190402041731.0",
-      "artist": "NCT DREAM",
-      "album": "We Young - The 1st Mini Album"
+      "uid": { "bugs": "30753031", "melon": "30584546", "genie": "87380353" },
+      "tags": ["NO_TAG"]
     },
     {
-      "song": "고래 (Dive Into You)",
-      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20210824003802.0",
+      "title": "Diggity",
       "artist": "NCT DREAM",
-      "album": "Hello Future - The 1st Album Repackage"
+      "album": "Hello Future - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20211020003932.0",
+      "uid": { "bugs": "6116741", "melon": "33628128", "genie": "93633153" },
+      "tags": ["NO_TAG"]
     },
     {
-      "song": "무대로 (Déjà Vu; 舞代路)",
+      "title": "주인공 (Irreplaceable)",
+      "artist": "NCT DREAM",
+      "album": "Hello Future - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20211020003932.0",
+      "uid": { "bugs": "6116748", "melon": "33628135", "genie": "93633160" },
+      "tags": ["NO_TAG"]
+    },
+    {
+      "title": "우리의 계절 (My Youth)",
+      "artist": "NCT DREAM",
+      "album": "Hello Future - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20211020003932.0",
+      "uid": { "bugs": "6116743", "melon": "33628131", "genie": "93633156" },
+      "tags": ["NO_TAG"]
+    },
+    {
+      "title": "맛 (Hot Sauce)",
+      "artist": "NCT DREAM",
+      "album": "Hello Future - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20211020003932.0",
+      "uid": { "bugs": "6116740", "melon": "33628127", "genie": "93633152" },
+      "tags": ["NO_TAG"]
+    },
+    {
+      "title": "ANL",
+      "artist": "NCT DREAM",
+      "album": "Hello Future - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20211020003932.0",
+      "uid": { "bugs": "6116747", "melon": "33628134", "genie": "93633159" },
+      "tags": ["NO_TAG"]
+    },
+    {
+      "title": "무대로 (Déjà Vu; 舞代路)",
+      "artist": "NCT DREAM",
+      "album": "NCT RESONANCE Pt. 2 - The 2nd Album",
       "image": "https://image.bugsm.co.kr/album/images/50/203624/20362488.jpg?version=20201208002529.0",
-      "artist": "NCT DREAM",
-      "album": "NCT RESONANCE Pt. 2 - The 2nd Album"
+      "uid": { "bugs": "32077561", "melon": "33082154", "genie": "91458630" },
+      "tags": ["NO_TAG"]
     },
     {
-      "song": "Diggity",
-      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20210824003802.0",
+      "title": "Rocket",
       "artist": "NCT DREAM",
-      "album": "Hello Future - The 1st Album Repackage"
+      "album": "Hello Future - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20211020003932.0",
+      "uid": { "bugs": "6116745", "melon": "33628132", "genie": "93633157" },
+      "tags": ["NO_TAG"]
     },
     {
-      "song": "맛 (Hot Sauce)",
-      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20210824003802.0",
+      "title": "지금처럼만 (Be There For You)",
       "artist": "NCT DREAM",
-      "album": "Hello Future - The 1st Album Repackage"
+      "album": "Hello Future - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20211020003932.0",
+      "uid": { "bugs": "6116749", "melon": "33628136", "genie": "93633161" },
+      "tags": ["NO_TAG"]
     },
     {
-      "song": "주인공 (Irreplaceable)",
-      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20210824003802.0",
+      "title": "Rainbow (책갈피)",
       "artist": "NCT DREAM",
-      "album": "Hello Future - The 1st Album Repackage"
+      "album": "Hello Future - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20211020003932.0",
+      "uid": { "bugs": "6116750", "melon": "33628137", "genie": "93633162" },
+      "tags": ["NO_TAG"]
     },
     {
-      "song": "우리의 계절 (My Youth)",
-      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20210824003802.0",
+      "title": "Chewing Gum",
       "artist": "NCT DREAM",
-      "album": "Hello Future - The 1st Album Repackage"
-    },
-    {
-      "song": "ANL",
-      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20210824003802.0",
-      "artist": "NCT DREAM",
-      "album": "Hello Future - The 1st Album Repackage"
-    },
-    {
-      "song": "Rocket",
-      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20210824003802.0",
-      "artist": "NCT DREAM",
-      "album": "Hello Future - The 1st Album Repackage"
-    },
-    {
-      "song": "지금처럼만 (Be There For You)",
-      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20210824003802.0",
-      "artist": "NCT DREAM",
-      "album": "Hello Future - The 1st Album Repackage"
-    },
-    {
-      "song": "Chewing Gum",
+      "album": "The First - The 1st Single Album",
       "image": "https://image.bugsm.co.kr/album/images/50/200811/20081190.jpg?version=20190402041304.0",
-      "artist": "NCT DREAM",
-      "album": "The First - The 1st Single Album"
+      "uid": { "bugs": "30544577", "melon": "30239397", "genie": "86937293" },
+      "tags": ["NO_TAG"]
     },
     {
-      "song": "Rainbow (책갈피)",
-      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20210824003802.0",
+      "title": "Countdown (3, 2, 1)",
       "artist": "NCT DREAM",
-      "album": "Hello Future - The 1st Album Repackage"
+      "album": "Hello Future - The 1st Album Repackage",
+      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20211020003932.0",
+      "uid": { "bugs": "6116746", "melon": "33628133", "genie": "93633158" },
+      "tags": ["NO_TAG"]
     },
     {
-      "song": "Countdown (3, 2, 1)",
-      "image": "https://image.bugsm.co.kr/album/images/50/40522/4052240.jpg?version=20210824003802.0",
+      "title": "We Go Up (青春接力) (Chinese ver.)",
       "artist": "NCT DREAM",
-      "album": "Hello Future - The 1st Album Repackage"
-    },
-    {
-      "song": "We Go Up (青春接力) (Chinese ver.)",
+      "album": "We Go Up - The 2nd Mini Album",
       "image": "https://image.bugsm.co.kr/album/images/50/7859/785905.jpg?version=20190402040641.0",
-      "artist": "NCT DREAM",
-      "album": "We Go Up - The 2nd Mini Album"
+      "uid": { "bugs": "5371066", "melon": "31283804", "genie": "88222286" },
+      "tags": ["NO_TAG"]
     },
     {
-      "song": "맛 (Hot Sauce) (Hitchhiker Remix)",
-      "image": "https://image.bugsm.co.kr/album/images/50/204021/20402127.jpg?version=20210915003437.0",
+      "title": "맛 (Hot Sauce) (Hitchhiker Remix)",
       "artist": "NCT DREAM",
       "album": "iScreaM Vol.9 : 맛 (Hot Sauce) Remixes",
+      "image": "https://image.bugsm.co.kr/album/images/50/204021/20402127.jpg?version=20211102013926.0",
+      "uid": { "bugs": "32256088", "melon": "33568716", "genie": "93512257" },
       "tags": "REMIX"
     },
     {
-      "song": "Chewing Gum (泡泡糖) (Chinese Ver.)",
+      "title": "Chewing Gum (泡泡糖) (Chinese Ver.)",
+      "artist": "NCT DREAM",
+      "album": "Chewing Gum",
       "image": "https://image.bugsm.co.kr/album/images/50/5853/585311.jpg?version=20190402042305.0",
-      "artist": "NCT DREAM",
-      "album": "Chewing Gum"
+      "uid": { "bugs": "4778967", "melon": "9618702", "genie": "86547493" },
+      "tags": ["NO_TAG"]
     },
     {
-      "song": "最後的初戀 (My First and Last)",
+      "title": "最後的初戀 (My First and Last)",
+      "artist": "NCT DREAM",
+      "album": "The First - The 1st Single Album",
       "image": "https://image.bugsm.co.kr/album/images/50/200811/20081190.jpg?version=20200423173016.0",
-      "artist": "NCT DREAM",
-      "album": "The First - The 1st Single Album"
+      "uid": { "bugs": "30544575", "melon": "30239395", "genie": "86937291" },
+      "tags": ["NO_TAG"]
     },
     {
-      "song": "We Young (Chinese ver.)",
+      "title": "We Young (Chinese ver.)",
+      "artist": "NCT DREAM",
+      "album": "We Young - The 1st Mini Album",
       "image": "https://image.bugsm.co.kr/album/images/50/201139/20113902.jpg?version=20200423173027.0",
-      "artist": "NCT DREAM",
-      "album": "We Young - The 1st Mini Album"
+      "uid": { "bugs": "30753030", "melon": "30584545", "genie": "87380352" },
+      "tags": ["NO_TAG"]
     },
     {
-      "song": "BOOM (Minit Remix) (Bonus Track)",
-      "image": "https://image.bugsm.co.kr/album/images/50/203325/20332504.jpg?version=20210518215942.0",
+      "title": "BOOM (Minit Remix) (Bonus Track)",
       "artist": "NCT DREAM",
       "album": "iScreaM Vol.2 : Ridin' Remixes",
+      "image": "https://image.bugsm.co.kr/album/images/50/203325/20332504.jpg?version=20211102012939.0",
+      "uid": { "bugs": "31947005", "melon": "32695162", "genie": "90407904" },
       "tags": "REMIX"
     },
     {
-      "song": "Ridin' (Will Not Fear Remix)",
-      "image": "https://image.bugsm.co.kr/album/images/50/203325/20332504.jpg?version=20210518221035.0",
+      "title": "Ridin' (Will Not Fear Remix)",
       "artist": "NCT DREAM",
       "album": "iScreaM Vol.2 : Ridin' Remixes",
+      "image": "https://image.bugsm.co.kr/album/images/50/203325/20332504.jpg?version=20211102012939.0",
+      "uid": { "bugs": "31947003", "melon": "32695160", "genie": "90407902" },
       "tags": "REMIX"
     },
     {
-      "song": "Ridin' (IMLAY Remix)",
-      "image": "https://image.bugsm.co.kr/album/images/50/203325/20332504.jpg?version=20210518220646.0",
+      "title": "Ridin' (IMLAY Remix)",
       "artist": "NCT DREAM",
       "album": "iScreaM Vol.2 : Ridin' Remixes",
+      "image": "https://image.bugsm.co.kr/album/images/50/203325/20332504.jpg?version=20211102012939.0",
+      "uid": { "bugs": "31947004", "melon": "32695161", "genie": "90407903" },
       "tags": "REMIX"
     },
     {
-      "song": "Chewing Gum (泡泡糖)",
+      "title": "Chewing Gum (泡泡糖)",
+      "artist": "NCT DREAM",
+      "album": "The First - The 1st Single Album",
       "image": "https://image.bugsm.co.kr/album/images/50/200811/20081190.jpg?version=20200423174452.0",
-      "artist": "NCT DREAM",
-      "album": "The First - The 1st Single Album"
+      "uid": { "bugs": "30544578", "melon": "30239398", "genie": "86937294" },
+      "tags": ["NO_TAG"]
     },
     {
-      "song": "맛 (Hot Sauce) (MINIMONSTER Remix)",
-      "image": "https://image.bugsm.co.kr/album/images/50/204021/20402127.jpg?version=20210915003437.0",
+      "title": "맛 (Hot Sauce) (MINIMONSTER Remix)",
       "artist": "NCT DREAM",
       "album": "iScreaM Vol.9 : 맛 (Hot Sauce) Remixes",
+      "image": "https://image.bugsm.co.kr/album/images/50/204021/20402127.jpg?version=20211102013926.0",
+      "uid": { "bugs": "32256089", "melon": "33568717", "genie": "93512258" },
       "tags": "REMIX"
     },
     {
-      "song": "Black on Black",
-      "image": "https://image.bugsm.co.kr/album/images/50/7138/713872.jpg?version=20190515005018.0",
+      "title": "Black on Black",
       "artist": "NCT 2018",
-      "album": "NCT 2018 EMPATHY"
+      "album": "NCT 2018 EMPATHY",
+      "image": "https://image.bugsm.co.kr/album/images/50/7138/713872.jpg?version=20190515005018.0",
+      "uid": { "bugs": "5150649" },
+      "tags": ["NO_TAG"]
     },
     {
-      "song": "Best Day Ever (Sung By 해찬, 천러, 지성)",
-      "image": "https://image.bugsm.co.kr/album/images/50/202155/20215595.jpg?version=20190402041130.0",
+      "title": "Best Day Ever (Sung By 해찬, 천러, 지성)",
       "artist": "NCT",
-      "album": "드림웍스 트롤 X SM STATION"
+      "album": "드림웍스 트롤 X SM STATION",
+      "image": "https://image.bugsm.co.kr/album/images/50/202155/20215595.jpg?version=20190402041130.0",
+      "uid": { "bugs": "31369192" },
+      "tags": ["NO_TAG"]
     },
     {
-      "song": "Day Dream (白日夢)",
-      "image": "https://image.bugsm.co.kr/album/images/50/9676/967641.jpg?version=20201104115012.0",
-      "artist": "NCT 127",
-      "album": "NCT 127 Neo Zone – The 2nd Album"
-    },
-    {
-      "song": "Outro: Dream Routine",
-      "image": "https://image.bugsm.co.kr/album/images/50/203624/20362488.jpg?version=20201208002529.0",
-      "artist": "NCT U",
-      "album": "NCT RESONANCE Pt. 2 - The 2nd Album"
-    },
-    {
-      "song": "梦中梦 (몽중몽; Dream In A Dream)",
-      "image": "https://image.bugsm.co.kr/album/images/50/7138/713872.jpg?version=20190515003254.0",
-      "artist": "NCT U",
-      "album": "NCT 2018 EMPATHY"
-    },
-    {
-      "song": "Day Dream (白日夢)",
-      "image": "https://image.bugsm.co.kr/album/images/50/9796/979693.jpg?version=20201104115051.0",
-      "artist": "NCT 127",
-      "album": "NCT 127 Neo Zone The Final Round – The 2nd Album Repackage"
-    },
-    {
-      "song": "New Dream (Sung by 태일, 재현)",
-      "image": "https://image.bugsm.co.kr/album/images/50/201924/20192447.jpg?version=20190604121017.0",
-      "artist": "NCT U",
-      "album": "독고 리와인드 OST"
-    },
-    {
-      "song": "Up to You (feat. NCT DREAM)",
-      "image": "https://image.bugsm.co.kr/album/images/50/9567/956785.jpg?version=20200928002211.0",
+      "title": "Up to You (feat. NCT DREAM)",
       "artist": "PRETTYMUCH(프리티머치)",
       "album": "INTL:EP",
+      "image": "https://image.bugsm.co.kr/album/images/50/9567/956785.jpg?version=20200928002211.0",
+      "uid": { "bugs": "5809193" },
       "tags": [
         "공부할때",
         "산책할때",
@@ -998,180 +1054,207 @@
         "내적댄스",
         "달달설렘",
         "잔잔한/발라드"
-      ],
-      "그룹별": "SPECIAL"
+      ]
     },
     {
-      "song": "Don't Need Your Love",
+      "title": "Don't Need Your Love",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625230541.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935884", "melon": "32655313", "genie": "90348588" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "같은 시간 같은 자리 (Walk you home)",
+      "title": "같은 시간 같은 자리 (Walk you home)",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625220706.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935878", "melon": "32655324", "genie": "90348582" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "Best Friend",
-      "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200703215237.0",
+      "title": "Trigger the fever",
       "artist": "NCT DREAM",
       "album": "THE DREAM SHOW - The 1st Live Album",
-      "tags": ["방구석콘서트"]
-    },
-    {
-      "song": "Trigger the fever",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625232104.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935886", "melon": "32655317", "genie": "90348590" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "사랑이 좀 어려워 (Bye My First...)",
-      "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625225638.0",
+      "title": "Best Friend",
       "artist": "NCT DREAM",
       "album": "THE DREAM SHOW - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200703215237.0",
+      "uid": { "bugs": "31935877", "melon": "32655322", "genie": "90348581" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "마지막 첫사랑 (My First and Last)",
+      "title": "마지막 첫사랑 (My First and Last)",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625224013.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935881", "melon": "32655307", "genie": "90348585" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "Dream Run",
+      "title": "사랑이 좀 어려워 (Bye My First...)",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625225638.0",
+      "uid": { "bugs": "31935883", "melon": "32655311", "genie": "90348587" },
+      "tags": ["방구석콘서트"]
+    },
+    {
+      "title": "Dream Run",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625215252.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935876", "melon": "32655320", "genie": "90348580" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "사랑한단 뜻이야 (Candle Light)",
+      "title": "사랑한단 뜻이야 (Candle Light)",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625221900.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935879", "melon": "32655325", "genie": "90348583" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "My Page",
+      "title": "My Page",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625224651.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935882", "melon": "32655309", "genie": "90348586" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "BOOM",
+      "title": "BOOM",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625232643.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935887", "melon": "32655319", "genie": "90348591" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "We Go Up",
+      "title": "We Go Up",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625211124.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935872", "melon": "32655312", "genie": "90348576" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "덩크슛 (Dunk Shot)",
+      "title": "덩크슛 (Dunk Shot)",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625214009.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935874", "melon": "32655316", "genie": "90348578" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "We Young",
-      "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625223542.0",
+      "title": "GO",
       "artist": "NCT DREAM",
       "album": "THE DREAM SHOW - The 1st Live Album",
-      "tags": ["방구석콘서트"]
-    },
-    {
-      "song": "GO",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625181328.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935868", "melon": "32655304", "genie": "90348572" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "너와 나 (Beautiful Time)",
+      "title": "너와 나 (Beautiful Time)",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625233553.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935889", "melon": "32655323", "genie": "90348593" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "Chewing Gum",
+      "title": "We Young",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625223542.0",
+      "uid": { "bugs": "31935880", "melon": "32655305", "genie": "90348584" },
+      "tags": ["방구석콘서트"]
+    },
+    {
+      "title": "Chewing Gum",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625214528.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935875", "melon": "32655318", "genie": "90348579" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "Drippin'",
+      "title": "Drippin'",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625182306.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935869", "melon": "32655306", "genie": "90348573" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "1, 2, 3",
-      "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625183447.0",
+      "title": "Fireflies",
       "artist": "NCT DREAM",
       "album": "THE DREAM SHOW - The 1st Live Album",
-      "tags": ["방구석콘서트"]
-    },
-    {
-      "song": "Fireflies",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625230953.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935885", "melon": "32655315", "genie": "90348589" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "119",
+      "title": "119",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625183010.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935870", "melon": "32655308", "genie": "90348574" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "La La Love",
+      "title": "1, 2, 3",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625183447.0",
+      "uid": { "bugs": "31935871", "melon": "32655310", "genie": "90348575" },
+      "tags": ["방구석콘서트"]
+    },
+    {
+      "title": "La La Love",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625233022.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935888", "melon": "32655321", "genie": "90348592" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "STRONGER",
+      "title": "STRONGER",
+      "artist": "NCT DREAM",
+      "album": "THE DREAM SHOW - The 1st Live Album",
       "image": "https://image.bugsm.co.kr/album/images/50/203301/20330132.jpg?version=20200625212744.0",
-      "artist": "NCT DREAM",
-      "album": "THE DREAM SHOW - The 1st Live Album",
+      "uid": { "bugs": "31935873", "melon": "32655314", "genie": "90348577" },
       "tags": ["방구석콘서트"]
     },
     {
-      "song": "사랑한단 뜻이야 (Candle Light) (Inst.)",
-      "image": "https://image.bugsm.co.kr/album/images/50/202191/20219142.jpg?version=20201029033055.0",
+      "title": "Don't Need Your Love (Inst.)",
       "artist": "NCT DREAM",
-      "album": "사랑한단 뜻이야 (Candle Light) - SM STATION"
-    },
-    {
-      "song": "Don’t Need Your Love (Inst.)",
+      "album": "Don't Need Your Love - SM STATION",
       "image": "https://image.bugsm.co.kr/album/images/50/202586/20258620.jpg?version=20190607112500.0",
-      "artist": "NCT DREAM",
-      "album": "Don’t Need Your Love - SM STATION"
+      "uid": { "bugs": "31614975", "melon": "31851108", "genie": "89045685" },
+      "tags": ["NO_TAG"]
     },
     {
-      "song": "JOY (Inst.)",
-      "image": "https://image.bugsm.co.kr/album/images/50/201362/20136241.jpg?version=20201029032756.0",
+      "title": "사랑한단 뜻이야 (Candle Light) (Inst.)",
       "artist": "NCT DREAM",
-      "album": "JOY - SM STATION"
+      "album": "사랑한단 뜻이야 (Candle Light) - SM STATION",
+      "image": "https://image.bugsm.co.kr/album/images/50/202191/20219142.jpg?version=20201029033055.0",
+      "uid": { "bugs": "31392354", "melon": "31523573", "genie": "88504777" },
+      "tags": ["NO_TAG"]
+    },
+    {
+      "title": "JOY (Inst.)",
+      "artist": "NCT DREAM",
+      "album": "JOY - SM STATION",
+      "image": "https://image.bugsm.co.kr/album/images/50/201362/20136241.jpg?version=20201029032756.0",
+      "uid": { "bugs": "30883703", "melon": "30791822", "genie": "87609535" },
+      "tags": ["NO_TAG"]
     }
   ]
 }

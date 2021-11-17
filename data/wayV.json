@@ -1,0 +1,303 @@
+{
+  "wayV": [
+    {
+      "title": "月之迷 (Nectar)",
+      "artist": "WayV",
+      "album": "NCT RESONANCE Pt. 1 - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/9975/997576.jpg?version=20201019181153.0",
+      "uid": { "bugs": "5996475", "genie": "90997778", "melon": "32979573" }
+    },
+    {
+      "title": "Kick Back (Korean Ver.)",
+      "artist": "WayV",
+      "album": "Kick Back - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203837/20383711.jpg?version=20210312002241.0",
+      "uid": { "bugs": "32176990", "genie": "92575481", "melon": "33340664" }
+    },
+    {
+      "title": "Action Figure",
+      "artist": "WayV",
+      "album": "Kick Back - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203837/20383711.jpg?version=20210312002241.0",
+      "uid": { "bugs": "32176986", "genie": "92575477", "melon": "33340660" }
+    },
+    {
+      "title": "秘境 (Kick Back)",
+      "artist": "WayV",
+      "album": "Kick Back - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203837/20383711.jpg?version=20210312002241.0",
+      "uid": { "bugs": "32176985", "genie": "92575476", "melon": "33340659" }
+    },
+    {
+      "title": "Love Talk",
+      "artist": "WayV",
+      "album": "Love Talk",
+      "image": "https://image.bugsm.co.kr/album/images/50/202863/20286332.jpg?version=20191119120756.0",
+      "uid": { "bugs": "31742232", "genie": "89540341", "melon": "32147679" }
+    },
+    {
+      "title": "Moonwalk (天選之城)",
+      "artist": "WayV",
+      "album": "Take Over The Moon - The 2nd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202851/20285101.jpg?version=20201014201106.0",
+      "uid": { "bugs": "31735498", "genie": "89505747", "melon": "32132114" }
+    },
+    {
+      "title": "Take Off",
+      "artist": "WayV",
+      "album": "Take Off - The 1st Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202519/20251989.jpg?version=20190510160514.0",
+      "uid": { "bugs": "31579041", "genie": "88908276", "melon": "31782959" }
+    },
+    {
+      "title": "天空海 (Horizon)",
+      "artist": "WayV",
+      "album": "Kick Back - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203837/20383711.jpg?version=20210717014219.0",
+      "uid": { "bugs": "32176987", "genie": "92575478", "melon": "33340661" }
+    },
+    {
+      "title": "Good Time",
+      "artist": "WayV",
+      "album": "Kick Back - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203837/20383711.jpg?version=20210717014625.0",
+      "uid": { "bugs": "32176989", "genie": "92575480", "melon": "33340663" }
+    },
+    {
+      "title": "梦尽 (All For Love)",
+      "artist": "WayV",
+      "album": "Kick Back - The 3rd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203837/20383711.jpg?version=20210717015131.0",
+      "uid": { "bugs": "32176988", "genie": "92575479", "melon": "33340662" }
+    },
+    {
+      "title": "Turn Back Time (超時空 回)",
+      "artist": "WayV",
+      "album": "Awaken The World - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203303/20330315.jpg?version=20201014203151.0",
+      "uid": { "bugs": "31936720", "genie": "90351529", "melon": "32660127" }
+    },
+    {
+      "title": "Turn Back Time (Korean Ver.)",
+      "artist": "WayV",
+      "album": "Turn Back Time (Korean Ver.)",
+      "image": "https://image.bugsm.co.kr/album/images/50/203324/20332410.jpg?version=20200619002902.0",
+      "uid": { "bugs": "31946637", "genie": "90407194", "melon": "32693442" }
+    },
+    {
+      "title": "Bad Alive (English Ver.)",
+      "artist": "WayV",
+      "album": "Bad Alive (English Ver.)",
+      "image": "https://image.bugsm.co.kr/album/images/50/203408/20340837.jpg?version=20200730135353.0",
+      "uid": { "bugs": "31982432", "genie": "90597703", "melon": "32821421" }
+    },
+    {
+      "title": "Dream Launch",
+      "artist": "WayV",
+      "album": "The Vision - The 1st Digital EP",
+      "image": "https://image.bugsm.co.kr/album/images/50/202235/20223544.jpg?version=20190720003317.0",
+      "uid": { "bugs": "31421651", "genie": "88556775", "melon": "31565602" }
+    },
+    {
+      "title": "Regular",
+      "artist": "WayV",
+      "album": "The Vision - The 1st Digital EP",
+      "image": "https://image.bugsm.co.kr/album/images/50/202235/20223544.jpg?version=20190402040736.0",
+      "uid": { "bugs": "31421649", "genie": "88556773", "melon": "31565600" }
+    },
+    {
+      "title": "Domino (多米諾)",
+      "artist": "WayV",
+      "album": "Awaken The World - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203303/20330315.jpg?version=20210907162345.0",
+      "uid": { "bugs": "31936726", "genie": "90351535", "melon": "32660133" }
+    },
+    {
+      "title": "Let Me Love U",
+      "artist": "WayV",
+      "album": "Take Off - The 1st Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202519/20251989.jpg?version=20190510160514.0",
+      "uid": { "bugs": "31579045", "genie": "88908280", "melon": "31782963" }
+    },
+    {
+      "title": "月之迷 (Nectar)",
+      "artist": "WayV",
+      "album": "NCT RESONANCE Pt. 2 - The 2nd Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203624/20362488.jpg?version=20201208002529.0",
+      "uid": { "bugs": "32077562", "genie": "91458631", "melon": "33082155" }
+    },
+    {
+      "title": "After Midnight",
+      "artist": "WayV",
+      "album": "Awaken The World - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203303/20330315.jpg?version=20210907163943.0",
+      "uid": { "bugs": "31936723", "genie": "90351532", "melon": "32660130" }
+    },
+    {
+      "title": "Bad Alive",
+      "artist": "WayV",
+      "album": "Awaken The World - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203303/20330315.jpg?version=20201029000030.0",
+      "uid": { "bugs": "31936721", "genie": "90351530", "melon": "32660128" }
+    },
+    {
+      "title": "Stand By Me",
+      "artist": "WayV",
+      "album": "Awaken The World - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203303/20330315.jpg?version=20200618144504.0",
+      "uid": { "bugs": "31936729", "genie": "90351538", "melon": "32660136" }
+    },
+    {
+      "title": "Come Back",
+      "artist": "WayV",
+      "album": "The Vision - The 1st Digital EP",
+      "image": "https://image.bugsm.co.kr/album/images/50/202235/20223544.jpg?version=20190402041858.0",
+      "uid": { "bugs": "31421650", "genie": "88556774", "melon": "31565601" }
+    },
+    {
+      "title": "Electric Hearts",
+      "artist": "WayV",
+      "album": "Awaken The World - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203303/20330315.jpg?version=20200618144504.0",
+      "uid": { "bugs": "31936728", "genie": "90351537", "melon": "32660135" }
+    },
+    {
+      "title": "Only Human",
+      "artist": "WayV",
+      "album": "Awaken The World - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203303/20330315.jpg?version=20200618144504.0",
+      "uid": { "bugs": "31936725", "genie": "90351534", "melon": "32660132" }
+    },
+    {
+      "title": "We go nanana (幸福遇見)",
+      "artist": "WayV",
+      "album": "Take Over The Moon - The 2nd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202851/20285101.jpg?version=20191102003452.0",
+      "uid": { "bugs": "31735503", "genie": "89505752", "melon": "32132119" }
+    },
+    {
+      "title": "Unbreakable (執迷)",
+      "artist": "WayV",
+      "album": "Awaken The World - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203303/20330315.jpg?version=20200618144504.0",
+      "uid": { "bugs": "31936722", "genie": "90351531", "melon": "32660129" }
+    },
+    {
+      "title": "Love Talk (秘語)",
+      "artist": "WayV",
+      "album": "Take Over The Moon - The 2nd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202851/20285101.jpg?version=20191102003452.0",
+      "uid": { "bugs": "31735500", "genie": "89505749", "melon": "32132116" }
+    },
+    {
+      "title": "Up From Here (浪漫發酵)",
+      "artist": "WayV",
+      "album": "Awaken The World - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203303/20330315.jpg?version=20200618144504.0",
+      "uid": { "bugs": "31936727", "genie": "90351536", "melon": "32660134" }
+    },
+    {
+      "title": "Face to Face (面對面)",
+      "artist": "WayV",
+      "album": "Take Over The Moon - The 2nd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202851/20285101.jpg?version=20191102003452.0",
+      "uid": { "bugs": "31735502", "genie": "89505751", "melon": "32132118" }
+    },
+    {
+      "title": "King of Hearts (心心相癮)",
+      "artist": "WayV",
+      "album": "Take Over The Moon - The 2nd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202851/20285101.jpg?version=20191102003452.0",
+      "uid": { "bugs": "31735501", "genie": "89505750", "melon": "32132117" }
+    },
+    {
+      "title": "Say It",
+      "artist": "WayV",
+      "album": "Take Off - The 1st Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202519/20251989.jpg?version=20190510160514.0",
+      "uid": { "bugs": "31579043", "genie": "88908278", "melon": "31782961" }
+    },
+    {
+      "title": "Dream Launch",
+      "artist": "WayV",
+      "album": "Take Off - The 1st Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202519/20251989.jpg?version=20210114150035.0",
+      "uid": { "bugs": "31579046", "genie": "88908281", "melon": "31782964" }
+    },
+    {
+      "title": "Yeah Yeah Yeah (黑夜日出)",
+      "artist": "WayV",
+      "album": "Take Over The Moon - The 2nd Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202851/20285101.jpg?version=20191102003452.0",
+      "uid": { "bugs": "31735499", "genie": "89505748", "melon": "32132115" }
+    },
+    {
+      "title": "Interlude: Awaken The World",
+      "artist": "WayV",
+      "album": "Awaken The World - The 1st Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/203303/20330315.jpg?version=20200618144504.0",
+      "uid": { "bugs": "31936724", "genie": "90351533", "melon": "32660131" }
+    },
+    {
+      "title": "Regular",
+      "artist": "WayV",
+      "album": "Take Off - The 1st Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202519/20251989.jpg?version=20190510160514.0",
+      "uid": { "bugs": "31579042", "genie": "88908277", "melon": "31782960" }
+    },
+    {
+      "title": "Come Back",
+      "artist": "WayV",
+      "album": "Take Off - The 1st Mini Album",
+      "image": "https://image.bugsm.co.kr/album/images/50/202519/20251989.jpg?version=20190510160514.0",
+      "uid": { "bugs": "31579044", "genie": "88908279", "melon": "31782962" }
+    },
+    {
+      "title": "Back To You (English Ver.)",
+      "artist": "WayV-KUN&XIAOJUN",
+      "album": "Back To You",
+      "image": "https://image.bugsm.co.kr/album/images/50/204032/20403212.jpg?version=20210624005636.0",
+      "uid": { "bugs": "32260706", "genie": "93557708", "melon": "33584264" }
+    },
+    {
+      "title": "这时烟火 (Back To You)",
+      "artist": "WayV-KUN&XIAOJUN",
+      "album": "Back To You",
+      "image": "https://image.bugsm.co.kr/album/images/50/204032/20403212.jpg?version=20210624005636.0",
+      "uid": { "bugs": "32260704", "genie": "93557706", "melon": "33584262" }
+    },
+    {
+      "title": "夜未眠 (Sleepless)",
+      "artist": "WayV-KUN&XIAOJUN",
+      "album": "Back To You",
+      "image": "https://image.bugsm.co.kr/album/images/50/204032/20403212.jpg?version=20210624005636.0",
+      "uid": { "bugs": "32260705", "genie": "93557707", "melon": "33584263" }
+    },
+    {
+      "title": "Low Low",
+      "artist": "WayV-TEN&YANGYANG",
+      "album": "Low Low",
+      "image": "https://image.bugsm.co.kr/album/images/50/204156/20415618.jpg?version=20210818003415.0",
+      "uid": { "bugs": "32313859", "genie": "94055846", "melon": "33811232" }
+    },
+    {
+      "title": "Beam Me Up",
+      "artist": "Wayv Dej",
+      "album": "Beam Me Up",
+      "image": "https://image.bugsm.co.kr/album/images/50/112875/11287565.jpg?version=20190226011339.0",
+      "uid": { "bugs": "27048357" }
+    },
+    {
+      "title": "Everytime",
+      "artist": "WayV",
+      "album": "Falling Into Your Smile (OST)",
+      "uid": { "genie": "93872464", "melon": "33740630" }
+    },
+    {
+      "title": "Gasoline",
+      "artist": "New Wayv",
+      "album": "Gasoline",
+      "uid": { "melon": "21997772" }
+    }
+  ]
+}

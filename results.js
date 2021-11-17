@@ -16,6 +16,7 @@ let tags = [];
 let unusedTags = [];
 let songs = [];
 let songsCnt;
+const container = document.querySelector('.itemContainer');
 const LP = document.querySelector('.LP__black');
 const song0 = document.querySelector('.song0');
 const song1 = document.querySelector('.song1');
@@ -229,22 +230,17 @@ function findTaggedSongs(songs) {
 }
 
 // 5. 찾은 노래들 보여주기
-// json 수정 후 수정 필요
 function createHTMLItem(song) {
   if (Object.keys(song).length === 0) {
     return '';
   }
-  const title = song.song ? song.song : song.Song; // 태그 수정 필요
-  const image = song.image ? song.image : song.Image;
-  const artist = song.artist ? song.artist : song.Artist;
-  const album = song.album ? song.album : song.Album;
 
   const HTMLtext = `
-          <img class="image" src="${image}"></img>
+          <img class="image" src="${song.image}"></img>
           <div class="description">
-            <div class="title">${title}</div>
-            <div class="artist">${artist}</div>
-            <div class="album">${album}</div>
+            <div class="title">${song.title}</div>
+            <div class="artist">${song.artist}</div>
+            <div class="album">${song.album}</div>
           </div>
   `;
   //${tagCnt}/${tags.length}
@@ -257,10 +253,13 @@ function displaySongs(songs) {
     Object.keys(songs).length
   }개의 곡을 추천합니다`;
 
-  // const container = document.querySelector('.itemContainer');
-  // Object.values(songs).forEach(song => {
-  //   container.appendChild(createHTMLItem(song, song.tagCnt));
-  // });
+  Object.values(songs).forEach(song => {
+    var div = document.createElement('div');
+    div.innerHTML = createHTMLItem(song); // album 지우고 넣기만 하ㅕㄴ 될듯
+    div.classList.add('containerLine');
+    container.appendChild(div);
+  });
+
   return songs;
 }
 
@@ -270,7 +269,7 @@ function allocateSongs(completed_songs) {
 
   songs.unshift({}, {}, {});
   songs.push({}, {}, {});
-  console.log(songsCnt, songs);
+  // console.log(songsCnt, songs);
 }
 
 function initLP() {
@@ -362,6 +361,7 @@ function toggleActiveOut() {
   song6.classList.toggle('active_out');
 }
 
+// 스크롤 이벤트
 let cnt = 0;
 function zoom(event) {
   cnt++;
@@ -383,3 +383,68 @@ function zoom(event) {
   }
 }
 document.onwheel = zoom;
+
+// --------------------------------------
+// 링크 클릭 이벤트
+// uid 준비
+function connectUid(site) {
+  let uids = '';
+  let operator = ';';
+
+  site === 'melon' && (operator = ',');
+  site === 'genie' && (operator = ';');
+  site === 'bugs' && (operator = ',');
+  site === 'flo' && (operator = '|');
+  site === 'vibe' && (operator = '|');
+  site === 'youtube' && (operator = '|');
+
+  songs.forEach(song => {
+    Object.keys(song).length && (uids += song.uid[site] + operator);
+  });
+  console.log(`선택곡: ${uids}`);
+  return uids;
+}
+
+// 멜론 연결
+const melon = document.querySelector('.musicLink__melon');
+melon.addEventListener('click', () => {
+  console.log(`melon clicked`);
+  melon.href = 'melonplayer://play?menuid=0&cflag=1&cid=' + connectUid('melon'); // MAC
+  // melon.href = 'melonapp://play?cType=1&cList=' + connectUid('melon');       // Windows
+});
+
+// 지니 연결
+const genie = document.querySelector('.musicLink__genie');
+genie.addEventListener('click', () => {
+  genie.href =
+    'https://www.genie.co.kr/player/shareProcessV2?xgnm=' + connectUid('genie');
+});
+
+// 벅스 연결
+const bugs = document.querySelector('.musicLink__bugs');
+bugs.addEventListener('click', () => {
+  bugs.href =
+    'https://music.bugs.co.kr/newPlayer?trackId=' + connectUid('bugs');
+});
+
+// 플로 연결 - 이미지 다운
+const flo = document.querySelector('.musicLink__flo');
+flo.addEventListener('click', () => {
+  // alert(`이미지 다운?`);
+  domtoimage.toBlob(container).then(function (blob) {
+    window.saveAs(blob, 'LP.png');
+  });
+});
+
+// 바이브 연결 - 웹 버전 X
+const vibe = document.querySelector('.musicLink__vibe');
+vibe.addEventListener('click', () => {
+  connectUid('vibe');
+  alert('웹 버전 지원하지 않습니다.');
+});
+
+// 유튜브뮤직 연결
+const youtube = document.querySelector('.musicLink__youtube');
+youtube.addEventListener('click', () => {
+  connectUid('youtube');
+});

@@ -35,10 +35,11 @@ async function fetchNCTJSON() {
 function findMatches(wordToMatch, json) {
   return json.filter(song => {
     const regex = new RegExp('^' + wordToMatch, 'gi'); // '^' : 해당 문자로 시작하는 문자열만 탐색 -> 무한적아 같은거 못함
-    return (
-      (song.Song && song.Song.match(regex)) ||
-      (song.song && song.song.match(regex))
-    ); // 태그 수정 후 수정 필요
+    return song.title.match(regex);
+    // (
+    //   (song.Song && song.Song.match(regex)) ||
+    //   (song.song && song.song.match(regex))
+    // ); // 태그 수정 후 수정 필요
   });
 }
 
@@ -57,13 +58,13 @@ function displayInputValue() {
 }
 searchInput.addEventListener('input', displayInputValue);
 
-function createHTMLItem(idx, song, image, artist) {
+function createHTMLItem(idx, title, image, artist) {
   const item = document.createElement('li');
   item.innerHTML = `
     <div class="musicItem" data-id="${idx}">
       <img src="${image}" alt="thumbnail" class="item__thumbnail" />
       <div class="item__right" />
-        <div class="item__right__title">${song}</div>
+        <div class="item__right__title">${title}</div>
         <div class="item__right__artist">${artist}</div>
       </div>
     </div>
@@ -74,10 +75,10 @@ function createHTMLItem(idx, song, image, artist) {
 function fillSearch(suggestArr) {
   ul.innerHTML = '';
   suggestArr.forEach((el, idx) => {
-    const song = el.song ? el.song : el.Song; // 태그 수정 필요
-    const image = el.image ? el.image : el.Image;
-    const artist = el.artist ? el.artist : el.Artist;
-    const item = createHTMLItem(idx, song, image, artist);
+    const title = el.title;
+    const image = el.image;
+    const artist = el.artist;
+    const item = createHTMLItem(idx, title, image, artist);
     ul.appendChild(item);
   });
 }

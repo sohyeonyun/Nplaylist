@@ -2,9 +2,9 @@ const results = document.querySelector('.results__content');
 const item = document.querySelector('.results__content');
 
 function createHTMLItem(data) {
-  const title = data.song ? data.song : data.Song; // 태그 수정 필요
-  const image = data.image ? data.image : data.Image;
-  const artist = data.artist ? data.artist : data.Artist;
+  const title = data.title;
+  const image = data.image;
+  const artist = data.artist;
 
   item.innerHTML = `
       <div class="musicItem">

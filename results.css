@@ -23,9 +23,9 @@
   --font-bigDiv-description: 17px;
   --font-bigDiv-artist: 10px;
   --font-bigDiv-album: 12px;
-  --font-smallDiv: 12px;
+  --font-smallDiv: 13px;
   --font-smallDiv-description: 12px;
-  --font-smallDiv-album: 10px;
+  --font-smallDiv-album: 8px;
 
   /* Font weight */
   --weight-black: 900;
@@ -522,4 +522,16 @@ button {
     top: 33%;
     left: 80%;
   }
+}
+
+/* Container for FLO Image */
+.itemContainer {
+  width: 500px;
+}
+
+.containerLine {
+  display: flex;
+  background-color: white;
+  color: black;
+  margin-bottom: 10px;
 }
